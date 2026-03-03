@@ -1,4 +1,4 @@
-# Work Field Correlation Matrix (danube.ai TASK-02/2026)
+# Work Field Correlation Matrix
 
 ## Background & Objective
 danube.ai maintains a curated catalogue of 180 occupational work fields used across its matching and recommendation
