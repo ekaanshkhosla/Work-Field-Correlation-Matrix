@@ -63,23 +63,21 @@ This design makes it easy to retrieve the **top related work fields for any give
 
 ### 1) Create and activate an environment
 
+```
 conda create -n danube-corr python=3.11 -y
 conda activate danube-corr
+````
 
 ### 2) Install dependencies
 
+````
 pip install -r requirements.txt
+````
 
-(Optional if using notebook)
-
-pip install notebook ipykernel
-python -m ipykernel install --user --name danube-corr --display-name "Python (danube-corr)"
 
 ### 3) Run the generator
 
-python generate_matrix.py
-
-or run all cells in `generate_matrix.ipynb`.
+run all cells in `generate_matrix.ipynb`.
 
 ### 4) Output
 After running, the file
