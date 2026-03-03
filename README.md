@@ -1,9 +1,10 @@
 # Work Field Correlation Matrix (danube.ai TASK-02/2026)
 
-## Objective
-Create a meaningful correlation matrix for danube.ai’s catalogue of **180 occupational work fields**.
-Each work field contains German and English labels and a unique `correlationMatrixId`.
-The goal is to compute **pairwise similarity** between work fields and export a **JSON array of matrix cells** that:
+## Background & Objective
+danube.ai maintains a curated catalogue of 180 occupational work fields used across its matching and recommendation
+platform. Each field carries a short code and both German and English labels. Your task is to derive a meaningful
+correlation matrix over these fields, quantifying how similar any two fields are, and export it as a structured JSON file ready
+for downstream consumption.
 
 
 ---
