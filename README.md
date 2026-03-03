@@ -12,7 +12,7 @@ for downstream consumption.
 ## Repository Contents
 - `work_fields.json` — input data (original, unmodified)
 - `generate_matrix.ipynb` — notebook to compute and export the matrix
-- `correlation_matrix.json` — generated output (upper triangle + diagonal)
+- `correlation_matrix.json` — generated output
 - `requirements.txt` — Requirements
 - `Explanation for adding duplicates.pdf` — Explanation for adding duplicates in solution
 - `README.md` — Description
