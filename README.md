@@ -22,7 +22,9 @@ This solution computes text embeddings for each work field label (German + Engli
 ### 1) Text representation
 For each entry, a combined text is created:
 
+````
 "{nameDe} (DE), {nameEn} (EN)"
+````
 
 This keeps both languages and explicitly tags them.
 
@@ -35,9 +37,10 @@ Embeddings are produced using Sentence Transformers:
 ### 3) Similarity computation
 A full pairwise cosine similarity matrix is computed:
 
+````
 sim_matrix = cosine_similarity(embeddings).astype(np.float64)
+````
 
-The float64 cast avoids serialization issues later and keeps scores stable.
 
 ### 4) Top-K selection and ranking
 For each work field `code1`:
@@ -51,7 +54,7 @@ For each work field `code1`:
 ### 5) Output rows (duplicates by design)
 The output stores one top-10 list per work field, meaning the JSON contains:
 
-- exactly `n * 10` rows (for 180 fields → 1800 rows)
+- exactly `n * 10` objects (for 180 fields → 1800 objects)
 - entries can appear in both directions, e.g.:
   - (A → B) and (B → A)
 
