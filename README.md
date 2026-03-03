@@ -14,6 +14,7 @@ for downstream consumption.
 - `generate_matrix.ipynb` — notebook to compute and export the matrix
 - `correlation_matrix.json` — generated output (upper triangle + diagonal)
 - `requirements.txt` — Requirements
+- `Explanation for adding duplicates.pdf` — Explanation for adding duplicates in solution
 - `README.md` — Description
 
 ---
