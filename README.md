@@ -23,7 +23,7 @@ This solution computes text embeddings for each work field label (German + Engli
 For each entry, a combined text is created:
 
 ````
-"{nameDe} (DE), {nameEn} (EN)"
+f"{nameDe} (DE), {nameEn} (EN)"
 ````
 
 This keeps both languages and explicitly tags them.
