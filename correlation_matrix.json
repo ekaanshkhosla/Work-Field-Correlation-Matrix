@@ -1,0 +1,10802 @@
+[
+  {
+    "code1": "w_tele",
+    "code2": "w_tele",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_tele",
+    "code2": "w_comm",
+    "value": 9,
+    "score": 0.731456
+  },
+  {
+    "code1": "w_tele",
+    "code2": "w_nwde",
+    "value": 8,
+    "score": 0.684968
+  },
+  {
+    "code1": "w_tele",
+    "code2": "w_nwa",
+    "value": 7,
+    "score": 0.671015
+  },
+  {
+    "code1": "w_tele",
+    "code2": "w_sete",
+    "value": 6,
+    "score": 0.651875
+  },
+  {
+    "code1": "w_tele",
+    "code2": "w_info",
+    "value": 5,
+    "score": 0.610524
+  },
+  {
+    "code1": "w_tele",
+    "code2": "w_illumi",
+    "value": 4,
+    "score": 0.603732
+  },
+  {
+    "code1": "w_tele",
+    "code2": "w_elec",
+    "value": 3,
+    "score": 0.592498
+  },
+  {
+    "code1": "w_tele",
+    "code2": "w_cust",
+    "value": 2,
+    "score": 0.585693
+  },
+  {
+    "code1": "w_tele",
+    "code2": "w_deli",
+    "value": 1,
+    "score": 0.580326
+  },
+  {
+    "code1": "w_sale",
+    "code2": "w_sale",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_sale",
+    "code2": "w_sama",
+    "value": 9,
+    "score": 0.88249
+  },
+  {
+    "code1": "w_sale",
+    "code2": "w_retai",
+    "value": 8,
+    "score": 0.866073
+  },
+  {
+    "code1": "w_sale",
+    "code2": "w_safo",
+    "value": 7,
+    "score": 0.83091
+  },
+  {
+    "code1": "w_sale",
+    "code2": "w_purch",
+    "value": 6,
+    "score": 0.824471
+  },
+  {
+    "code1": "w_sale",
+    "code2": "w_prod",
+    "value": 5,
+    "score": 0.806694
+  },
+  {
+    "code1": "w_sale",
+    "code2": "w_sain",
+    "value": 4,
+    "score": 0.792151
+  },
+  {
+    "code1": "w_sale",
+    "code2": "w_ware",
+    "value": 3,
+    "score": 0.790772
+  },
+  {
+    "code1": "w_sale",
+    "code2": "w_mark",
+    "value": 2,
+    "score": 0.785302
+  },
+  {
+    "code1": "w_sale",
+    "code2": "w_illumi",
+    "value": 1,
+    "score": 0.764145
+  },
+  {
+    "code1": "w_impo",
+    "code2": "w_impo",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_impo",
+    "code2": "w_expo",
+    "value": 9,
+    "score": 0.80357
+  },
+  {
+    "code1": "w_impo",
+    "code2": "w_trans",
+    "value": 8,
+    "score": 0.652377
+  },
+  {
+    "code1": "w_impo",
+    "code2": "w_purch",
+    "value": 7,
+    "score": 0.537205
+  },
+  {
+    "code1": "w_impo",
+    "code2": "w_prod",
+    "value": 6,
+    "score": 0.505465
+  },
+  {
+    "code1": "w_impo",
+    "code2": "w_sale",
+    "value": 5,
+    "score": 0.501783
+  },
+  {
+    "code1": "w_impo",
+    "code2": "w_aana",
+    "value": 4,
+    "score": 0.501103
+  },
+  {
+    "code1": "w_impo",
+    "code2": "w_cont",
+    "value": 3,
+    "score": 0.499442
+  },
+  {
+    "code1": "w_impo",
+    "code2": "w_ebus",
+    "value": 2,
+    "score": 0.48523
+  },
+  {
+    "code1": "w_impo",
+    "code2": "w_frei",
+    "value": 1,
+    "score": 0.48224
+  },
+  {
+    "code1": "w_whkus",
+    "code2": "w_whkus",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_whkus",
+    "code2": "w_cust",
+    "value": 9,
+    "score": 0.734343
+  },
+  {
+    "code1": "w_whkus",
+    "code2": "w_sama",
+    "value": 8,
+    "score": 0.707581
+  },
+  {
+    "code1": "w_whkus",
+    "code2": "w_train",
+    "value": 7,
+    "score": 0.691927
+  },
+  {
+    "code1": "w_whkus",
+    "code2": "w_sain",
+    "value": 6,
+    "score": 0.666521
+  },
+  {
+    "code1": "w_whkus",
+    "code2": "w_pera",
+    "value": 5,
+    "score": 0.666501
+  },
+  {
+    "code1": "w_whkus",
+    "code2": "w_busi",
+    "value": 4,
+    "score": 0.662605
+  },
+  {
+    "code1": "w_whkus",
+    "code2": "w_safo",
+    "value": 3,
+    "score": 0.647927
+  },
+  {
+    "code1": "w_whkus",
+    "code2": "w_recru",
+    "value": 2,
+    "score": 0.646773
+  },
+  {
+    "code1": "w_whkus",
+    "code2": "w_sale",
+    "value": 1,
+    "score": 0.634824
+  },
+  {
+    "code1": "w_pers",
+    "code2": "w_pers",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_pers",
+    "code2": "w_hrdev",
+    "value": 9,
+    "score": 0.898642
+  },
+  {
+    "code1": "w_pers",
+    "code2": "w_pera",
+    "value": 8,
+    "score": 0.786316
+  },
+  {
+    "code1": "w_pers",
+    "code2": "w_recru",
+    "value": 7,
+    "score": 0.724903
+  },
+  {
+    "code1": "w_pers",
+    "code2": "w_org",
+    "value": 6,
+    "score": 0.651552
+  },
+  {
+    "code1": "w_pers",
+    "code2": "w_cust",
+    "value": 5,
+    "score": 0.648708
+  },
+  {
+    "code1": "w_pers",
+    "code2": "w_soci",
+    "value": 4,
+    "score": 0.630404
+  },
+  {
+    "code1": "w_pers",
+    "code2": "w_payr",
+    "value": 3,
+    "score": 0.623822
+  },
+  {
+    "code1": "w_pers",
+    "code2": "w_admin",
+    "value": 2,
+    "score": 0.620255
+  },
+  {
+    "code1": "w_pers",
+    "code2": "w_offi",
+    "value": 1,
+    "score": 0.613653
+  },
+  {
+    "code1": "w_info",
+    "code2": "w_info",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_info",
+    "code2": "w_syen",
+    "value": 9,
+    "score": 0.735627
+  },
+  {
+    "code1": "w_info",
+    "code2": "w_elec",
+    "value": 8,
+    "score": 0.704461
+  },
+  {
+    "code1": "w_info",
+    "code2": "w_desig",
+    "value": 7,
+    "score": 0.703652
+  },
+  {
+    "code1": "w_info",
+    "code2": "w_civil",
+    "value": 6,
+    "score": 0.695693
+  },
+  {
+    "code1": "w_info",
+    "code2": "w_energ",
+    "value": 5,
+    "score": 0.66862
+  },
+  {
+    "code1": "w_info",
+    "code2": "w_techpur",
+    "value": 4,
+    "score": 0.66432
+  },
+  {
+    "code1": "w_info",
+    "code2": "w_comm",
+    "value": 3,
+    "score": 0.65556
+  },
+  {
+    "code1": "w_info",
+    "code2": "w_itcon",
+    "value": 2,
+    "score": 0.655099
+  },
+  {
+    "code1": "w_info",
+    "code2": "w_seng",
+    "value": 1,
+    "score": 0.650372
+  },
+  {
+    "code1": "w_medas",
+    "code2": "w_medas",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_medas",
+    "code2": "w_ass",
+    "value": 9,
+    "score": 0.762626
+  },
+  {
+    "code1": "w_medas",
+    "code2": "w_medic",
+    "value": 8,
+    "score": 0.733523
+  },
+  {
+    "code1": "w_medas",
+    "code2": "w_doc",
+    "value": 7,
+    "score": 0.73081
+  },
+  {
+    "code1": "w_medas",
+    "code2": "w_hospital",
+    "value": 6,
+    "score": 0.709128
+  },
+  {
+    "code1": "w_medas",
+    "code2": "w_medte",
+    "value": 5,
+    "score": 0.695296
+  },
+  {
+    "code1": "w_medas",
+    "code2": "w_ther",
+    "value": 4,
+    "score": 0.668252
+  },
+  {
+    "code1": "w_medas",
+    "code2": "w_nurse",
+    "value": 3,
+    "score": 0.661704
+  },
+  {
+    "code1": "w_medas",
+    "code2": "w_klifo",
+    "value": 2,
+    "score": 0.629432
+  },
+  {
+    "code1": "w_medas",
+    "code2": "w_phar",
+    "value": 1,
+    "score": 0.573996
+  },
+  {
+    "code1": "w_doc",
+    "code2": "w_doc",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_doc",
+    "code2": "w_medte",
+    "value": 9,
+    "score": 0.876447
+  },
+  {
+    "code1": "w_doc",
+    "code2": "w_medic",
+    "value": 8,
+    "score": 0.862714
+  },
+  {
+    "code1": "w_doc",
+    "code2": "w_klifo",
+    "value": 7,
+    "score": 0.770704
+  },
+  {
+    "code1": "w_doc",
+    "code2": "w_ther",
+    "value": 6,
+    "score": 0.74495
+  },
+  {
+    "code1": "w_doc",
+    "code2": "w_medas",
+    "value": 5,
+    "score": 0.73081
+  },
+  {
+    "code1": "w_doc",
+    "code2": "w_nurse",
+    "value": 4,
+    "score": 0.693369
+  },
+  {
+    "code1": "w_doc",
+    "code2": "w_hospital",
+    "value": 3,
+    "score": 0.684932
+  },
+  {
+    "code1": "w_doc",
+    "code2": "w_natur",
+    "value": 2,
+    "score": 0.654616
+  },
+  {
+    "code1": "w_doc",
+    "code2": "w_veter",
+    "value": 1,
+    "score": 0.64974
+  },
+  {
+    "code1": "w_sani",
+    "code2": "w_sani",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_sani",
+    "code2": "w_deli",
+    "value": 9,
+    "score": 0.606711
+  },
+  {
+    "code1": "w_sani",
+    "code2": "w_home",
+    "value": 8,
+    "score": 0.596216
+  },
+  {
+    "code1": "w_sani",
+    "code2": "w_secu",
+    "value": 7,
+    "score": 0.595642
+  },
+  {
+    "code1": "w_sani",
+    "code2": "w_sain",
+    "value": 6,
+    "score": 0.593871
+  },
+  {
+    "code1": "w_sani",
+    "code2": "w_cust",
+    "value": 5,
+    "score": 0.573024
+  },
+  {
+    "code1": "w_sani",
+    "code2": "w_cc",
+    "value": 4,
+    "score": 0.55
+  },
+  {
+    "code1": "w_sani",
+    "code2": "w_ass",
+    "value": 3,
+    "score": 0.54704
+  },
+  {
+    "code1": "w_sani",
+    "code2": "w_sete",
+    "value": 2,
+    "score": 0.543961
+  },
+  {
+    "code1": "w_sani",
+    "code2": "w_safo",
+    "value": 1,
+    "score": 0.543645
+  },
+  {
+    "code1": "w_wood",
+    "code2": "w_wood",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_wood",
+    "code2": "w_craft",
+    "value": 9,
+    "score": 0.712699
+  },
+  {
+    "code1": "w_wood",
+    "code2": "w_stone",
+    "value": 8,
+    "score": 0.687323
+  },
+  {
+    "code1": "w_wood",
+    "code2": "w_tool",
+    "value": 7,
+    "score": 0.642141
+  },
+  {
+    "code1": "w_wood",
+    "code2": "w_mate",
+    "value": 6,
+    "score": 0.624049
+  },
+  {
+    "code1": "w_wood",
+    "code2": "w_mash",
+    "value": 5,
+    "score": 0.609615
+  },
+  {
+    "code1": "w_wood",
+    "code2": "w_statics",
+    "value": 4,
+    "score": 0.607464
+  },
+  {
+    "code1": "w_wood",
+    "code2": "w_fabr",
+    "value": 3,
+    "score": 0.596336
+  },
+  {
+    "code1": "w_wood",
+    "code2": "w_metal",
+    "value": 2,
+    "score": 0.590078
+  },
+  {
+    "code1": "w_wood",
+    "code2": "w_ware",
+    "value": 1,
+    "score": 0.579762
+  },
+  {
+    "code1": "w_payr",
+    "code2": "w_payr",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_payr",
+    "code2": "w_book",
+    "value": 9,
+    "score": 0.663179
+  },
+  {
+    "code1": "w_payr",
+    "code2": "w_bank",
+    "value": 8,
+    "score": 0.646058
+  },
+  {
+    "code1": "w_payr",
+    "code2": "w_house",
+    "value": 7,
+    "score": 0.631397
+  },
+  {
+    "code1": "w_payr",
+    "code2": "w_pers",
+    "value": 6,
+    "score": 0.623822
+  },
+  {
+    "code1": "w_payr",
+    "code2": "w_ware",
+    "value": 5,
+    "score": 0.60792
+  },
+  {
+    "code1": "w_payr",
+    "code2": "w_acco",
+    "value": 4,
+    "score": 0.599245
+  },
+  {
+    "code1": "w_payr",
+    "code2": "w_train",
+    "value": 3,
+    "score": 0.590472
+  },
+  {
+    "code1": "w_payr",
+    "code2": "w_lab",
+    "value": 2,
+    "score": 0.589443
+  },
+  {
+    "code1": "w_payr",
+    "code2": "w_notar",
+    "value": 1,
+    "score": 0.582968
+  },
+  {
+    "code1": "w_cc",
+    "code2": "w_cc",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_cc",
+    "code2": "w_maint",
+    "value": 9,
+    "score": 0.695541
+  },
+  {
+    "code1": "w_cc",
+    "code2": "w_sete",
+    "value": 8,
+    "score": 0.688314
+  },
+  {
+    "code1": "w_cc",
+    "code2": "w_ass",
+    "value": 7,
+    "score": 0.674939
+  },
+  {
+    "code1": "w_cc",
+    "code2": "w_emb",
+    "value": 6,
+    "score": 0.628327
+  },
+  {
+    "code1": "w_cc",
+    "code2": "w_swe",
+    "value": 5,
+    "score": 0.603338
+  },
+  {
+    "code1": "w_cc",
+    "code2": "w_hw",
+    "value": 4,
+    "score": 0.600687
+  },
+  {
+    "code1": "w_cc",
+    "code2": "w_seng",
+    "value": 3,
+    "score": 0.594011
+  },
+  {
+    "code1": "w_cc",
+    "code2": "w_presa",
+    "value": 2,
+    "score": 0.585846
+  },
+  {
+    "code1": "w_cc",
+    "code2": "w_ar",
+    "value": 1,
+    "score": 0.585212
+  },
+  {
+    "code1": "w_mare",
+    "code2": "w_mare",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_mare",
+    "code2": "w_sale",
+    "value": 9,
+    "score": 0.71298
+  },
+  {
+    "code1": "w_mare",
+    "code2": "w_mark",
+    "value": 8,
+    "score": 0.6744
+  },
+  {
+    "code1": "w_mare",
+    "code2": "w_ana",
+    "value": 7,
+    "score": 0.672983
+  },
+  {
+    "code1": "w_mare",
+    "code2": "w_retai",
+    "value": 6,
+    "score": 0.644541
+  },
+  {
+    "code1": "w_mare",
+    "code2": "w_sama",
+    "value": 5,
+    "score": 0.629039
+  },
+  {
+    "code1": "w_mare",
+    "code2": "w_purch",
+    "value": 4,
+    "score": 0.620983
+  },
+  {
+    "code1": "w_mare",
+    "code2": "w_ware",
+    "value": 3,
+    "score": 0.618163
+  },
+  {
+    "code1": "w_mare",
+    "code2": "w_safo",
+    "value": 2,
+    "score": 0.603527
+  },
+  {
+    "code1": "w_mare",
+    "code2": "w_prod",
+    "value": 1,
+    "score": 0.600027
+  },
+  {
+    "code1": "w_mate",
+    "code2": "w_mate",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_mate",
+    "code2": "w_statics",
+    "value": 9,
+    "score": 0.836546
+  },
+  {
+    "code1": "w_mate",
+    "code2": "w_craft",
+    "value": 8,
+    "score": 0.820503
+  },
+  {
+    "code1": "w_mate",
+    "code2": "w_archi",
+    "value": 7,
+    "score": 0.758925
+  },
+  {
+    "code1": "w_mate",
+    "code2": "w_synth",
+    "value": 6,
+    "score": 0.701209
+  },
+  {
+    "code1": "w_mate",
+    "code2": "w_const",
+    "value": 5,
+    "score": 0.69221
+  },
+  {
+    "code1": "w_mate",
+    "code2": "w_scie",
+    "value": 4,
+    "score": 0.689721
+  },
+  {
+    "code1": "w_mate",
+    "code2": "w_mash",
+    "value": 3,
+    "score": 0.633792
+  },
+  {
+    "code1": "w_mate",
+    "code2": "w_civil",
+    "value": 2,
+    "score": 0.625991
+  },
+  {
+    "code1": "w_mate",
+    "code2": "w_stone",
+    "value": 1,
+    "score": 0.625759
+  },
+  {
+    "code1": "w_adve",
+    "code2": "w_adve",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_adve",
+    "code2": "w_illumi",
+    "value": 9,
+    "score": 0.930408
+  },
+  {
+    "code1": "w_adve",
+    "code2": "w_mark",
+    "value": 8,
+    "score": 0.88727
+  },
+  {
+    "code1": "w_adve",
+    "code2": "w_onlma",
+    "value": 7,
+    "score": 0.713355
+  },
+  {
+    "code1": "w_adve",
+    "code2": "w_sale",
+    "value": 6,
+    "score": 0.686203
+  },
+  {
+    "code1": "w_adve",
+    "code2": "w_comm",
+    "value": 5,
+    "score": 0.672395
+  },
+  {
+    "code1": "w_adve",
+    "code2": "w_pr",
+    "value": 4,
+    "score": 0.670764
+  },
+  {
+    "code1": "w_adve",
+    "code2": "w_sama",
+    "value": 3,
+    "score": 0.655656
+  },
+  {
+    "code1": "w_adve",
+    "code2": "w_safo",
+    "value": 2,
+    "score": 0.639439
+  },
+  {
+    "code1": "w_adve",
+    "code2": "w_retai",
+    "value": 1,
+    "score": 0.629226
+  },
+  {
+    "code1": "w_asset",
+    "code2": "w_asset",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_asset",
+    "code2": "w_inves",
+    "value": 9,
+    "score": 0.883294
+  },
+  {
+    "code1": "w_asset",
+    "code2": "w_riskm",
+    "value": 8,
+    "score": 0.712568
+  },
+  {
+    "code1": "w_asset",
+    "code2": "w_acco",
+    "value": 7,
+    "score": 0.705355
+  },
+  {
+    "code1": "w_asset",
+    "code2": "w_sectr",
+    "value": 6,
+    "score": 0.697166
+  },
+  {
+    "code1": "w_asset",
+    "code2": "w_keyacc",
+    "value": 5,
+    "score": 0.690819
+  },
+  {
+    "code1": "w_asset",
+    "code2": "w_con",
+    "value": 4,
+    "score": 0.665479
+  },
+  {
+    "code1": "w_asset",
+    "code2": "w_audit",
+    "value": 3,
+    "score": 0.655118
+  },
+  {
+    "code1": "w_asset",
+    "code2": "w_ana",
+    "value": 2,
+    "score": 0.642211
+  },
+  {
+    "code1": "w_asset",
+    "code2": "w_busi",
+    "value": 1,
+    "score": 0.639692
+  },
+  {
+    "code1": "w_safety",
+    "code2": "w_safety",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_safety",
+    "code2": "w_civil",
+    "value": 9,
+    "score": 0.715392
+  },
+  {
+    "code1": "w_safety",
+    "code2": "w_const",
+    "value": 8,
+    "score": 0.649453
+  },
+  {
+    "code1": "w_safety",
+    "code2": "w_mash",
+    "value": 7,
+    "score": 0.644789
+  },
+  {
+    "code1": "w_safety",
+    "code2": "w_techpur",
+    "value": 6,
+    "score": 0.643878
+  },
+  {
+    "code1": "w_safety",
+    "code2": "w_riskm",
+    "value": 5,
+    "score": 0.642067
+  },
+  {
+    "code1": "w_safety",
+    "code2": "w_plant",
+    "value": 4,
+    "score": 0.640636
+  },
+  {
+    "code1": "w_safety",
+    "code2": "w_insu",
+    "value": 3,
+    "score": 0.634611
+  },
+  {
+    "code1": "w_safety",
+    "code2": "w_elec",
+    "value": 2,
+    "score": 0.63054
+  },
+  {
+    "code1": "w_safety",
+    "code2": "w_desig",
+    "value": 1,
+    "score": 0.629597
+  },
+  {
+    "code1": "w_web",
+    "code2": "w_web",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_web",
+    "code2": "w_desig",
+    "value": 9,
+    "score": 0.768005
+  },
+  {
+    "code1": "w_web",
+    "code2": "w_graph",
+    "value": 8,
+    "score": 0.754265
+  },
+  {
+    "code1": "w_web",
+    "code2": "w_cad",
+    "value": 7,
+    "score": 0.665148
+  },
+  {
+    "code1": "w_web",
+    "code2": "w_seng",
+    "value": 6,
+    "score": 0.631586
+  },
+  {
+    "code1": "w_web",
+    "code2": "w_swe",
+    "value": 5,
+    "score": 0.613103
+  },
+  {
+    "code1": "w_web",
+    "code2": "w_tred",
+    "value": 4,
+    "score": 0.611911
+  },
+  {
+    "code1": "w_web",
+    "code2": "w_info",
+    "value": 3,
+    "score": 0.605916
+  },
+  {
+    "code1": "w_web",
+    "code2": "w_syen",
+    "value": 2,
+    "score": 0.605623
+  },
+  {
+    "code1": "w_web",
+    "code2": "w_room",
+    "value": 1,
+    "score": 0.604217
+  },
+  {
+    "code1": "w_retai",
+    "code2": "w_retai",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_retai",
+    "code2": "w_sale",
+    "value": 9,
+    "score": 0.866073
+  },
+  {
+    "code1": "w_retai",
+    "code2": "w_whole",
+    "value": 8,
+    "score": 0.836908
+  },
+  {
+    "code1": "w_retai",
+    "code2": "w_sama",
+    "value": 7,
+    "score": 0.811733
+  },
+  {
+    "code1": "w_retai",
+    "code2": "w_purch",
+    "value": 6,
+    "score": 0.807042
+  },
+  {
+    "code1": "w_retai",
+    "code2": "w_sain",
+    "value": 5,
+    "score": 0.750149
+  },
+  {
+    "code1": "w_retai",
+    "code2": "w_ware",
+    "value": 4,
+    "score": 0.74938
+  },
+  {
+    "code1": "w_retai",
+    "code2": "w_prod",
+    "value": 3,
+    "score": 0.713673
+  },
+  {
+    "code1": "w_retai",
+    "code2": "w_safo",
+    "value": 2,
+    "score": 0.707556
+  },
+  {
+    "code1": "w_retai",
+    "code2": "w_mark",
+    "value": 1,
+    "score": 0.699717
+  },
+  {
+    "code1": "w_room",
+    "code2": "w_room",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_room",
+    "code2": "w_archi",
+    "value": 9,
+    "score": 0.722452
+  },
+  {
+    "code1": "w_room",
+    "code2": "w_const",
+    "value": 8,
+    "score": 0.659636
+  },
+  {
+    "code1": "w_room",
+    "code2": "w_street",
+    "value": 7,
+    "score": 0.651916
+  },
+  {
+    "code1": "w_room",
+    "code2": "w_craft",
+    "value": 6,
+    "score": 0.647805
+  },
+  {
+    "code1": "w_room",
+    "code2": "w_statics",
+    "value": 5,
+    "score": 0.64462
+  },
+  {
+    "code1": "w_room",
+    "code2": "w_sain",
+    "value": 4,
+    "score": 0.635515
+  },
+  {
+    "code1": "w_room",
+    "code2": "w_desig",
+    "value": 3,
+    "score": 0.630491
+  },
+  {
+    "code1": "w_room",
+    "code2": "w_civil",
+    "value": 2,
+    "score": 0.627379
+  },
+  {
+    "code1": "w_room",
+    "code2": "w_illumi",
+    "value": 1,
+    "score": 0.627323
+  },
+  {
+    "code1": "w_frei",
+    "code2": "w_frei",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_frei",
+    "code2": "w_ware",
+    "value": 9,
+    "score": 0.683252
+  },
+  {
+    "code1": "w_frei",
+    "code2": "w_deli",
+    "value": 8,
+    "score": 0.647044
+  },
+  {
+    "code1": "w_frei",
+    "code2": "w_auto",
+    "value": 7,
+    "score": 0.607526
+  },
+  {
+    "code1": "w_frei",
+    "code2": "w_tour",
+    "value": 6,
+    "score": 0.604895
+  },
+  {
+    "code1": "w_frei",
+    "code2": "w_safo",
+    "value": 5,
+    "score": 0.595086
+  },
+  {
+    "code1": "w_frei",
+    "code2": "w_space",
+    "value": 4,
+    "score": 0.588031
+  },
+  {
+    "code1": "w_frei",
+    "code2": "w_street",
+    "value": 3,
+    "score": 0.585998
+  },
+  {
+    "code1": "w_frei",
+    "code2": "w_sale",
+    "value": 2,
+    "score": 0.582809
+  },
+  {
+    "code1": "w_frei",
+    "code2": "w_techpur",
+    "value": 1,
+    "score": 0.577838
+  },
+  {
+    "code1": "w_mash",
+    "code2": "w_mash",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_mash",
+    "code2": "w_faben",
+    "value": 9,
+    "score": 0.774705
+  },
+  {
+    "code1": "w_mash",
+    "code2": "w_auto",
+    "value": 8,
+    "score": 0.757562
+  },
+  {
+    "code1": "w_mash",
+    "code2": "w_metal",
+    "value": 7,
+    "score": 0.746849
+  },
+  {
+    "code1": "w_mash",
+    "code2": "w_tool",
+    "value": 6,
+    "score": 0.735404
+  },
+  {
+    "code1": "w_mash",
+    "code2": "w_civil",
+    "value": 5,
+    "score": 0.726949
+  },
+  {
+    "code1": "w_mash",
+    "code2": "w_techpur",
+    "value": 4,
+    "score": 0.716628
+  },
+  {
+    "code1": "w_mash",
+    "code2": "w_statics",
+    "value": 3,
+    "score": 0.698744
+  },
+  {
+    "code1": "w_mash",
+    "code2": "w_elec",
+    "value": 2,
+    "score": 0.696499
+  },
+  {
+    "code1": "w_mash",
+    "code2": "w_autom",
+    "value": 1,
+    "score": 0.685232
+  },
+  {
+    "code1": "w_sain",
+    "code2": "w_sain",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_sain",
+    "code2": "w_safo",
+    "value": 9,
+    "score": 0.827318
+  },
+  {
+    "code1": "w_sain",
+    "code2": "w_cust",
+    "value": 8,
+    "score": 0.818915
+  },
+  {
+    "code1": "w_sain",
+    "code2": "w_sale",
+    "value": 7,
+    "score": 0.792151
+  },
+  {
+    "code1": "w_sain",
+    "code2": "w_sama",
+    "value": 6,
+    "score": 0.774505
+  },
+  {
+    "code1": "w_sain",
+    "code2": "w_retai",
+    "value": 5,
+    "score": 0.750149
+  },
+  {
+    "code1": "w_sain",
+    "code2": "w_ware",
+    "value": 4,
+    "score": 0.747398
+  },
+  {
+    "code1": "w_sain",
+    "code2": "w_whole",
+    "value": 3,
+    "score": 0.716529
+  },
+  {
+    "code1": "w_sain",
+    "code2": "w_illumi",
+    "value": 2,
+    "score": 0.703941
+  },
+  {
+    "code1": "w_sain",
+    "code2": "w_deli",
+    "value": 1,
+    "score": 0.700544
+  },
+  {
+    "code1": "w_itqm",
+    "code2": "w_itqm",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_itqm",
+    "code2": "w_qm",
+    "value": 9,
+    "score": 0.841287
+  },
+  {
+    "code1": "w_itqm",
+    "code2": "w_itpm",
+    "value": 8,
+    "score": 0.748812
+  },
+  {
+    "code1": "w_itqm",
+    "code2": "w_itcon",
+    "value": 7,
+    "score": 0.68473
+  },
+  {
+    "code1": "w_itqm",
+    "code2": "w_proce",
+    "value": 6,
+    "score": 0.666563
+  },
+  {
+    "code1": "w_itqm",
+    "code2": "w_prod",
+    "value": 5,
+    "score": 0.660451
+  },
+  {
+    "code1": "w_itqm",
+    "code2": "w_busi",
+    "value": 4,
+    "score": 0.612504
+  },
+  {
+    "code1": "w_itqm",
+    "code2": "w_faci",
+    "value": 3,
+    "score": 0.610913
+  },
+  {
+    "code1": "w_itqm",
+    "code2": "w_nwa",
+    "value": 2,
+    "score": 0.596523
+  },
+  {
+    "code1": "w_itqm",
+    "code2": "w_scm",
+    "value": 1,
+    "score": 0.592115
+  },
+  {
+    "code1": "w_faben",
+    "code2": "w_faben",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_faben",
+    "code2": "w_mash",
+    "value": 9,
+    "score": 0.774705
+  },
+  {
+    "code1": "w_faben",
+    "code2": "w_techpur",
+    "value": 8,
+    "score": 0.755044
+  },
+  {
+    "code1": "w_faben",
+    "code2": "w_proce",
+    "value": 7,
+    "score": 0.710051
+  },
+  {
+    "code1": "w_faben",
+    "code2": "w_desig",
+    "value": 6,
+    "score": 0.675923
+  },
+  {
+    "code1": "w_faben",
+    "code2": "w_civil",
+    "value": 5,
+    "score": 0.669334
+  },
+  {
+    "code1": "w_faben",
+    "code2": "w_tred",
+    "value": 4,
+    "score": 0.669094
+  },
+  {
+    "code1": "w_faben",
+    "code2": "w_tool",
+    "value": 3,
+    "score": 0.664558
+  },
+  {
+    "code1": "w_faben",
+    "code2": "w_syen",
+    "value": 2,
+    "score": 0.657791
+  },
+  {
+    "code1": "w_faben",
+    "code2": "w_plant",
+    "value": 1,
+    "score": 0.652162
+  },
+  {
+    "code1": "w_sysa",
+    "code2": "w_sysa",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_sysa",
+    "code2": "w_syen",
+    "value": 9,
+    "score": 0.850784
+  },
+  {
+    "code1": "w_sysa",
+    "code2": "w_sadm",
+    "value": 8,
+    "score": 0.832685
+  },
+  {
+    "code1": "w_sysa",
+    "code2": "w_ar",
+    "value": 7,
+    "score": 0.721609
+  },
+  {
+    "code1": "w_sysa",
+    "code2": "w_aana",
+    "value": 6,
+    "score": 0.701175
+  },
+  {
+    "code1": "w_sysa",
+    "code2": "w_proce",
+    "value": 5,
+    "score": 0.664577
+  },
+  {
+    "code1": "w_sysa",
+    "code2": "w_aadm",
+    "value": 4,
+    "score": 0.635266
+  },
+  {
+    "code1": "w_sysa",
+    "code2": "w_ana",
+    "value": 3,
+    "score": 0.626166
+  },
+  {
+    "code1": "w_sysa",
+    "code2": "w_sete",
+    "value": 2,
+    "score": 0.608745
+  },
+  {
+    "code1": "w_sysa",
+    "code2": "w_emb",
+    "value": 1,
+    "score": 0.605471
+  },
+  {
+    "code1": "w_modes",
+    "code2": "w_modes",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_modes",
+    "code2": "w_textil",
+    "value": 9,
+    "score": 0.606827
+  },
+  {
+    "code1": "w_modes",
+    "code2": "w_desig",
+    "value": 8,
+    "score": 0.606162
+  },
+  {
+    "code1": "w_modes",
+    "code2": "w_graph",
+    "value": 7,
+    "score": 0.597395
+  },
+  {
+    "code1": "w_modes",
+    "code2": "w_web",
+    "value": 6,
+    "score": 0.583944
+  },
+  {
+    "code1": "w_modes",
+    "code2": "w_cad",
+    "value": 5,
+    "score": 0.583474
+  },
+  {
+    "code1": "w_modes",
+    "code2": "w_beaut",
+    "value": 4,
+    "score": 0.554397
+  },
+  {
+    "code1": "w_modes",
+    "code2": "w_room",
+    "value": 3,
+    "score": 0.52499
+  },
+  {
+    "code1": "w_modes",
+    "code2": "w_craft",
+    "value": 2,
+    "score": 0.524141
+  },
+  {
+    "code1": "w_modes",
+    "code2": "w_hand",
+    "value": 1,
+    "score": 0.51672
+  },
+  {
+    "code1": "w_metal",
+    "code2": "w_metal",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_metal",
+    "code2": "w_fabr",
+    "value": 9,
+    "score": 0.774978
+  },
+  {
+    "code1": "w_metal",
+    "code2": "w_mash",
+    "value": 8,
+    "score": 0.746849
+  },
+  {
+    "code1": "w_metal",
+    "code2": "w_tool",
+    "value": 7,
+    "score": 0.690024
+  },
+  {
+    "code1": "w_metal",
+    "code2": "w_synth",
+    "value": 6,
+    "score": 0.658273
+  },
+  {
+    "code1": "w_metal",
+    "code2": "w_faben",
+    "value": 5,
+    "score": 0.631207
+  },
+  {
+    "code1": "w_metal",
+    "code2": "w_scie",
+    "value": 4,
+    "score": 0.627719
+  },
+  {
+    "code1": "w_metal",
+    "code2": "w_desig",
+    "value": 3,
+    "score": 0.605364
+  },
+  {
+    "code1": "w_metal",
+    "code2": "w_wood",
+    "value": 2,
+    "score": 0.590078
+  },
+  {
+    "code1": "w_metal",
+    "code2": "w_mate",
+    "value": 1,
+    "score": 0.582444
+  },
+  {
+    "code1": "w_con",
+    "code2": "w_con",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_con",
+    "code2": "w_itcon",
+    "value": 9,
+    "score": 0.834415
+  },
+  {
+    "code1": "w_con",
+    "code2": "w_pera",
+    "value": 8,
+    "score": 0.799312
+  },
+  {
+    "code1": "w_con",
+    "code2": "w_busi",
+    "value": 7,
+    "score": 0.721026
+  },
+  {
+    "code1": "w_con",
+    "code2": "w_cust",
+    "value": 6,
+    "score": 0.676037
+  },
+  {
+    "code1": "w_con",
+    "code2": "w_ana",
+    "value": 5,
+    "score": 0.668371
+  },
+  {
+    "code1": "w_con",
+    "code2": "w_asset",
+    "value": 4,
+    "score": 0.665479
+  },
+  {
+    "code1": "w_con",
+    "code2": "w_inves",
+    "value": 3,
+    "score": 0.660212
+  },
+  {
+    "code1": "w_con",
+    "code2": "w_busan",
+    "value": 2,
+    "score": 0.65932
+  },
+  {
+    "code1": "w_con",
+    "code2": "w_ass",
+    "value": 1,
+    "score": 0.657834
+  },
+  {
+    "code1": "w_illumi",
+    "code2": "w_illumi",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_illumi",
+    "code2": "w_adve",
+    "value": 9,
+    "score": 0.930408
+  },
+  {
+    "code1": "w_illumi",
+    "code2": "w_mark",
+    "value": 8,
+    "score": 0.868073
+  },
+  {
+    "code1": "w_illumi",
+    "code2": "w_sale",
+    "value": 7,
+    "score": 0.764145
+  },
+  {
+    "code1": "w_illumi",
+    "code2": "w_sama",
+    "value": 6,
+    "score": 0.745212
+  },
+  {
+    "code1": "w_illumi",
+    "code2": "w_safo",
+    "value": 5,
+    "score": 0.723539
+  },
+  {
+    "code1": "w_illumi",
+    "code2": "w_comm",
+    "value": 4,
+    "score": 0.720502
+  },
+  {
+    "code1": "w_illumi",
+    "code2": "w_prod",
+    "value": 3,
+    "score": 0.706135
+  },
+  {
+    "code1": "w_illumi",
+    "code2": "w_sain",
+    "value": 2,
+    "score": 0.703941
+  },
+  {
+    "code1": "w_illumi",
+    "code2": "w_busi",
+    "value": 1,
+    "score": 0.688763
+  },
+  {
+    "code1": "w_arch",
+    "code2": "w_arch",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_arch",
+    "code2": "w_rev",
+    "value": 9,
+    "score": 0.592868
+  },
+  {
+    "code1": "w_arch",
+    "code2": "w_hist",
+    "value": 8,
+    "score": 0.592467
+  },
+  {
+    "code1": "w_arch",
+    "code2": "w_dba",
+    "value": 7,
+    "score": 0.577816
+  },
+  {
+    "code1": "w_arch",
+    "code2": "w_dbde",
+    "value": 6,
+    "score": 0.553075
+  },
+  {
+    "code1": "w_arch",
+    "code2": "w_dwh",
+    "value": 5,
+    "score": 0.524532
+  },
+  {
+    "code1": "w_arch",
+    "code2": "w_bibl",
+    "value": 4,
+    "score": 0.52294
+  },
+  {
+    "code1": "w_arch",
+    "code2": "w_clean",
+    "value": 3,
+    "score": 0.521625
+  },
+  {
+    "code1": "w_arch",
+    "code2": "w_trans",
+    "value": 2,
+    "score": 0.520851
+  },
+  {
+    "code1": "w_arch",
+    "code2": "w_ass",
+    "value": 1,
+    "score": 0.519967
+  },
+  {
+    "code1": "w_trans",
+    "code2": "w_trans",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_trans",
+    "code2": "w_impo",
+    "value": 9,
+    "score": 0.652377
+  },
+  {
+    "code1": "w_trans",
+    "code2": "w_rev",
+    "value": 8,
+    "score": 0.649302
+  },
+  {
+    "code1": "w_trans",
+    "code2": "w_ass",
+    "value": 7,
+    "score": 0.615875
+  },
+  {
+    "code1": "w_trans",
+    "code2": "w_expo",
+    "value": 6,
+    "score": 0.603817
+  },
+  {
+    "code1": "w_trans",
+    "code2": "w_cont",
+    "value": 5,
+    "score": 0.582262
+  },
+  {
+    "code1": "w_trans",
+    "code2": "w_room",
+    "value": 4,
+    "score": 0.572003
+  },
+  {
+    "code1": "w_trans",
+    "code2": "w_lab",
+    "value": 3,
+    "score": 0.571154
+  },
+  {
+    "code1": "w_trans",
+    "code2": "w_illumi",
+    "value": 2,
+    "score": 0.563533
+  },
+  {
+    "code1": "w_trans",
+    "code2": "w_edito",
+    "value": 1,
+    "score": 0.561694
+  },
+  {
+    "code1": "w_propur",
+    "code2": "w_propur",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_propur",
+    "code2": "w_pm",
+    "value": 9,
+    "score": 0.803985
+  },
+  {
+    "code1": "w_propur",
+    "code2": "w_techpur",
+    "value": 8,
+    "score": 0.735161
+  },
+  {
+    "code1": "w_propur",
+    "code2": "w_purch",
+    "value": 7,
+    "score": 0.734929
+  },
+  {
+    "code1": "w_propur",
+    "code2": "w_itpm",
+    "value": 6,
+    "score": 0.691278
+  },
+  {
+    "code1": "w_propur",
+    "code2": "w_prod",
+    "value": 5,
+    "score": 0.676333
+  },
+  {
+    "code1": "w_propur",
+    "code2": "w_sale",
+    "value": 4,
+    "score": 0.666611
+  },
+  {
+    "code1": "w_propur",
+    "code2": "w_const",
+    "value": 3,
+    "score": 0.629433
+  },
+  {
+    "code1": "w_propur",
+    "code2": "w_busan",
+    "value": 2,
+    "score": 0.629223
+  },
+  {
+    "code1": "w_propur",
+    "code2": "w_house",
+    "value": 1,
+    "score": 0.616185
+  },
+  {
+    "code1": "w_film",
+    "code2": "w_film",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_film",
+    "code2": "w_music",
+    "value": 9,
+    "score": 0.639995
+  },
+  {
+    "code1": "w_film",
+    "code2": "w_tele",
+    "value": 8,
+    "score": 0.566436
+  },
+  {
+    "code1": "w_film",
+    "code2": "w_illumi",
+    "value": 7,
+    "score": 0.564821
+  },
+  {
+    "code1": "w_film",
+    "code2": "w_jour",
+    "value": 6,
+    "score": 0.558868
+  },
+  {
+    "code1": "w_film",
+    "code2": "w_hand",
+    "value": 5,
+    "score": 0.508946
+  },
+  {
+    "code1": "w_film",
+    "code2": "w_adve",
+    "value": 4,
+    "score": 0.500113
+  },
+  {
+    "code1": "w_film",
+    "code2": "w_stage",
+    "value": 3,
+    "score": 0.499655
+  },
+  {
+    "code1": "w_film",
+    "code2": "w_comm",
+    "value": 2,
+    "score": 0.498534
+  },
+  {
+    "code1": "w_film",
+    "code2": "w_phot",
+    "value": 1,
+    "score": 0.494862
+  },
+  {
+    "code1": "w_scm",
+    "code2": "w_scm",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_scm",
+    "code2": "w_prod",
+    "value": 9,
+    "score": 0.79613
+  },
+  {
+    "code1": "w_scm",
+    "code2": "w_sama",
+    "value": 8,
+    "score": 0.77218
+  },
+  {
+    "code1": "w_scm",
+    "code2": "w_proce",
+    "value": 7,
+    "score": 0.747517
+  },
+  {
+    "code1": "w_scm",
+    "code2": "w_sale",
+    "value": 6,
+    "score": 0.722745
+  },
+  {
+    "code1": "w_scm",
+    "code2": "w_safo",
+    "value": 5,
+    "score": 0.708488
+  },
+  {
+    "code1": "w_scm",
+    "code2": "w_busi",
+    "value": 4,
+    "score": 0.707121
+  },
+  {
+    "code1": "w_scm",
+    "code2": "w_retai",
+    "value": 3,
+    "score": 0.689551
+  },
+  {
+    "code1": "w_scm",
+    "code2": "w_ware",
+    "value": 2,
+    "score": 0.688656
+  },
+  {
+    "code1": "w_scm",
+    "code2": "w_cust",
+    "value": 1,
+    "score": 0.683842
+  },
+  {
+    "code1": "w_beaut",
+    "code2": "w_beaut",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_beaut",
+    "code2": "w_nurse",
+    "value": 9,
+    "score": 0.567759
+  },
+  {
+    "code1": "w_beaut",
+    "code2": "w_modes",
+    "value": 8,
+    "score": 0.554397
+  },
+  {
+    "code1": "w_beaut",
+    "code2": "w_cust",
+    "value": 7,
+    "score": 0.540433
+  },
+  {
+    "code1": "w_beaut",
+    "code2": "w_ther",
+    "value": 6,
+    "score": 0.533131
+  },
+  {
+    "code1": "w_beaut",
+    "code2": "w_pera",
+    "value": 5,
+    "score": 0.530535
+  },
+  {
+    "code1": "w_beaut",
+    "code2": "w_phar",
+    "value": 4,
+    "score": 0.487327
+  },
+  {
+    "code1": "w_beaut",
+    "code2": "w_illumi",
+    "value": 3,
+    "score": 0.486057
+  },
+  {
+    "code1": "w_beaut",
+    "code2": "w_medic",
+    "value": 2,
+    "score": 0.482181
+  },
+  {
+    "code1": "w_beaut",
+    "code2": "w_clean",
+    "value": 1,
+    "score": 0.480533
+  },
+  {
+    "code1": "w_autom",
+    "code2": "w_autom",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_autom",
+    "code2": "w_tool",
+    "value": 9,
+    "score": 0.689191
+  },
+  {
+    "code1": "w_autom",
+    "code2": "w_mash",
+    "value": 8,
+    "score": 0.685232
+  },
+  {
+    "code1": "w_autom",
+    "code2": "w_auto",
+    "value": 7,
+    "score": 0.659039
+  },
+  {
+    "code1": "w_autom",
+    "code2": "w_faben",
+    "value": 6,
+    "score": 0.562946
+  },
+  {
+    "code1": "w_autom",
+    "code2": "w_tred",
+    "value": 5,
+    "score": 0.5606
+  },
+  {
+    "code1": "w_autom",
+    "code2": "w_cad",
+    "value": 4,
+    "score": 0.532417
+  },
+  {
+    "code1": "w_autom",
+    "code2": "w_statics",
+    "value": 3,
+    "score": 0.528682
+  },
+  {
+    "code1": "w_autom",
+    "code2": "w_hw",
+    "value": 2,
+    "score": 0.501642
+  },
+  {
+    "code1": "w_autom",
+    "code2": "w_siteman",
+    "value": 1,
+    "score": 0.491318
+  },
+  {
+    "code1": "w_clean",
+    "code2": "w_clean",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_clean",
+    "code2": "w_faci",
+    "value": 9,
+    "score": 0.602243
+  },
+  {
+    "code1": "w_clean",
+    "code2": "w_room",
+    "value": 8,
+    "score": 0.587691
+  },
+  {
+    "code1": "w_clean",
+    "code2": "w_rev",
+    "value": 7,
+    "score": 0.587189
+  },
+  {
+    "code1": "w_clean",
+    "code2": "w_proce",
+    "value": 6,
+    "score": 0.568694
+  },
+  {
+    "code1": "w_clean",
+    "code2": "w_waste",
+    "value": 5,
+    "score": 0.561919
+  },
+  {
+    "code1": "w_clean",
+    "code2": "w_illumi",
+    "value": 4,
+    "score": 0.557201
+  },
+  {
+    "code1": "w_clean",
+    "code2": "w_cont",
+    "value": 3,
+    "score": 0.546664
+  },
+  {
+    "code1": "w_clean",
+    "code2": "w_rece",
+    "value": 2,
+    "score": 0.523056
+  },
+  {
+    "code1": "w_clean",
+    "code2": "w_busi",
+    "value": 1,
+    "score": 0.522411
+  },
+  {
+    "code1": "w_org",
+    "code2": "w_org",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_org",
+    "code2": "w_comm",
+    "value": 9,
+    "score": 0.70779
+  },
+  {
+    "code1": "w_org",
+    "code2": "w_top",
+    "value": 8,
+    "score": 0.706192
+  },
+  {
+    "code1": "w_org",
+    "code2": "w_sama",
+    "value": 7,
+    "score": 0.693859
+  },
+  {
+    "code1": "w_org",
+    "code2": "w_safo",
+    "value": 6,
+    "score": 0.692983
+  },
+  {
+    "code1": "w_org",
+    "code2": "w_offi",
+    "value": 5,
+    "score": 0.691032
+  },
+  {
+    "code1": "w_org",
+    "code2": "w_busi",
+    "value": 4,
+    "score": 0.689941
+  },
+  {
+    "code1": "w_org",
+    "code2": "w_admin",
+    "value": 3,
+    "score": 0.680139
+  },
+  {
+    "code1": "w_org",
+    "code2": "w_prod",
+    "value": 2,
+    "score": 0.672197
+  },
+  {
+    "code1": "w_org",
+    "code2": "w_ana",
+    "value": 1,
+    "score": 0.661153
+  },
+  {
+    "code1": "w_ther",
+    "code2": "w_ther",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_ther",
+    "code2": "w_medic",
+    "value": 9,
+    "score": 0.760129
+  },
+  {
+    "code1": "w_ther",
+    "code2": "w_doc",
+    "value": 8,
+    "score": 0.74495
+  },
+  {
+    "code1": "w_ther",
+    "code2": "w_nurse",
+    "value": 7,
+    "score": 0.715659
+  },
+  {
+    "code1": "w_ther",
+    "code2": "w_medas",
+    "value": 6,
+    "score": 0.668252
+  },
+  {
+    "code1": "w_ther",
+    "code2": "w_medte",
+    "value": 5,
+    "score": 0.658665
+  },
+  {
+    "code1": "w_ther",
+    "code2": "w_klifo",
+    "value": 4,
+    "score": 0.628582
+  },
+  {
+    "code1": "w_ther",
+    "code2": "w_hospital",
+    "value": 3,
+    "score": 0.627544
+  },
+  {
+    "code1": "w_ther",
+    "code2": "w_train",
+    "value": 2,
+    "score": 0.582343
+  },
+  {
+    "code1": "w_ther",
+    "code2": "w_whuni",
+    "value": 1,
+    "score": 0.574718
+  },
+  {
+    "code1": "w_heet",
+    "code2": "w_heet",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_heet",
+    "code2": "w_room",
+    "value": 9,
+    "score": 0.542498
+  },
+  {
+    "code1": "w_heet",
+    "code2": "w_energ",
+    "value": 8,
+    "score": 0.542434
+  },
+  {
+    "code1": "w_heet",
+    "code2": "w_agri",
+    "value": 7,
+    "score": 0.495152
+  },
+  {
+    "code1": "w_heet",
+    "code2": "w_civil",
+    "value": 6,
+    "score": 0.494283
+  },
+  {
+    "code1": "w_heet",
+    "code2": "w_archi",
+    "value": 5,
+    "score": 0.493763
+  },
+  {
+    "code1": "w_heet",
+    "code2": "w_faci",
+    "value": 4,
+    "score": 0.492858
+  },
+  {
+    "code1": "w_heet",
+    "code2": "w_const",
+    "value": 3,
+    "score": 0.49279
+  },
+  {
+    "code1": "w_heet",
+    "code2": "w_natur",
+    "value": 2,
+    "score": 0.492434
+  },
+  {
+    "code1": "w_heet",
+    "code2": "w_plant",
+    "value": 1,
+    "score": 0.489686
+  },
+  {
+    "code1": "w_tred",
+    "code2": "w_tred",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_tred",
+    "code2": "w_edito",
+    "value": 9,
+    "score": 0.69667
+  },
+  {
+    "code1": "w_tred",
+    "code2": "w_faben",
+    "value": 8,
+    "score": 0.669094
+  },
+  {
+    "code1": "w_tred",
+    "code2": "w_hw",
+    "value": 7,
+    "score": 0.649421
+  },
+  {
+    "code1": "w_tred",
+    "code2": "w_tool",
+    "value": 6,
+    "score": 0.636447
+  },
+  {
+    "code1": "w_tred",
+    "code2": "w_techpur",
+    "value": 5,
+    "score": 0.634049
+  },
+  {
+    "code1": "w_tred",
+    "code2": "w_siteman",
+    "value": 4,
+    "score": 0.622617
+  },
+  {
+    "code1": "w_tred",
+    "code2": "w_info",
+    "value": 3,
+    "score": 0.62213
+  },
+  {
+    "code1": "w_tred",
+    "code2": "w_web",
+    "value": 2,
+    "score": 0.611911
+  },
+  {
+    "code1": "w_tred",
+    "code2": "w_cad",
+    "value": 1,
+    "score": 0.610818
+  },
+  {
+    "code1": "w_nwa",
+    "code2": "w_nwa",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_nwa",
+    "code2": "w_nwde",
+    "value": 9,
+    "score": 0.796036
+  },
+  {
+    "code1": "w_nwa",
+    "code2": "w_sadm",
+    "value": 8,
+    "score": 0.678873
+  },
+  {
+    "code1": "w_nwa",
+    "code2": "w_tele",
+    "value": 7,
+    "score": 0.671015
+  },
+  {
+    "code1": "w_nwa",
+    "code2": "w_secu",
+    "value": 6,
+    "score": 0.668729
+  },
+  {
+    "code1": "w_nwa",
+    "code2": "w_dba",
+    "value": 5,
+    "score": 0.637779
+  },
+  {
+    "code1": "w_nwa",
+    "code2": "w_aadm",
+    "value": 4,
+    "score": 0.636866
+  },
+  {
+    "code1": "w_nwa",
+    "code2": "w_faci",
+    "value": 3,
+    "score": 0.620759
+  },
+  {
+    "code1": "w_nwa",
+    "code2": "w_itqm",
+    "value": 2,
+    "score": 0.596523
+  },
+  {
+    "code1": "w_nwa",
+    "code2": "w_proce",
+    "value": 1,
+    "score": 0.595828
+  },
+  {
+    "code1": "w_phot",
+    "code2": "w_phot",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_phot",
+    "code2": "w_muse",
+    "value": 9,
+    "score": 0.600775
+  },
+  {
+    "code1": "w_phot",
+    "code2": "w_optic",
+    "value": 8,
+    "score": 0.596544
+  },
+  {
+    "code1": "w_phot",
+    "code2": "w_hand",
+    "value": 7,
+    "score": 0.590614
+  },
+  {
+    "code1": "w_phot",
+    "code2": "w_graph",
+    "value": 6,
+    "score": 0.570422
+  },
+  {
+    "code1": "w_phot",
+    "code2": "w_jour",
+    "value": 5,
+    "score": 0.544054
+  },
+  {
+    "code1": "w_phot",
+    "code2": "w_room",
+    "value": 4,
+    "score": 0.534228
+  },
+  {
+    "code1": "w_phot",
+    "code2": "w_illumi",
+    "value": 3,
+    "score": 0.530591
+  },
+  {
+    "code1": "w_phot",
+    "code2": "w_web",
+    "value": 2,
+    "score": 0.523044
+  },
+  {
+    "code1": "w_phot",
+    "code2": "w_film",
+    "value": 1,
+    "score": 0.494862
+  },
+  {
+    "code1": "w_envir",
+    "code2": "w_envir",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_envir",
+    "code2": "w_natur",
+    "value": 9,
+    "score": 0.645993
+  },
+  {
+    "code1": "w_envir",
+    "code2": "w_anim",
+    "value": 8,
+    "score": 0.599291
+  },
+  {
+    "code1": "w_envir",
+    "code2": "w_waste",
+    "value": 7,
+    "score": 0.599221
+  },
+  {
+    "code1": "w_envir",
+    "code2": "w_house",
+    "value": 6,
+    "score": 0.570082
+  },
+  {
+    "code1": "w_envir",
+    "code2": "w_faci",
+    "value": 5,
+    "score": 0.558757
+  },
+  {
+    "code1": "w_envir",
+    "code2": "w_agri",
+    "value": 4,
+    "score": 0.552791
+  },
+  {
+    "code1": "w_envir",
+    "code2": "w_munic",
+    "value": 3,
+    "score": 0.544187
+  },
+  {
+    "code1": "w_envir",
+    "code2": "w_nwa",
+    "value": 2,
+    "score": 0.542838
+  },
+  {
+    "code1": "w_envir",
+    "code2": "w_pm",
+    "value": 1,
+    "score": 0.539688
+  },
+  {
+    "code1": "w_offi",
+    "code2": "w_offi",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_offi",
+    "code2": "w_admin",
+    "value": 9,
+    "score": 0.929548
+  },
+  {
+    "code1": "w_offi",
+    "code2": "w_busi",
+    "value": 8,
+    "score": 0.739534
+  },
+  {
+    "code1": "w_offi",
+    "code2": "w_proce",
+    "value": 7,
+    "score": 0.72066
+  },
+  {
+    "code1": "w_offi",
+    "code2": "w_top",
+    "value": 6,
+    "score": 0.699527
+  },
+  {
+    "code1": "w_offi",
+    "code2": "w_sama",
+    "value": 5,
+    "score": 0.696036
+  },
+  {
+    "code1": "w_offi",
+    "code2": "w_org",
+    "value": 4,
+    "score": 0.691032
+  },
+  {
+    "code1": "w_offi",
+    "code2": "w_aadm",
+    "value": 3,
+    "score": 0.679573
+  },
+  {
+    "code1": "w_offi",
+    "code2": "w_sadm",
+    "value": 2,
+    "score": 0.674343
+  },
+  {
+    "code1": "w_offi",
+    "code2": "w_pera",
+    "value": 1,
+    "score": 0.668463
+  },
+  {
+    "code1": "w_nurse",
+    "code2": "w_nurse",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_nurse",
+    "code2": "w_hospital",
+    "value": 9,
+    "score": 0.739297
+  },
+  {
+    "code1": "w_nurse",
+    "code2": "w_medic",
+    "value": 8,
+    "score": 0.723916
+  },
+  {
+    "code1": "w_nurse",
+    "code2": "w_ther",
+    "value": 7,
+    "score": 0.715659
+  },
+  {
+    "code1": "w_nurse",
+    "code2": "w_doc",
+    "value": 6,
+    "score": 0.693369
+  },
+  {
+    "code1": "w_nurse",
+    "code2": "w_medas",
+    "value": 5,
+    "score": 0.661704
+  },
+  {
+    "code1": "w_nurse",
+    "code2": "w_medte",
+    "value": 4,
+    "score": 0.606804
+  },
+  {
+    "code1": "w_nurse",
+    "code2": "w_phar",
+    "value": 3,
+    "score": 0.589384
+  },
+  {
+    "code1": "w_nurse",
+    "code2": "w_whuni",
+    "value": 2,
+    "score": 0.584501
+  },
+  {
+    "code1": "w_nurse",
+    "code2": "w_train",
+    "value": 1,
+    "score": 0.574576
+  },
+  {
+    "code1": "w_ar",
+    "code2": "w_ar",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_ar",
+    "code2": "w_emb",
+    "value": 9,
+    "score": 0.760467
+  },
+  {
+    "code1": "w_ar",
+    "code2": "w_swe",
+    "value": 8,
+    "score": 0.756567
+  },
+  {
+    "code1": "w_ar",
+    "code2": "w_seng",
+    "value": 7,
+    "score": 0.754491
+  },
+  {
+    "code1": "w_ar",
+    "code2": "w_sadm",
+    "value": 6,
+    "score": 0.745107
+  },
+  {
+    "code1": "w_ar",
+    "code2": "w_syen",
+    "value": 5,
+    "score": 0.738395
+  },
+  {
+    "code1": "w_ar",
+    "code2": "w_sysa",
+    "value": 4,
+    "score": 0.721609
+  },
+  {
+    "code1": "w_ar",
+    "code2": "w_maint",
+    "value": 3,
+    "score": 0.700995
+  },
+  {
+    "code1": "w_ar",
+    "code2": "w_aadm",
+    "value": 2,
+    "score": 0.682757
+  },
+  {
+    "code1": "w_ar",
+    "code2": "w_itpm",
+    "value": 1,
+    "score": 0.676522
+  },
+  {
+    "code1": "w_edito",
+    "code2": "w_edito",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_edito",
+    "code2": "w_jour",
+    "value": 9,
+    "score": 0.70943
+  },
+  {
+    "code1": "w_edito",
+    "code2": "w_tred",
+    "value": 8,
+    "score": 0.69667
+  },
+  {
+    "code1": "w_edito",
+    "code2": "w_rev",
+    "value": 7,
+    "score": 0.695096
+  },
+  {
+    "code1": "w_edito",
+    "code2": "w_publ",
+    "value": 6,
+    "score": 0.659824
+  },
+  {
+    "code1": "w_edito",
+    "code2": "w_whuni",
+    "value": 5,
+    "score": 0.617129
+  },
+  {
+    "code1": "w_edito",
+    "code2": "w_illumi",
+    "value": 4,
+    "score": 0.592442
+  },
+  {
+    "code1": "w_edito",
+    "code2": "w_trans",
+    "value": 3,
+    "score": 0.561694
+  },
+  {
+    "code1": "w_edito",
+    "code2": "w_ass",
+    "value": 2,
+    "score": 0.550713
+  },
+  {
+    "code1": "w_edito",
+    "code2": "w_advoc",
+    "value": 1,
+    "score": 0.54889
+  },
+  {
+    "code1": "w_tax",
+    "code2": "w_tax",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_tax",
+    "code2": "w_acco",
+    "value": 9,
+    "score": 0.699444
+  },
+  {
+    "code1": "w_tax",
+    "code2": "w_audit",
+    "value": 8,
+    "score": 0.628744
+  },
+  {
+    "code1": "w_tax",
+    "code2": "w_con",
+    "value": 7,
+    "score": 0.613287
+  },
+  {
+    "code1": "w_tax",
+    "code2": "w_asset",
+    "value": 6,
+    "score": 0.595029
+  },
+  {
+    "code1": "w_tax",
+    "code2": "w_home",
+    "value": 5,
+    "score": 0.580705
+  },
+  {
+    "code1": "w_tax",
+    "code2": "w_ana",
+    "value": 4,
+    "score": 0.546117
+  },
+  {
+    "code1": "w_tax",
+    "code2": "w_book",
+    "value": 3,
+    "score": 0.536968
+  },
+  {
+    "code1": "w_tax",
+    "code2": "w_busi",
+    "value": 2,
+    "score": 0.534708
+  },
+  {
+    "code1": "w_tax",
+    "code2": "w_payr",
+    "value": 1,
+    "score": 0.534271
+  },
+  {
+    "code1": "w_purch",
+    "code2": "w_purch",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_purch",
+    "code2": "w_sale",
+    "value": 9,
+    "score": 0.824471
+  },
+  {
+    "code1": "w_purch",
+    "code2": "w_retai",
+    "value": 8,
+    "score": 0.807042
+  },
+  {
+    "code1": "w_purch",
+    "code2": "w_propur",
+    "value": 7,
+    "score": 0.734929
+  },
+  {
+    "code1": "w_purch",
+    "code2": "w_whole",
+    "value": 6,
+    "score": 0.725792
+  },
+  {
+    "code1": "w_purch",
+    "code2": "w_sama",
+    "value": 5,
+    "score": 0.71957
+  },
+  {
+    "code1": "w_purch",
+    "code2": "w_ware",
+    "value": 4,
+    "score": 0.71261
+  },
+  {
+    "code1": "w_purch",
+    "code2": "w_sain",
+    "value": 3,
+    "score": 0.676129
+  },
+  {
+    "code1": "w_purch",
+    "code2": "w_prod",
+    "value": 2,
+    "score": 0.671333
+  },
+  {
+    "code1": "w_purch",
+    "code2": "w_techpur",
+    "value": 1,
+    "score": 0.658292
+  },
+  {
+    "code1": "w_veter",
+    "code2": "w_veter",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_veter",
+    "code2": "w_anim",
+    "value": 9,
+    "score": 0.72873
+  },
+  {
+    "code1": "w_veter",
+    "code2": "w_doc",
+    "value": 8,
+    "score": 0.64974
+  },
+  {
+    "code1": "w_veter",
+    "code2": "w_medic",
+    "value": 7,
+    "score": 0.617418
+  },
+  {
+    "code1": "w_veter",
+    "code2": "w_medte",
+    "value": 6,
+    "score": 0.580554
+  },
+  {
+    "code1": "w_veter",
+    "code2": "w_phar",
+    "value": 5,
+    "score": 0.547609
+  },
+  {
+    "code1": "w_veter",
+    "code2": "w_medas",
+    "value": 4,
+    "score": 0.539709
+  },
+  {
+    "code1": "w_veter",
+    "code2": "w_ther",
+    "value": 3,
+    "score": 0.539034
+  },
+  {
+    "code1": "w_veter",
+    "code2": "w_bio",
+    "value": 2,
+    "score": 0.533419
+  },
+  {
+    "code1": "w_veter",
+    "code2": "w_klifo",
+    "value": 1,
+    "score": 0.522183
+  },
+  {
+    "code1": "w_natur",
+    "code2": "w_natur",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_natur",
+    "code2": "w_doc",
+    "value": 9,
+    "score": 0.654616
+  },
+  {
+    "code1": "w_natur",
+    "code2": "w_bio",
+    "value": 8,
+    "score": 0.646331
+  },
+  {
+    "code1": "w_natur",
+    "code2": "w_envir",
+    "value": 7,
+    "score": 0.645993
+  },
+  {
+    "code1": "w_natur",
+    "code2": "w_phys",
+    "value": 6,
+    "score": 0.60814
+  },
+  {
+    "code1": "w_natur",
+    "code2": "w_scie",
+    "value": 5,
+    "score": 0.585559
+  },
+  {
+    "code1": "w_natur",
+    "code2": "w_whuni",
+    "value": 4,
+    "score": 0.580461
+  },
+  {
+    "code1": "w_natur",
+    "code2": "w_chem",
+    "value": 3,
+    "score": 0.569847
+  },
+  {
+    "code1": "w_natur",
+    "code2": "w_hist",
+    "value": 2,
+    "score": 0.541597
+  },
+  {
+    "code1": "w_natur",
+    "code2": "w_auto",
+    "value": 1,
+    "score": 0.537869
+  },
+  {
+    "code1": "w_keyacc",
+    "code2": "w_keyacc",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_keyacc",
+    "code2": "w_inves",
+    "value": 9,
+    "score": 0.752051
+  },
+  {
+    "code1": "w_keyacc",
+    "code2": "w_acco",
+    "value": 8,
+    "score": 0.701812
+  },
+  {
+    "code1": "w_keyacc",
+    "code2": "w_asset",
+    "value": 7,
+    "score": 0.690819
+  },
+  {
+    "code1": "w_keyacc",
+    "code2": "w_riskm",
+    "value": 6,
+    "score": 0.646964
+  },
+  {
+    "code1": "w_keyacc",
+    "code2": "w_ana",
+    "value": 5,
+    "score": 0.623554
+  },
+  {
+    "code1": "w_keyacc",
+    "code2": "w_audit",
+    "value": 4,
+    "score": 0.606081
+  },
+  {
+    "code1": "w_keyacc",
+    "code2": "w_offi",
+    "value": 3,
+    "score": 0.601175
+  },
+  {
+    "code1": "w_keyacc",
+    "code2": "w_top",
+    "value": 2,
+    "score": 0.593599
+  },
+  {
+    "code1": "w_keyacc",
+    "code2": "w_busi",
+    "value": 1,
+    "score": 0.591496
+  },
+  {
+    "code1": "w_bestatt",
+    "code2": "w_bestatt",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_bestatt",
+    "code2": "w_judi",
+    "value": 9,
+    "score": 0.468045
+  },
+  {
+    "code1": "w_bestatt",
+    "code2": "w_advoc",
+    "value": 8,
+    "score": 0.460643
+  },
+  {
+    "code1": "w_bestatt",
+    "code2": "w_relig",
+    "value": 7,
+    "score": 0.457735
+  },
+  {
+    "code1": "w_bestatt",
+    "code2": "w_ass",
+    "value": 6,
+    "score": 0.446385
+  },
+  {
+    "code1": "w_bestatt",
+    "code2": "w_notar",
+    "value": 5,
+    "score": 0.44495
+  },
+  {
+    "code1": "w_bestatt",
+    "code2": "w_rece",
+    "value": 4,
+    "score": 0.442436
+  },
+  {
+    "code1": "w_bestatt",
+    "code2": "w_medas",
+    "value": 3,
+    "score": 0.433283
+  },
+  {
+    "code1": "w_bestatt",
+    "code2": "w_room",
+    "value": 2,
+    "score": 0.426731
+  },
+  {
+    "code1": "w_bestatt",
+    "code2": "w_nurse",
+    "value": 1,
+    "score": 0.422004
+  },
+  {
+    "code1": "w_insum",
+    "code2": "w_insum",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_insum",
+    "code2": "w_insu",
+    "value": 9,
+    "score": 0.861353
+  },
+  {
+    "code1": "w_insum",
+    "code2": "w_math",
+    "value": 8,
+    "score": 0.64424
+  },
+  {
+    "code1": "w_insum",
+    "code2": "w_riskm",
+    "value": 7,
+    "score": 0.640406
+  },
+  {
+    "code1": "w_insum",
+    "code2": "w_audit",
+    "value": 6,
+    "score": 0.602693
+  },
+  {
+    "code1": "w_insum",
+    "code2": "w_book",
+    "value": 5,
+    "score": 0.597278
+  },
+  {
+    "code1": "w_insum",
+    "code2": "w_acco",
+    "value": 4,
+    "score": 0.559992
+  },
+  {
+    "code1": "w_insum",
+    "code2": "w_payr",
+    "value": 3,
+    "score": 0.5452
+  },
+  {
+    "code1": "w_insum",
+    "code2": "w_ana",
+    "value": 2,
+    "score": 0.53729
+  },
+  {
+    "code1": "w_insum",
+    "code2": "w_house",
+    "value": 1,
+    "score": 0.513355
+  },
+  {
+    "code1": "w_elec",
+    "code2": "w_elec",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_elec",
+    "code2": "w_energ",
+    "value": 9,
+    "score": 0.866895
+  },
+  {
+    "code1": "w_elec",
+    "code2": "w_hw",
+    "value": 8,
+    "score": 0.706101
+  },
+  {
+    "code1": "w_elec",
+    "code2": "w_info",
+    "value": 7,
+    "score": 0.704461
+  },
+  {
+    "code1": "w_elec",
+    "code2": "w_mash",
+    "value": 6,
+    "score": 0.696499
+  },
+  {
+    "code1": "w_elec",
+    "code2": "w_civil",
+    "value": 5,
+    "score": 0.694648
+  },
+  {
+    "code1": "w_elec",
+    "code2": "w_syen",
+    "value": 4,
+    "score": 0.692167
+  },
+  {
+    "code1": "w_elec",
+    "code2": "w_faben",
+    "value": 3,
+    "score": 0.649997
+  },
+  {
+    "code1": "w_elec",
+    "code2": "w_techpur",
+    "value": 2,
+    "score": 0.649005
+  },
+  {
+    "code1": "w_elec",
+    "code2": "w_plant",
+    "value": 1,
+    "score": 0.64875
+  },
+  {
+    "code1": "w_defe",
+    "code2": "w_defe",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_defe",
+    "code2": "w_secu",
+    "value": 9,
+    "score": 0.634282
+  },
+  {
+    "code1": "w_defe",
+    "code2": "w_auto",
+    "value": 8,
+    "score": 0.557544
+  },
+  {
+    "code1": "w_defe",
+    "code2": "w_whuni",
+    "value": 7,
+    "score": 0.554654
+  },
+  {
+    "code1": "w_defe",
+    "code2": "w_book",
+    "value": 6,
+    "score": 0.52264
+  },
+  {
+    "code1": "w_defe",
+    "code2": "w_bank",
+    "value": 5,
+    "score": 0.519804
+  },
+  {
+    "code1": "w_defe",
+    "code2": "w_sani",
+    "value": 4,
+    "score": 0.51748
+  },
+  {
+    "code1": "w_defe",
+    "code2": "w_org",
+    "value": 3,
+    "score": 0.516327
+  },
+  {
+    "code1": "w_defe",
+    "code2": "w_notar",
+    "value": 2,
+    "score": 0.51161
+  },
+  {
+    "code1": "w_defe",
+    "code2": "w_safo",
+    "value": 1,
+    "score": 0.5102
+  },
+  {
+    "code1": "w_hrdev",
+    "code2": "w_hrdev",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_hrdev",
+    "code2": "w_pers",
+    "value": 9,
+    "score": 0.898642
+  },
+  {
+    "code1": "w_hrdev",
+    "code2": "w_pera",
+    "value": 8,
+    "score": 0.752937
+  },
+  {
+    "code1": "w_hrdev",
+    "code2": "w_recru",
+    "value": 7,
+    "score": 0.732998
+  },
+  {
+    "code1": "w_hrdev",
+    "code2": "w_train",
+    "value": 6,
+    "score": 0.622471
+  },
+  {
+    "code1": "w_hrdev",
+    "code2": "w_pm",
+    "value": 5,
+    "score": 0.621305
+  },
+  {
+    "code1": "w_hrdev",
+    "code2": "w_busan",
+    "value": 4,
+    "score": 0.603582
+  },
+  {
+    "code1": "w_hrdev",
+    "code2": "w_rese",
+    "value": 3,
+    "score": 0.601258
+  },
+  {
+    "code1": "w_hrdev",
+    "code2": "w_con",
+    "value": 2,
+    "score": 0.599065
+  },
+  {
+    "code1": "w_hrdev",
+    "code2": "w_busi",
+    "value": 1,
+    "score": 0.593405
+  },
+  {
+    "code1": "w_medic",
+    "code2": "w_medic",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_medic",
+    "code2": "w_doc",
+    "value": 9,
+    "score": 0.862714
+  },
+  {
+    "code1": "w_medic",
+    "code2": "w_ther",
+    "value": 8,
+    "score": 0.760129
+  },
+  {
+    "code1": "w_medic",
+    "code2": "w_medte",
+    "value": 7,
+    "score": 0.754138
+  },
+  {
+    "code1": "w_medic",
+    "code2": "w_medas",
+    "value": 6,
+    "score": 0.733523
+  },
+  {
+    "code1": "w_medic",
+    "code2": "w_nurse",
+    "value": 5,
+    "score": 0.723916
+  },
+  {
+    "code1": "w_medic",
+    "code2": "w_hospital",
+    "value": 4,
+    "score": 0.718982
+  },
+  {
+    "code1": "w_medic",
+    "code2": "w_klifo",
+    "value": 3,
+    "score": 0.655037
+  },
+  {
+    "code1": "w_medic",
+    "code2": "w_phar",
+    "value": 2,
+    "score": 0.652804
+  },
+  {
+    "code1": "w_medic",
+    "code2": "w_veter",
+    "value": 1,
+    "score": 0.617418
+  },
+  {
+    "code1": "w_agri",
+    "code2": "w_agri",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_agri",
+    "code2": "w_food",
+    "value": 9,
+    "score": 0.708026
+  },
+  {
+    "code1": "w_agri",
+    "code2": "w_plant",
+    "value": 8,
+    "score": 0.644031
+  },
+  {
+    "code1": "w_agri",
+    "code2": "w_anim",
+    "value": 7,
+    "score": 0.586977
+  },
+  {
+    "code1": "w_agri",
+    "code2": "w_house",
+    "value": 6,
+    "score": 0.576397
+  },
+  {
+    "code1": "w_agri",
+    "code2": "w_envir",
+    "value": 5,
+    "score": 0.552791
+  },
+  {
+    "code1": "w_agri",
+    "code2": "w_faci",
+    "value": 4,
+    "score": 0.547586
+  },
+  {
+    "code1": "w_agri",
+    "code2": "w_scm",
+    "value": 3,
+    "score": 0.541636
+  },
+  {
+    "code1": "w_agri",
+    "code2": "w_ebus",
+    "value": 2,
+    "score": 0.527282
+  },
+  {
+    "code1": "w_agri",
+    "code2": "w_textil",
+    "value": 1,
+    "score": 0.526968
+  },
+  {
+    "code1": "w_synth",
+    "code2": "w_synth",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_synth",
+    "code2": "w_fabr",
+    "value": 9,
+    "score": 0.730025
+  },
+  {
+    "code1": "w_synth",
+    "code2": "w_mate",
+    "value": 8,
+    "score": 0.701209
+  },
+  {
+    "code1": "w_synth",
+    "code2": "w_techpur",
+    "value": 7,
+    "score": 0.699538
+  },
+  {
+    "code1": "w_synth",
+    "code2": "w_scie",
+    "value": 6,
+    "score": 0.689689
+  },
+  {
+    "code1": "w_synth",
+    "code2": "w_desig",
+    "value": 5,
+    "score": 0.686261
+  },
+  {
+    "code1": "w_synth",
+    "code2": "w_mash",
+    "value": 4,
+    "score": 0.671225
+  },
+  {
+    "code1": "w_synth",
+    "code2": "w_metal",
+    "value": 3,
+    "score": 0.658273
+  },
+  {
+    "code1": "w_synth",
+    "code2": "w_const",
+    "value": 2,
+    "score": 0.651414
+  },
+  {
+    "code1": "w_synth",
+    "code2": "w_plant",
+    "value": 1,
+    "score": 0.649001
+  },
+  {
+    "code1": "w_auto",
+    "code2": "w_auto",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_auto",
+    "code2": "w_mash",
+    "value": 9,
+    "score": 0.757562
+  },
+  {
+    "code1": "w_auto",
+    "code2": "w_autom",
+    "value": 8,
+    "score": 0.659039
+  },
+  {
+    "code1": "w_auto",
+    "code2": "w_illumi",
+    "value": 7,
+    "score": 0.636328
+  },
+  {
+    "code1": "w_auto",
+    "code2": "w_street",
+    "value": 6,
+    "score": 0.62571
+  },
+  {
+    "code1": "w_auto",
+    "code2": "w_org",
+    "value": 5,
+    "score": 0.612978
+  },
+  {
+    "code1": "w_auto",
+    "code2": "w_desig",
+    "value": 4,
+    "score": 0.608273
+  },
+  {
+    "code1": "w_auto",
+    "code2": "w_frei",
+    "value": 3,
+    "score": 0.607526
+  },
+  {
+    "code1": "w_auto",
+    "code2": "w_space",
+    "value": 2,
+    "score": 0.602442
+  },
+  {
+    "code1": "w_auto",
+    "code2": "w_ware",
+    "value": 1,
+    "score": 0.59827
+  },
+  {
+    "code1": "w_dent",
+    "code2": "w_dent",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_dent",
+    "code2": "w_medte",
+    "value": 9,
+    "score": 0.546069
+  },
+  {
+    "code1": "w_dent",
+    "code2": "w_doc",
+    "value": 8,
+    "score": 0.485013
+  },
+  {
+    "code1": "w_dent",
+    "code2": "w_veter",
+    "value": 7,
+    "score": 0.483858
+  },
+  {
+    "code1": "w_dent",
+    "code2": "w_tool",
+    "value": 6,
+    "score": 0.479475
+  },
+  {
+    "code1": "w_dent",
+    "code2": "w_medic",
+    "value": 5,
+    "score": 0.466856
+  },
+  {
+    "code1": "w_dent",
+    "code2": "w_beaut",
+    "value": 4,
+    "score": 0.460136
+  },
+  {
+    "code1": "w_dent",
+    "code2": "w_clean",
+    "value": 3,
+    "score": 0.455381
+  },
+  {
+    "code1": "w_dent",
+    "code2": "w_nurse",
+    "value": 2,
+    "score": 0.437663
+  },
+  {
+    "code1": "w_dent",
+    "code2": "w_synth",
+    "value": 1,
+    "score": 0.435201
+  },
+  {
+    "code1": "w_math",
+    "code2": "w_math",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_math",
+    "code2": "w_insum",
+    "value": 9,
+    "score": 0.64424
+  },
+  {
+    "code1": "w_math",
+    "code2": "w_phys",
+    "value": 8,
+    "score": 0.583424
+  },
+  {
+    "code1": "w_math",
+    "code2": "w_doc",
+    "value": 7,
+    "score": 0.542074
+  },
+  {
+    "code1": "w_math",
+    "code2": "w_book",
+    "value": 6,
+    "score": 0.533249
+  },
+  {
+    "code1": "w_math",
+    "code2": "w_natur",
+    "value": 5,
+    "score": 0.528812
+  },
+  {
+    "code1": "w_math",
+    "code2": "w_acco",
+    "value": 4,
+    "score": 0.507145
+  },
+  {
+    "code1": "w_math",
+    "code2": "w_ana",
+    "value": 3,
+    "score": 0.487725
+  },
+  {
+    "code1": "w_math",
+    "code2": "w_rev",
+    "value": 2,
+    "score": 0.481259
+  },
+  {
+    "code1": "w_math",
+    "code2": "w_insu",
+    "value": 1,
+    "score": 0.479894
+  },
+  {
+    "code1": "w_phar",
+    "code2": "w_phar",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_phar",
+    "code2": "w_retai",
+    "value": 9,
+    "score": 0.677212
+  },
+  {
+    "code1": "w_phar",
+    "code2": "w_medic",
+    "value": 8,
+    "score": 0.652804
+  },
+  {
+    "code1": "w_phar",
+    "code2": "w_hospital",
+    "value": 7,
+    "score": 0.632747
+  },
+  {
+    "code1": "w_phar",
+    "code2": "w_doc",
+    "value": 6,
+    "score": 0.627544
+  },
+  {
+    "code1": "w_phar",
+    "code2": "w_sale",
+    "value": 5,
+    "score": 0.624317
+  },
+  {
+    "code1": "w_phar",
+    "code2": "w_scm",
+    "value": 4,
+    "score": 0.620181
+  },
+  {
+    "code1": "w_phar",
+    "code2": "w_sama",
+    "value": 3,
+    "score": 0.615655
+  },
+  {
+    "code1": "w_phar",
+    "code2": "w_prod",
+    "value": 2,
+    "score": 0.612247
+  },
+  {
+    "code1": "w_phar",
+    "code2": "w_medte",
+    "value": 1,
+    "score": 0.604433
+  },
+  {
+    "code1": "w_presa",
+    "code2": "w_presa",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_presa",
+    "code2": "w_deli",
+    "value": 9,
+    "score": 0.624662
+  },
+  {
+    "code1": "w_presa",
+    "code2": "w_cust",
+    "value": 8,
+    "score": 0.596463
+  },
+  {
+    "code1": "w_presa",
+    "code2": "w_cc",
+    "value": 7,
+    "score": 0.585846
+  },
+  {
+    "code1": "w_presa",
+    "code2": "w_safo",
+    "value": 6,
+    "score": 0.583929
+  },
+  {
+    "code1": "w_presa",
+    "code2": "w_illumi",
+    "value": 5,
+    "score": 0.58067
+  },
+  {
+    "code1": "w_presa",
+    "code2": "w_sale",
+    "value": 4,
+    "score": 0.580649
+  },
+  {
+    "code1": "w_presa",
+    "code2": "w_ass",
+    "value": 3,
+    "score": 0.571779
+  },
+  {
+    "code1": "w_presa",
+    "code2": "w_home",
+    "value": 2,
+    "score": 0.557311
+  },
+  {
+    "code1": "w_presa",
+    "code2": "w_pr",
+    "value": 1,
+    "score": 0.551218
+  },
+  {
+    "code1": "w_bio",
+    "code2": "w_bio",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_bio",
+    "code2": "w_natur",
+    "value": 9,
+    "score": 0.646331
+  },
+  {
+    "code1": "w_bio",
+    "code2": "w_doc",
+    "value": 8,
+    "score": 0.586384
+  },
+  {
+    "code1": "w_bio",
+    "code2": "w_chem",
+    "value": 7,
+    "score": 0.557067
+  },
+  {
+    "code1": "w_bio",
+    "code2": "w_veter",
+    "value": 6,
+    "score": 0.533419
+  },
+  {
+    "code1": "w_bio",
+    "code2": "w_envir",
+    "value": 5,
+    "score": 0.526158
+  },
+  {
+    "code1": "w_bio",
+    "code2": "w_phys",
+    "value": 4,
+    "score": 0.512548
+  },
+  {
+    "code1": "w_bio",
+    "code2": "w_klifo",
+    "value": 3,
+    "score": 0.481802
+  },
+  {
+    "code1": "w_bio",
+    "code2": "w_plant",
+    "value": 2,
+    "score": 0.458854
+  },
+  {
+    "code1": "w_bio",
+    "code2": "w_food",
+    "value": 1,
+    "score": 0.458653
+  },
+  {
+    "code1": "w_admin",
+    "code2": "w_admin",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_admin",
+    "code2": "w_offi",
+    "value": 9,
+    "score": 0.929548
+  },
+  {
+    "code1": "w_admin",
+    "code2": "w_aadm",
+    "value": 8,
+    "score": 0.715528
+  },
+  {
+    "code1": "w_admin",
+    "code2": "w_sadm",
+    "value": 7,
+    "score": 0.709741
+  },
+  {
+    "code1": "w_admin",
+    "code2": "w_secr",
+    "value": 6,
+    "score": 0.70095
+  },
+  {
+    "code1": "w_admin",
+    "code2": "w_busi",
+    "value": 5,
+    "score": 0.687996
+  },
+  {
+    "code1": "w_admin",
+    "code2": "w_org",
+    "value": 4,
+    "score": 0.680139
+  },
+  {
+    "code1": "w_admin",
+    "code2": "w_acco",
+    "value": 3,
+    "score": 0.673203
+  },
+  {
+    "code1": "w_admin",
+    "code2": "w_proce",
+    "value": 2,
+    "score": 0.657225
+  },
+  {
+    "code1": "w_admin",
+    "code2": "w_pera",
+    "value": 1,
+    "score": 0.644668
+  },
+  {
+    "code1": "w_chem",
+    "code2": "w_chem",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_chem",
+    "code2": "w_phys",
+    "value": 9,
+    "score": 0.579331
+  },
+  {
+    "code1": "w_chem",
+    "code2": "w_natur",
+    "value": 8,
+    "score": 0.569847
+  },
+  {
+    "code1": "w_chem",
+    "code2": "w_scie",
+    "value": 7,
+    "score": 0.568608
+  },
+  {
+    "code1": "w_chem",
+    "code2": "w_synth",
+    "value": 6,
+    "score": 0.557803
+  },
+  {
+    "code1": "w_chem",
+    "code2": "w_bio",
+    "value": 5,
+    "score": 0.557067
+  },
+  {
+    "code1": "w_chem",
+    "code2": "w_doc",
+    "value": 4,
+    "score": 0.524818
+  },
+  {
+    "code1": "w_chem",
+    "code2": "w_medte",
+    "value": 3,
+    "score": 0.499992
+  },
+  {
+    "code1": "w_chem",
+    "code2": "w_phar",
+    "value": 2,
+    "score": 0.491702
+  },
+  {
+    "code1": "w_chem",
+    "code2": "w_monta",
+    "value": 1,
+    "score": 0.479247
+  },
+  {
+    "code1": "w_archi",
+    "code2": "w_archi",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_archi",
+    "code2": "w_statics",
+    "value": 9,
+    "score": 0.867229
+  },
+  {
+    "code1": "w_archi",
+    "code2": "w_craft",
+    "value": 8,
+    "score": 0.838345
+  },
+  {
+    "code1": "w_archi",
+    "code2": "w_const",
+    "value": 7,
+    "score": 0.759787
+  },
+  {
+    "code1": "w_archi",
+    "code2": "w_mate",
+    "value": 6,
+    "score": 0.758925
+  },
+  {
+    "code1": "w_archi",
+    "code2": "w_room",
+    "value": 5,
+    "score": 0.722452
+  },
+  {
+    "code1": "w_archi",
+    "code2": "w_civil",
+    "value": 4,
+    "score": 0.721756
+  },
+  {
+    "code1": "w_archi",
+    "code2": "w_street",
+    "value": 3,
+    "score": 0.717665
+  },
+  {
+    "code1": "w_archi",
+    "code2": "w_mash",
+    "value": 2,
+    "score": 0.574701
+  },
+  {
+    "code1": "w_archi",
+    "code2": "w_siteman",
+    "value": 1,
+    "score": 0.563697
+  },
+  {
+    "code1": "w_rece",
+    "code2": "w_rece",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_rece",
+    "code2": "w_cust",
+    "value": 9,
+    "score": 0.633803
+  },
+  {
+    "code1": "w_rece",
+    "code2": "w_ass",
+    "value": 8,
+    "score": 0.59197
+  },
+  {
+    "code1": "w_rece",
+    "code2": "w_rev",
+    "value": 7,
+    "score": 0.575098
+  },
+  {
+    "code1": "w_rece",
+    "code2": "w_deli",
+    "value": 6,
+    "score": 0.569698
+  },
+  {
+    "code1": "w_rece",
+    "code2": "w_illumi",
+    "value": 5,
+    "score": 0.5663
+  },
+  {
+    "code1": "w_rece",
+    "code2": "w_trans",
+    "value": 4,
+    "score": 0.552978
+  },
+  {
+    "code1": "w_rece",
+    "code2": "w_event",
+    "value": 3,
+    "score": 0.54407
+  },
+  {
+    "code1": "w_rece",
+    "code2": "w_cont",
+    "value": 2,
+    "score": 0.541396
+  },
+  {
+    "code1": "w_rece",
+    "code2": "w_sain",
+    "value": 1,
+    "score": 0.540514
+  },
+  {
+    "code1": "w_pera",
+    "code2": "w_pera",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_pera",
+    "code2": "w_con",
+    "value": 9,
+    "score": 0.799312
+  },
+  {
+    "code1": "w_pera",
+    "code2": "w_pers",
+    "value": 8,
+    "score": 0.786316
+  },
+  {
+    "code1": "w_pera",
+    "code2": "w_hrdev",
+    "value": 7,
+    "score": 0.752937
+  },
+  {
+    "code1": "w_pera",
+    "code2": "w_itcon",
+    "value": 6,
+    "score": 0.735261
+  },
+  {
+    "code1": "w_pera",
+    "code2": "w_recru",
+    "value": 5,
+    "score": 0.726858
+  },
+  {
+    "code1": "w_pera",
+    "code2": "w_busi",
+    "value": 4,
+    "score": 0.69202
+  },
+  {
+    "code1": "w_pera",
+    "code2": "w_offi",
+    "value": 3,
+    "score": 0.668463
+  },
+  {
+    "code1": "w_pera",
+    "code2": "w_whkus",
+    "value": 2,
+    "score": 0.666501
+  },
+  {
+    "code1": "w_pera",
+    "code2": "w_admin",
+    "value": 1,
+    "score": 0.644668
+  },
+  {
+    "code1": "w_muse",
+    "code2": "w_muse",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_muse",
+    "code2": "w_hist",
+    "value": 9,
+    "score": 0.622431
+  },
+  {
+    "code1": "w_muse",
+    "code2": "w_room",
+    "value": 8,
+    "score": 0.619548
+  },
+  {
+    "code1": "w_muse",
+    "code2": "w_hand",
+    "value": 7,
+    "score": 0.603462
+  },
+  {
+    "code1": "w_muse",
+    "code2": "w_phot",
+    "value": 6,
+    "score": 0.600775
+  },
+  {
+    "code1": "w_muse",
+    "code2": "w_archi",
+    "value": 5,
+    "score": 0.550403
+  },
+  {
+    "code1": "w_muse",
+    "code2": "w_street",
+    "value": 4,
+    "score": 0.538114
+  },
+  {
+    "code1": "w_muse",
+    "code2": "w_whuni",
+    "value": 3,
+    "score": 0.533453
+  },
+  {
+    "code1": "w_muse",
+    "code2": "w_hote",
+    "value": 2,
+    "score": 0.522945
+  },
+  {
+    "code1": "w_muse",
+    "code2": "w_bibl",
+    "value": 1,
+    "score": 0.522728
+  },
+  {
+    "code1": "w_upstream",
+    "code2": "w_upstream",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_upstream",
+    "code2": "w_energ",
+    "value": 9,
+    "score": 0.684549
+  },
+  {
+    "code1": "w_upstream",
+    "code2": "w_plant",
+    "value": 8,
+    "score": 0.614304
+  },
+  {
+    "code1": "w_upstream",
+    "code2": "w_elec",
+    "value": 7,
+    "score": 0.587506
+  },
+  {
+    "code1": "w_upstream",
+    "code2": "w_synth",
+    "value": 6,
+    "score": 0.581385
+  },
+  {
+    "code1": "w_upstream",
+    "code2": "w_civil",
+    "value": 5,
+    "score": 0.572553
+  },
+  {
+    "code1": "w_upstream",
+    "code2": "w_techpur",
+    "value": 4,
+    "score": 0.570603
+  },
+  {
+    "code1": "w_upstream",
+    "code2": "w_safety",
+    "value": 3,
+    "score": 0.552157
+  },
+  {
+    "code1": "w_upstream",
+    "code2": "w_rese",
+    "value": 2,
+    "score": 0.532718
+  },
+  {
+    "code1": "w_upstream",
+    "code2": "w_info",
+    "value": 1,
+    "score": 0.526957
+  },
+  {
+    "code1": "w_ebus",
+    "code2": "w_ebus",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_ebus",
+    "code2": "w_ana",
+    "value": 9,
+    "score": 0.694573
+  },
+  {
+    "code1": "w_ebus",
+    "code2": "w_retai",
+    "value": 8,
+    "score": 0.692939
+  },
+  {
+    "code1": "w_ebus",
+    "code2": "w_mark",
+    "value": 7,
+    "score": 0.684557
+  },
+  {
+    "code1": "w_ebus",
+    "code2": "w_sale",
+    "value": 6,
+    "score": 0.67116
+  },
+  {
+    "code1": "w_ebus",
+    "code2": "w_busan",
+    "value": 5,
+    "score": 0.661662
+  },
+  {
+    "code1": "w_ebus",
+    "code2": "w_cust",
+    "value": 4,
+    "score": 0.659056
+  },
+  {
+    "code1": "w_ebus",
+    "code2": "w_busi",
+    "value": 3,
+    "score": 0.651903
+  },
+  {
+    "code1": "w_ebus",
+    "code2": "w_prod",
+    "value": 2,
+    "score": 0.649254
+  },
+  {
+    "code1": "w_ebus",
+    "code2": "w_onlma",
+    "value": 1,
+    "score": 0.640455
+  },
+  {
+    "code1": "w_recru",
+    "code2": "w_recru",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_recru",
+    "code2": "w_hrdev",
+    "value": 9,
+    "score": 0.732998
+  },
+  {
+    "code1": "w_recru",
+    "code2": "w_pera",
+    "value": 8,
+    "score": 0.726858
+  },
+  {
+    "code1": "w_recru",
+    "code2": "w_pers",
+    "value": 7,
+    "score": 0.724903
+  },
+  {
+    "code1": "w_recru",
+    "code2": "w_whkus",
+    "value": 6,
+    "score": 0.646773
+  },
+  {
+    "code1": "w_recru",
+    "code2": "w_safo",
+    "value": 5,
+    "score": 0.642457
+  },
+  {
+    "code1": "w_recru",
+    "code2": "w_sama",
+    "value": 4,
+    "score": 0.621416
+  },
+  {
+    "code1": "w_recru",
+    "code2": "w_train",
+    "value": 3,
+    "score": 0.608434
+  },
+  {
+    "code1": "w_recru",
+    "code2": "w_busi",
+    "value": 2,
+    "score": 0.598213
+  },
+  {
+    "code1": "w_recru",
+    "code2": "w_con",
+    "value": 1,
+    "score": 0.592157
+  },
+  {
+    "code1": "w_top",
+    "code2": "w_top",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_top",
+    "code2": "w_sama",
+    "value": 9,
+    "score": 0.72248
+  },
+  {
+    "code1": "w_top",
+    "code2": "w_busi",
+    "value": 8,
+    "score": 0.712329
+  },
+  {
+    "code1": "w_top",
+    "code2": "w_inves",
+    "value": 7,
+    "score": 0.707422
+  },
+  {
+    "code1": "w_top",
+    "code2": "w_org",
+    "value": 6,
+    "score": 0.706192
+  },
+  {
+    "code1": "w_top",
+    "code2": "w_offi",
+    "value": 5,
+    "score": 0.699527
+  },
+  {
+    "code1": "w_top",
+    "code2": "w_ana",
+    "value": 4,
+    "score": 0.673828
+  },
+  {
+    "code1": "w_top",
+    "code2": "w_prod",
+    "value": 3,
+    "score": 0.672163
+  },
+  {
+    "code1": "w_top",
+    "code2": "w_scm",
+    "value": 2,
+    "score": 0.664619
+  },
+  {
+    "code1": "w_top",
+    "code2": "w_proce",
+    "value": 1,
+    "score": 0.659854
+  },
+  {
+    "code1": "w_notar",
+    "code2": "w_notar",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_notar",
+    "code2": "w_advoc",
+    "value": 9,
+    "score": 0.651307
+  },
+  {
+    "code1": "w_notar",
+    "code2": "w_judi",
+    "value": 8,
+    "score": 0.623892
+  },
+  {
+    "code1": "w_notar",
+    "code2": "w_admin",
+    "value": 7,
+    "score": 0.603431
+  },
+  {
+    "code1": "w_notar",
+    "code2": "w_payr",
+    "value": 6,
+    "score": 0.582968
+  },
+  {
+    "code1": "w_notar",
+    "code2": "w_whuni",
+    "value": 5,
+    "score": 0.582906
+  },
+  {
+    "code1": "w_notar",
+    "code2": "w_secr",
+    "value": 4,
+    "score": 0.577162
+  },
+  {
+    "code1": "w_notar",
+    "code2": "w_publ",
+    "value": 3,
+    "score": 0.572273
+  },
+  {
+    "code1": "w_notar",
+    "code2": "w_bibl",
+    "value": 2,
+    "score": 0.57219
+  },
+  {
+    "code1": "w_notar",
+    "code2": "w_house",
+    "value": 1,
+    "score": 0.557242
+  },
+  {
+    "code1": "w_itman",
+    "code2": "w_itman",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_itman",
+    "code2": "w_itpm",
+    "value": 9,
+    "score": 0.621452
+  },
+  {
+    "code1": "w_itman",
+    "code2": "w_itcon",
+    "value": 8,
+    "score": 0.614392
+  },
+  {
+    "code1": "w_itman",
+    "code2": "w_siteman",
+    "value": 7,
+    "score": 0.609716
+  },
+  {
+    "code1": "w_itman",
+    "code2": "w_org",
+    "value": 6,
+    "score": 0.581822
+  },
+  {
+    "code1": "w_itman",
+    "code2": "w_top",
+    "value": 5,
+    "score": 0.549196
+  },
+  {
+    "code1": "w_itman",
+    "code2": "w_admin",
+    "value": 4,
+    "score": 0.541475
+  },
+  {
+    "code1": "w_itman",
+    "code2": "w_itqm",
+    "value": 3,
+    "score": 0.524634
+  },
+  {
+    "code1": "w_itman",
+    "code2": "w_tred",
+    "value": 2,
+    "score": 0.516807
+  },
+  {
+    "code1": "w_itman",
+    "code2": "w_sadm",
+    "value": 1,
+    "score": 0.512715
+  },
+  {
+    "code1": "w_tour",
+    "code2": "w_tour",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_tour",
+    "code2": "w_hote",
+    "value": 9,
+    "score": 0.659926
+  },
+  {
+    "code1": "w_tour",
+    "code2": "w_frei",
+    "value": 8,
+    "score": 0.604895
+  },
+  {
+    "code1": "w_tour",
+    "code2": "w_illumi",
+    "value": 7,
+    "score": 0.548208
+  },
+  {
+    "code1": "w_tour",
+    "code2": "w_mark",
+    "value": 6,
+    "score": 0.539313
+  },
+  {
+    "code1": "w_tour",
+    "code2": "w_pr",
+    "value": 5,
+    "score": 0.536026
+  },
+  {
+    "code1": "w_tour",
+    "code2": "w_envir",
+    "value": 4,
+    "score": 0.524799
+  },
+  {
+    "code1": "w_tour",
+    "code2": "w_safo",
+    "value": 3,
+    "score": 0.519972
+  },
+  {
+    "code1": "w_tour",
+    "code2": "w_adve",
+    "value": 2,
+    "score": 0.506124
+  },
+  {
+    "code1": "w_tour",
+    "code2": "w_cust",
+    "value": 1,
+    "score": 0.498972
+  },
+  {
+    "code1": "w_expo",
+    "code2": "w_expo",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_expo",
+    "code2": "w_impo",
+    "value": 9,
+    "score": 0.80357
+  },
+  {
+    "code1": "w_expo",
+    "code2": "w_trans",
+    "value": 8,
+    "score": 0.603817
+  },
+  {
+    "code1": "w_expo",
+    "code2": "w_prod",
+    "value": 7,
+    "score": 0.553034
+  },
+  {
+    "code1": "w_expo",
+    "code2": "w_sale",
+    "value": 6,
+    "score": 0.541742
+  },
+  {
+    "code1": "w_expo",
+    "code2": "w_safo",
+    "value": 5,
+    "score": 0.529391
+  },
+  {
+    "code1": "w_expo",
+    "code2": "w_fabr",
+    "value": 4,
+    "score": 0.519083
+  },
+  {
+    "code1": "w_expo",
+    "code2": "w_ebus",
+    "value": 3,
+    "score": 0.518081
+  },
+  {
+    "code1": "w_expo",
+    "code2": "w_propur",
+    "value": 2,
+    "score": 0.515129
+  },
+  {
+    "code1": "w_expo",
+    "code2": "w_proce",
+    "value": 1,
+    "score": 0.514732
+  },
+  {
+    "code1": "w_techpur",
+    "code2": "w_techpur",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_techpur",
+    "code2": "w_ware",
+    "value": 9,
+    "score": 0.756742
+  },
+  {
+    "code1": "w_techpur",
+    "code2": "w_faben",
+    "value": 8,
+    "score": 0.755044
+  },
+  {
+    "code1": "w_techpur",
+    "code2": "w_desig",
+    "value": 7,
+    "score": 0.750842
+  },
+  {
+    "code1": "w_techpur",
+    "code2": "w_propur",
+    "value": 6,
+    "score": 0.735161
+  },
+  {
+    "code1": "w_techpur",
+    "code2": "w_civil",
+    "value": 5,
+    "score": 0.718813
+  },
+  {
+    "code1": "w_techpur",
+    "code2": "w_mash",
+    "value": 4,
+    "score": 0.716628
+  },
+  {
+    "code1": "w_techpur",
+    "code2": "w_prod",
+    "value": 3,
+    "score": 0.716363
+  },
+  {
+    "code1": "w_techpur",
+    "code2": "w_sale",
+    "value": 2,
+    "score": 0.712278
+  },
+  {
+    "code1": "w_techpur",
+    "code2": "w_busi",
+    "value": 1,
+    "score": 0.709211
+  },
+  {
+    "code1": "w_home",
+    "code2": "w_home",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_home",
+    "code2": "w_deli",
+    "value": 9,
+    "score": 0.741512
+  },
+  {
+    "code1": "w_home",
+    "code2": "w_munic",
+    "value": 8,
+    "score": 0.733531
+  },
+  {
+    "code1": "w_home",
+    "code2": "w_cust",
+    "value": 7,
+    "score": 0.723149
+  },
+  {
+    "code1": "w_home",
+    "code2": "w_safo",
+    "value": 6,
+    "score": 0.665557
+  },
+  {
+    "code1": "w_home",
+    "code2": "w_sete",
+    "value": 5,
+    "score": 0.645524
+  },
+  {
+    "code1": "w_home",
+    "code2": "w_sain",
+    "value": 4,
+    "score": 0.644483
+  },
+  {
+    "code1": "w_home",
+    "code2": "w_con",
+    "value": 3,
+    "score": 0.637517
+  },
+  {
+    "code1": "w_home",
+    "code2": "w_admin",
+    "value": 2,
+    "score": 0.629699
+  },
+  {
+    "code1": "w_home",
+    "code2": "w_pers",
+    "value": 1,
+    "score": 0.611539
+  },
+  {
+    "code1": "w_event",
+    "code2": "w_event",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_event",
+    "code2": "w_proce",
+    "value": 9,
+    "score": 0.675194
+  },
+  {
+    "code1": "w_event",
+    "code2": "w_aadm",
+    "value": 8,
+    "score": 0.632386
+  },
+  {
+    "code1": "w_event",
+    "code2": "w_riskm",
+    "value": 7,
+    "score": 0.626102
+  },
+  {
+    "code1": "w_event",
+    "code2": "w_itpm",
+    "value": 6,
+    "score": 0.613959
+  },
+  {
+    "code1": "w_event",
+    "code2": "w_prod",
+    "value": 5,
+    "score": 0.611916
+  },
+  {
+    "code1": "w_event",
+    "code2": "w_pm",
+    "value": 4,
+    "score": 0.609524
+  },
+  {
+    "code1": "w_event",
+    "code2": "w_dba",
+    "value": 3,
+    "score": 0.609137
+  },
+  {
+    "code1": "w_event",
+    "code2": "w_faci",
+    "value": 2,
+    "score": 0.602382
+  },
+  {
+    "code1": "w_event",
+    "code2": "w_org",
+    "value": 1,
+    "score": 0.602098
+  },
+  {
+    "code1": "w_cad",
+    "code2": "w_cad",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_cad",
+    "code2": "w_desig",
+    "value": 9,
+    "score": 0.741742
+  },
+  {
+    "code1": "w_cad",
+    "code2": "w_graph",
+    "value": 8,
+    "score": 0.734801
+  },
+  {
+    "code1": "w_cad",
+    "code2": "w_techpur",
+    "value": 7,
+    "score": 0.696329
+  },
+  {
+    "code1": "w_cad",
+    "code2": "w_tool",
+    "value": 6,
+    "score": 0.669565
+  },
+  {
+    "code1": "w_cad",
+    "code2": "w_web",
+    "value": 5,
+    "score": 0.665148
+  },
+  {
+    "code1": "w_cad",
+    "code2": "w_mash",
+    "value": 4,
+    "score": 0.658949
+  },
+  {
+    "code1": "w_cad",
+    "code2": "w_const",
+    "value": 3,
+    "score": 0.64878
+  },
+  {
+    "code1": "w_cad",
+    "code2": "w_civil",
+    "value": 2,
+    "score": 0.645188
+  },
+  {
+    "code1": "w_cad",
+    "code2": "w_synth",
+    "value": 1,
+    "score": 0.639588
+  },
+  {
+    "code1": "w_cont",
+    "code2": "w_cont",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_cont",
+    "code2": "w_proce",
+    "value": 9,
+    "score": 0.656757
+  },
+  {
+    "code1": "w_cont",
+    "code2": "w_rev",
+    "value": 8,
+    "score": 0.62175
+  },
+  {
+    "code1": "w_cont",
+    "code2": "w_sadm",
+    "value": 7,
+    "score": 0.604931
+  },
+  {
+    "code1": "w_cont",
+    "code2": "w_ass",
+    "value": 6,
+    "score": 0.582869
+  },
+  {
+    "code1": "w_cont",
+    "code2": "w_trans",
+    "value": 5,
+    "score": 0.582262
+  },
+  {
+    "code1": "w_cont",
+    "code2": "w_event",
+    "value": 4,
+    "score": 0.574791
+  },
+  {
+    "code1": "w_cont",
+    "code2": "w_faci",
+    "value": 3,
+    "score": 0.570372
+  },
+  {
+    "code1": "w_cont",
+    "code2": "w_aadm",
+    "value": 2,
+    "score": 0.56426
+  },
+  {
+    "code1": "w_cont",
+    "code2": "w_riskm",
+    "value": 1,
+    "score": 0.561689
+  },
+  {
+    "code1": "w_sama",
+    "code2": "w_sama",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_sama",
+    "code2": "w_sale",
+    "value": 9,
+    "score": 0.88249
+  },
+  {
+    "code1": "w_sama",
+    "code2": "w_prod",
+    "value": 8,
+    "score": 0.846536
+  },
+  {
+    "code1": "w_sama",
+    "code2": "w_safo",
+    "value": 7,
+    "score": 0.831529
+  },
+  {
+    "code1": "w_sama",
+    "code2": "w_retai",
+    "value": 6,
+    "score": 0.811733
+  },
+  {
+    "code1": "w_sama",
+    "code2": "w_busi",
+    "value": 5,
+    "score": 0.794731
+  },
+  {
+    "code1": "w_sama",
+    "code2": "w_mark",
+    "value": 4,
+    "score": 0.774539
+  },
+  {
+    "code1": "w_sama",
+    "code2": "w_sain",
+    "value": 3,
+    "score": 0.774505
+  },
+  {
+    "code1": "w_sama",
+    "code2": "w_scm",
+    "value": 2,
+    "score": 0.77218
+  },
+  {
+    "code1": "w_sama",
+    "code2": "w_illumi",
+    "value": 1,
+    "score": 0.745212
+  },
+  {
+    "code1": "w_seng",
+    "code2": "w_seng",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_seng",
+    "code2": "w_swe",
+    "value": 9,
+    "score": 0.919595
+  },
+  {
+    "code1": "w_seng",
+    "code2": "w_ar",
+    "value": 8,
+    "score": 0.754491
+  },
+  {
+    "code1": "w_seng",
+    "code2": "w_maint",
+    "value": 7,
+    "score": 0.736718
+  },
+  {
+    "code1": "w_seng",
+    "code2": "w_aadm",
+    "value": 6,
+    "score": 0.733099
+  },
+  {
+    "code1": "w_seng",
+    "code2": "w_emb",
+    "value": 5,
+    "score": 0.723463
+  },
+  {
+    "code1": "w_seng",
+    "code2": "w_syen",
+    "value": 4,
+    "score": 0.720257
+  },
+  {
+    "code1": "w_seng",
+    "code2": "w_aana",
+    "value": 3,
+    "score": 0.698513
+  },
+  {
+    "code1": "w_seng",
+    "code2": "w_hw",
+    "value": 2,
+    "score": 0.655963
+  },
+  {
+    "code1": "w_seng",
+    "code2": "w_sadm",
+    "value": 1,
+    "score": 0.655652
+  },
+  {
+    "code1": "w_educ",
+    "code2": "w_educ",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_educ",
+    "code2": "w_train",
+    "value": 9,
+    "score": 0.763596
+  },
+  {
+    "code1": "w_educ",
+    "code2": "w_whkig",
+    "value": 8,
+    "score": 0.759623
+  },
+  {
+    "code1": "w_educ",
+    "code2": "w_whuni",
+    "value": 7,
+    "score": 0.743853
+  },
+  {
+    "code1": "w_educ",
+    "code2": "w_civil",
+    "value": 6,
+    "score": 0.599056
+  },
+  {
+    "code1": "w_educ",
+    "code2": "w_soci",
+    "value": 5,
+    "score": 0.593366
+  },
+  {
+    "code1": "w_educ",
+    "code2": "w_syen",
+    "value": 4,
+    "score": 0.577089
+  },
+  {
+    "code1": "w_educ",
+    "code2": "w_info",
+    "value": 3,
+    "score": 0.563367
+  },
+  {
+    "code1": "w_educ",
+    "code2": "w_sadm",
+    "value": 2,
+    "score": 0.549399
+  },
+  {
+    "code1": "w_educ",
+    "code2": "w_elec",
+    "value": 1,
+    "score": 0.542379
+  },
+  {
+    "code1": "w_house",
+    "code2": "w_house",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_house",
+    "code2": "w_immo",
+    "value": 9,
+    "score": 0.846259
+  },
+  {
+    "code1": "w_house",
+    "code2": "w_faci",
+    "value": 8,
+    "score": 0.706984
+  },
+  {
+    "code1": "w_house",
+    "code2": "w_pm",
+    "value": 7,
+    "score": 0.661013
+  },
+  {
+    "code1": "w_house",
+    "code2": "w_org",
+    "value": 6,
+    "score": 0.635744
+  },
+  {
+    "code1": "w_house",
+    "code2": "w_payr",
+    "value": 5,
+    "score": 0.631397
+  },
+  {
+    "code1": "w_house",
+    "code2": "w_inves",
+    "value": 4,
+    "score": 0.628555
+  },
+  {
+    "code1": "w_house",
+    "code2": "w_ware",
+    "value": 3,
+    "score": 0.627809
+  },
+  {
+    "code1": "w_house",
+    "code2": "w_proce",
+    "value": 2,
+    "score": 0.625406
+  },
+  {
+    "code1": "w_house",
+    "code2": "w_hospital",
+    "value": 1,
+    "score": 0.623634
+  },
+  {
+    "code1": "w_itpm",
+    "code2": "w_itpm",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_itpm",
+    "code2": "w_pm",
+    "value": 9,
+    "score": 0.878733
+  },
+  {
+    "code1": "w_itpm",
+    "code2": "w_itcon",
+    "value": 8,
+    "score": 0.776422
+  },
+  {
+    "code1": "w_itpm",
+    "code2": "w_proce",
+    "value": 7,
+    "score": 0.759471
+  },
+  {
+    "code1": "w_itpm",
+    "code2": "w_itqm",
+    "value": 6,
+    "score": 0.748812
+  },
+  {
+    "code1": "w_itpm",
+    "code2": "w_prod",
+    "value": 5,
+    "score": 0.72099
+  },
+  {
+    "code1": "w_itpm",
+    "code2": "w_propur",
+    "value": 4,
+    "score": 0.691278
+  },
+  {
+    "code1": "w_itpm",
+    "code2": "w_faci",
+    "value": 3,
+    "score": 0.685728
+  },
+  {
+    "code1": "w_itpm",
+    "code2": "w_ar",
+    "value": 2,
+    "score": 0.676522
+  },
+  {
+    "code1": "w_itpm",
+    "code2": "w_sadm",
+    "value": 1,
+    "score": 0.668322
+  },
+  {
+    "code1": "w_safo",
+    "code2": "w_safo",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_safo",
+    "code2": "w_sama",
+    "value": 9,
+    "score": 0.831529
+  },
+  {
+    "code1": "w_safo",
+    "code2": "w_sale",
+    "value": 8,
+    "score": 0.83091
+  },
+  {
+    "code1": "w_safo",
+    "code2": "w_sain",
+    "value": 7,
+    "score": 0.827318
+  },
+  {
+    "code1": "w_safo",
+    "code2": "w_cust",
+    "value": 6,
+    "score": 0.818061
+  },
+  {
+    "code1": "w_safo",
+    "code2": "w_deli",
+    "value": 5,
+    "score": 0.776223
+  },
+  {
+    "code1": "w_safo",
+    "code2": "w_prod",
+    "value": 4,
+    "score": 0.746753
+  },
+  {
+    "code1": "w_safo",
+    "code2": "w_illumi",
+    "value": 3,
+    "score": 0.723539
+  },
+  {
+    "code1": "w_safo",
+    "code2": "w_busi",
+    "value": 2,
+    "score": 0.714282
+  },
+  {
+    "code1": "w_safo",
+    "code2": "w_mark",
+    "value": 1,
+    "score": 0.713667
+  },
+  {
+    "code1": "w_maint",
+    "code2": "w_maint",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_maint",
+    "code2": "w_aadm",
+    "value": 9,
+    "score": 0.872502
+  },
+  {
+    "code1": "w_maint",
+    "code2": "w_aana",
+    "value": 8,
+    "score": 0.843171
+  },
+  {
+    "code1": "w_maint",
+    "code2": "w_swe",
+    "value": 7,
+    "score": 0.769819
+  },
+  {
+    "code1": "w_maint",
+    "code2": "w_seng",
+    "value": 6,
+    "score": 0.736718
+  },
+  {
+    "code1": "w_maint",
+    "code2": "w_ar",
+    "value": 5,
+    "score": 0.700995
+  },
+  {
+    "code1": "w_maint",
+    "code2": "w_cc",
+    "value": 4,
+    "score": 0.695541
+  },
+  {
+    "code1": "w_maint",
+    "code2": "w_sadm",
+    "value": 3,
+    "score": 0.643524
+  },
+  {
+    "code1": "w_maint",
+    "code2": "w_emb",
+    "value": 2,
+    "score": 0.637954
+  },
+  {
+    "code1": "w_maint",
+    "code2": "w_proce",
+    "value": 1,
+    "score": 0.620669
+  },
+  {
+    "code1": "w_whuni",
+    "code2": "w_whuni",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_whuni",
+    "code2": "w_educ",
+    "value": 9,
+    "score": 0.743853
+  },
+  {
+    "code1": "w_whuni",
+    "code2": "w_train",
+    "value": 8,
+    "score": 0.703235
+  },
+  {
+    "code1": "w_whuni",
+    "code2": "w_bibl",
+    "value": 7,
+    "score": 0.643108
+  },
+  {
+    "code1": "w_whuni",
+    "code2": "w_publ",
+    "value": 6,
+    "score": 0.637218
+  },
+  {
+    "code1": "w_whuni",
+    "code2": "w_advoc",
+    "value": 5,
+    "score": 0.636193
+  },
+  {
+    "code1": "w_whuni",
+    "code2": "w_edito",
+    "value": 4,
+    "score": 0.617129
+  },
+  {
+    "code1": "w_whuni",
+    "code2": "w_rese",
+    "value": 3,
+    "score": 0.607706
+  },
+  {
+    "code1": "w_whuni",
+    "code2": "w_doc",
+    "value": 2,
+    "score": 0.602718
+  },
+  {
+    "code1": "w_whuni",
+    "code2": "w_civil",
+    "value": 1,
+    "score": 0.598189
+  },
+  {
+    "code1": "w_space",
+    "code2": "w_space",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_space",
+    "code2": "w_auto",
+    "value": 9,
+    "score": 0.602442
+  },
+  {
+    "code1": "w_space",
+    "code2": "w_frei",
+    "value": 8,
+    "score": 0.588031
+  },
+  {
+    "code1": "w_space",
+    "code2": "w_civil",
+    "value": 7,
+    "score": 0.57437
+  },
+  {
+    "code1": "w_space",
+    "code2": "w_mash",
+    "value": 6,
+    "score": 0.570409
+  },
+  {
+    "code1": "w_space",
+    "code2": "w_safety",
+    "value": 5,
+    "score": 0.556791
+  },
+  {
+    "code1": "w_space",
+    "code2": "w_desig",
+    "value": 4,
+    "score": 0.556455
+  },
+  {
+    "code1": "w_space",
+    "code2": "w_room",
+    "value": 3,
+    "score": 0.544769
+  },
+  {
+    "code1": "w_space",
+    "code2": "w_techpur",
+    "value": 2,
+    "score": 0.540383
+  },
+  {
+    "code1": "w_space",
+    "code2": "w_org",
+    "value": 1,
+    "score": 0.535743
+  },
+  {
+    "code1": "w_comm",
+    "code2": "w_comm",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_comm",
+    "code2": "w_tele",
+    "value": 9,
+    "score": 0.731456
+  },
+  {
+    "code1": "w_comm",
+    "code2": "w_illumi",
+    "value": 8,
+    "score": 0.720502
+  },
+  {
+    "code1": "w_comm",
+    "code2": "w_mark",
+    "value": 7,
+    "score": 0.719542
+  },
+  {
+    "code1": "w_comm",
+    "code2": "w_org",
+    "value": 6,
+    "score": 0.70779
+  },
+  {
+    "code1": "w_comm",
+    "code2": "w_busi",
+    "value": 5,
+    "score": 0.689816
+  },
+  {
+    "code1": "w_comm",
+    "code2": "w_sama",
+    "value": 4,
+    "score": 0.678744
+  },
+  {
+    "code1": "w_comm",
+    "code2": "w_pr",
+    "value": 3,
+    "score": 0.67676
+  },
+  {
+    "code1": "w_comm",
+    "code2": "w_adve",
+    "value": 2,
+    "score": 0.672395
+  },
+  {
+    "code1": "w_comm",
+    "code2": "w_ana",
+    "value": 1,
+    "score": 0.670972
+  },
+  {
+    "code1": "w_civil",
+    "code2": "w_civil",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_civil",
+    "code2": "w_const",
+    "value": 9,
+    "score": 0.848253
+  },
+  {
+    "code1": "w_civil",
+    "code2": "w_plant",
+    "value": 8,
+    "score": 0.774932
+  },
+  {
+    "code1": "w_civil",
+    "code2": "w_desig",
+    "value": 7,
+    "score": 0.731169
+  },
+  {
+    "code1": "w_civil",
+    "code2": "w_mash",
+    "value": 6,
+    "score": 0.726949
+  },
+  {
+    "code1": "w_civil",
+    "code2": "w_archi",
+    "value": 5,
+    "score": 0.721756
+  },
+  {
+    "code1": "w_civil",
+    "code2": "w_syen",
+    "value": 4,
+    "score": 0.720805
+  },
+  {
+    "code1": "w_civil",
+    "code2": "w_techpur",
+    "value": 3,
+    "score": 0.718813
+  },
+  {
+    "code1": "w_civil",
+    "code2": "w_safety",
+    "value": 2,
+    "score": 0.715392
+  },
+  {
+    "code1": "w_civil",
+    "code2": "w_energ",
+    "value": 1,
+    "score": 0.707732
+  },
+  {
+    "code1": "w_prod",
+    "code2": "w_prod",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_prod",
+    "code2": "w_sama",
+    "value": 9,
+    "score": 0.846536
+  },
+  {
+    "code1": "w_prod",
+    "code2": "w_sale",
+    "value": 8,
+    "score": 0.806694
+  },
+  {
+    "code1": "w_prod",
+    "code2": "w_scm",
+    "value": 7,
+    "score": 0.79613
+  },
+  {
+    "code1": "w_prod",
+    "code2": "w_proce",
+    "value": 6,
+    "score": 0.783525
+  },
+  {
+    "code1": "w_prod",
+    "code2": "w_busi",
+    "value": 5,
+    "score": 0.761796
+  },
+  {
+    "code1": "w_prod",
+    "code2": "w_pm",
+    "value": 4,
+    "score": 0.748594
+  },
+  {
+    "code1": "w_prod",
+    "code2": "w_safo",
+    "value": 3,
+    "score": 0.746753
+  },
+  {
+    "code1": "w_prod",
+    "code2": "w_ware",
+    "value": 2,
+    "score": 0.736321
+  },
+  {
+    "code1": "w_prod",
+    "code2": "w_mark",
+    "value": 1,
+    "score": 0.73156
+  },
+  {
+    "code1": "w_hote",
+    "code2": "w_hote",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_hote",
+    "code2": "w_tour",
+    "value": 9,
+    "score": 0.659926
+  },
+  {
+    "code1": "w_hote",
+    "code2": "w_sain",
+    "value": 8,
+    "score": 0.619549
+  },
+  {
+    "code1": "w_hote",
+    "code2": "w_street",
+    "value": 7,
+    "score": 0.596077
+  },
+  {
+    "code1": "w_hote",
+    "code2": "w_cust",
+    "value": 6,
+    "score": 0.593074
+  },
+  {
+    "code1": "w_hote",
+    "code2": "w_whole",
+    "value": 5,
+    "score": 0.588926
+  },
+  {
+    "code1": "w_hote",
+    "code2": "w_room",
+    "value": 4,
+    "score": 0.554047
+  },
+  {
+    "code1": "w_hote",
+    "code2": "w_house",
+    "value": 3,
+    "score": 0.550308
+  },
+  {
+    "code1": "w_hote",
+    "code2": "w_hospital",
+    "value": 2,
+    "score": 0.54364
+  },
+  {
+    "code1": "w_hote",
+    "code2": "w_illumi",
+    "value": 1,
+    "score": 0.536355
+  },
+  {
+    "code1": "w_inves",
+    "code2": "w_inves",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_inves",
+    "code2": "w_asset",
+    "value": 9,
+    "score": 0.883294
+  },
+  {
+    "code1": "w_inves",
+    "code2": "w_riskm",
+    "value": 8,
+    "score": 0.756919
+  },
+  {
+    "code1": "w_inves",
+    "code2": "w_keyacc",
+    "value": 7,
+    "score": 0.752051
+  },
+  {
+    "code1": "w_inves",
+    "code2": "w_ana",
+    "value": 6,
+    "score": 0.716882
+  },
+  {
+    "code1": "w_inves",
+    "code2": "w_busan",
+    "value": 5,
+    "score": 0.713047
+  },
+  {
+    "code1": "w_inves",
+    "code2": "w_top",
+    "value": 4,
+    "score": 0.707422
+  },
+  {
+    "code1": "w_inves",
+    "code2": "w_busi",
+    "value": 3,
+    "score": 0.699133
+  },
+  {
+    "code1": "w_inves",
+    "code2": "w_pm",
+    "value": 2,
+    "score": 0.685611
+  },
+  {
+    "code1": "w_inves",
+    "code2": "w_prod",
+    "value": 1,
+    "score": 0.680201
+  },
+  {
+    "code1": "w_busi",
+    "code2": "w_busi",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_busi",
+    "code2": "w_ana",
+    "value": 9,
+    "score": 0.838871
+  },
+  {
+    "code1": "w_busi",
+    "code2": "w_proce",
+    "value": 8,
+    "score": 0.819865
+  },
+  {
+    "code1": "w_busi",
+    "code2": "w_sama",
+    "value": 7,
+    "score": 0.794731
+  },
+  {
+    "code1": "w_busi",
+    "code2": "w_busan",
+    "value": 6,
+    "score": 0.779927
+  },
+  {
+    "code1": "w_busi",
+    "code2": "w_prod",
+    "value": 5,
+    "score": 0.761796
+  },
+  {
+    "code1": "w_busi",
+    "code2": "w_offi",
+    "value": 4,
+    "score": 0.739534
+  },
+  {
+    "code1": "w_busi",
+    "code2": "w_con",
+    "value": 3,
+    "score": 0.721026
+  },
+  {
+    "code1": "w_busi",
+    "code2": "w_safo",
+    "value": 2,
+    "score": 0.714282
+  },
+  {
+    "code1": "w_busi",
+    "code2": "w_top",
+    "value": 1,
+    "score": 0.712329
+  },
+  {
+    "code1": "w_hand",
+    "code2": "w_hand",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_hand",
+    "code2": "w_music",
+    "value": 9,
+    "score": 0.678213
+  },
+  {
+    "code1": "w_hand",
+    "code2": "w_stage",
+    "value": 8,
+    "score": 0.649682
+  },
+  {
+    "code1": "w_hand",
+    "code2": "w_muse",
+    "value": 7,
+    "score": 0.603462
+  },
+  {
+    "code1": "w_hand",
+    "code2": "w_phot",
+    "value": 6,
+    "score": 0.590614
+  },
+  {
+    "code1": "w_hand",
+    "code2": "w_craft",
+    "value": 5,
+    "score": 0.565985
+  },
+  {
+    "code1": "w_hand",
+    "code2": "w_room",
+    "value": 4,
+    "score": 0.561953
+  },
+  {
+    "code1": "w_hand",
+    "code2": "w_cad",
+    "value": 3,
+    "score": 0.553476
+  },
+  {
+    "code1": "w_hand",
+    "code2": "w_graph",
+    "value": 2,
+    "score": 0.550672
+  },
+  {
+    "code1": "w_hand",
+    "code2": "w_mash",
+    "value": 1,
+    "score": 0.54725
+  },
+  {
+    "code1": "w_monta",
+    "code2": "w_monta",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_monta",
+    "code2": "w_const",
+    "value": 9,
+    "score": 0.579867
+  },
+  {
+    "code1": "w_monta",
+    "code2": "w_room",
+    "value": 8,
+    "score": 0.562022
+  },
+  {
+    "code1": "w_monta",
+    "code2": "w_graph",
+    "value": 7,
+    "score": 0.539257
+  },
+  {
+    "code1": "w_monta",
+    "code2": "w_desig",
+    "value": 6,
+    "score": 0.538862
+  },
+  {
+    "code1": "w_monta",
+    "code2": "w_statics",
+    "value": 5,
+    "score": 0.536633
+  },
+  {
+    "code1": "w_monta",
+    "code2": "w_fabr",
+    "value": 4,
+    "score": 0.533718
+  },
+  {
+    "code1": "w_monta",
+    "code2": "w_tool",
+    "value": 3,
+    "score": 0.533143
+  },
+  {
+    "code1": "w_monta",
+    "code2": "w_illumi",
+    "value": 2,
+    "score": 0.532197
+  },
+  {
+    "code1": "w_monta",
+    "code2": "w_mash",
+    "value": 1,
+    "score": 0.529352
+  },
+  {
+    "code1": "w_hospital",
+    "code2": "w_hospital",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_hospital",
+    "code2": "w_nurse",
+    "value": 9,
+    "score": 0.739297
+  },
+  {
+    "code1": "w_hospital",
+    "code2": "w_medic",
+    "value": 8,
+    "score": 0.718982
+  },
+  {
+    "code1": "w_hospital",
+    "code2": "w_medas",
+    "value": 7,
+    "score": 0.709128
+  },
+  {
+    "code1": "w_hospital",
+    "code2": "w_doc",
+    "value": 6,
+    "score": 0.684932
+  },
+  {
+    "code1": "w_hospital",
+    "code2": "w_faci",
+    "value": 5,
+    "score": 0.676358
+  },
+  {
+    "code1": "w_hospital",
+    "code2": "w_medte",
+    "value": 4,
+    "score": 0.650965
+  },
+  {
+    "code1": "w_hospital",
+    "code2": "w_phar",
+    "value": 3,
+    "score": 0.632747
+  },
+  {
+    "code1": "w_hospital",
+    "code2": "w_admin",
+    "value": 2,
+    "score": 0.629437
+  },
+  {
+    "code1": "w_hospital",
+    "code2": "w_ther",
+    "value": 1,
+    "score": 0.627544
+  },
+  {
+    "code1": "w_jour",
+    "code2": "w_jour",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_jour",
+    "code2": "w_edito",
+    "value": 9,
+    "score": 0.70943
+  },
+  {
+    "code1": "w_jour",
+    "code2": "w_publ",
+    "value": 8,
+    "score": 0.611716
+  },
+  {
+    "code1": "w_jour",
+    "code2": "w_tred",
+    "value": 7,
+    "score": 0.604803
+  },
+  {
+    "code1": "w_jour",
+    "code2": "w_pr",
+    "value": 6,
+    "score": 0.601302
+  },
+  {
+    "code1": "w_jour",
+    "code2": "w_illumi",
+    "value": 5,
+    "score": 0.57176
+  },
+  {
+    "code1": "w_jour",
+    "code2": "w_film",
+    "value": 4,
+    "score": 0.558868
+  },
+  {
+    "code1": "w_jour",
+    "code2": "w_phot",
+    "value": 3,
+    "score": 0.544054
+  },
+  {
+    "code1": "w_jour",
+    "code2": "w_mark",
+    "value": 2,
+    "score": 0.533206
+  },
+  {
+    "code1": "w_jour",
+    "code2": "w_adve",
+    "value": 1,
+    "score": 0.526315
+  },
+  {
+    "code1": "w_munic",
+    "code2": "w_munic",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_munic",
+    "code2": "w_home",
+    "value": 9,
+    "score": 0.733531
+  },
+  {
+    "code1": "w_munic",
+    "code2": "w_deli",
+    "value": 8,
+    "score": 0.645107
+  },
+  {
+    "code1": "w_munic",
+    "code2": "w_secu",
+    "value": 7,
+    "score": 0.64069
+  },
+  {
+    "code1": "w_munic",
+    "code2": "w_cust",
+    "value": 6,
+    "score": 0.640453
+  },
+  {
+    "code1": "w_munic",
+    "code2": "w_admin",
+    "value": 5,
+    "score": 0.634022
+  },
+  {
+    "code1": "w_munic",
+    "code2": "w_pr",
+    "value": 4,
+    "score": 0.611225
+  },
+  {
+    "code1": "w_munic",
+    "code2": "w_faci",
+    "value": 3,
+    "score": 0.589904
+  },
+  {
+    "code1": "w_munic",
+    "code2": "w_safo",
+    "value": 2,
+    "score": 0.588209
+  },
+  {
+    "code1": "w_munic",
+    "code2": "w_con",
+    "value": 1,
+    "score": 0.587775
+  },
+  {
+    "code1": "w_faci",
+    "code2": "w_faci",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_faci",
+    "code2": "w_proce",
+    "value": 9,
+    "score": 0.774671
+  },
+  {
+    "code1": "w_faci",
+    "code2": "w_pm",
+    "value": 8,
+    "score": 0.71251
+  },
+  {
+    "code1": "w_faci",
+    "code2": "w_plant",
+    "value": 7,
+    "score": 0.710838
+  },
+  {
+    "code1": "w_faci",
+    "code2": "w_house",
+    "value": 6,
+    "score": 0.706984
+  },
+  {
+    "code1": "w_faci",
+    "code2": "w_sadm",
+    "value": 5,
+    "score": 0.704289
+  },
+  {
+    "code1": "w_faci",
+    "code2": "w_itpm",
+    "value": 4,
+    "score": 0.685728
+  },
+  {
+    "code1": "w_faci",
+    "code2": "w_const",
+    "value": 3,
+    "score": 0.683172
+  },
+  {
+    "code1": "w_faci",
+    "code2": "w_hospital",
+    "value": 2,
+    "score": 0.676358
+  },
+  {
+    "code1": "w_faci",
+    "code2": "w_scm",
+    "value": 1,
+    "score": 0.674125
+  },
+  {
+    "code1": "w_desig",
+    "code2": "w_desig",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_desig",
+    "code2": "w_web",
+    "value": 9,
+    "score": 0.768005
+  },
+  {
+    "code1": "w_desig",
+    "code2": "w_techpur",
+    "value": 8,
+    "score": 0.750842
+  },
+  {
+    "code1": "w_desig",
+    "code2": "w_fabr",
+    "value": 7,
+    "score": 0.750651
+  },
+  {
+    "code1": "w_desig",
+    "code2": "w_const",
+    "value": 6,
+    "score": 0.745841
+  },
+  {
+    "code1": "w_desig",
+    "code2": "w_cad",
+    "value": 5,
+    "score": 0.741742
+  },
+  {
+    "code1": "w_desig",
+    "code2": "w_civil",
+    "value": 4,
+    "score": 0.731169
+  },
+  {
+    "code1": "w_desig",
+    "code2": "w_graph",
+    "value": 3,
+    "score": 0.725288
+  },
+  {
+    "code1": "w_desig",
+    "code2": "w_info",
+    "value": 2,
+    "score": 0.703652
+  },
+  {
+    "code1": "w_desig",
+    "code2": "w_syen",
+    "value": 1,
+    "score": 0.691966
+  },
+  {
+    "code1": "w_rev",
+    "code2": "w_rev",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_rev",
+    "code2": "w_edito",
+    "value": 9,
+    "score": 0.695096
+  },
+  {
+    "code1": "w_rev",
+    "code2": "w_trans",
+    "value": 8,
+    "score": 0.649302
+  },
+  {
+    "code1": "w_rev",
+    "code2": "w_ass",
+    "value": 7,
+    "score": 0.629954
+  },
+  {
+    "code1": "w_rev",
+    "code2": "w_cont",
+    "value": 6,
+    "score": 0.62175
+  },
+  {
+    "code1": "w_rev",
+    "code2": "w_room",
+    "value": 5,
+    "score": 0.609301
+  },
+  {
+    "code1": "w_rev",
+    "code2": "w_arch",
+    "value": 4,
+    "score": 0.592868
+  },
+  {
+    "code1": "w_rev",
+    "code2": "w_aana",
+    "value": 3,
+    "score": 0.592288
+  },
+  {
+    "code1": "w_rev",
+    "code2": "w_con",
+    "value": 2,
+    "score": 0.58822
+  },
+  {
+    "code1": "w_rev",
+    "code2": "w_clean",
+    "value": 1,
+    "score": 0.587189
+  },
+  {
+    "code1": "w_dba",
+    "code2": "w_dba",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_dba",
+    "code2": "w_dbde",
+    "value": 9,
+    "score": 0.875724
+  },
+  {
+    "code1": "w_dba",
+    "code2": "w_dwh",
+    "value": 8,
+    "score": 0.779948
+  },
+  {
+    "code1": "w_dba",
+    "code2": "w_sadm",
+    "value": 7,
+    "score": 0.7285
+  },
+  {
+    "code1": "w_dba",
+    "code2": "w_aadm",
+    "value": 6,
+    "score": 0.726479
+  },
+  {
+    "code1": "w_dba",
+    "code2": "w_proce",
+    "value": 5,
+    "score": 0.640844
+  },
+  {
+    "code1": "w_dba",
+    "code2": "w_nwa",
+    "value": 4,
+    "score": 0.637779
+  },
+  {
+    "code1": "w_dba",
+    "code2": "w_admin",
+    "value": 3,
+    "score": 0.618953
+  },
+  {
+    "code1": "w_dba",
+    "code2": "w_offi",
+    "value": 2,
+    "score": 0.613952
+  },
+  {
+    "code1": "w_dba",
+    "code2": "w_maint",
+    "value": 1,
+    "score": 0.611959
+  },
+  {
+    "code1": "w_book",
+    "code2": "w_book",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_book",
+    "code2": "w_acco",
+    "value": 9,
+    "score": 0.808822
+  },
+  {
+    "code1": "w_book",
+    "code2": "w_bank",
+    "value": 8,
+    "score": 0.727947
+  },
+  {
+    "code1": "w_book",
+    "code2": "w_audit",
+    "value": 7,
+    "score": 0.72399
+  },
+  {
+    "code1": "w_book",
+    "code2": "w_payr",
+    "value": 6,
+    "score": 0.663179
+  },
+  {
+    "code1": "w_book",
+    "code2": "w_publ",
+    "value": 5,
+    "score": 0.638079
+  },
+  {
+    "code1": "w_book",
+    "code2": "w_org",
+    "value": 4,
+    "score": 0.605308
+  },
+  {
+    "code1": "w_book",
+    "code2": "w_insum",
+    "value": 3,
+    "score": 0.597278
+  },
+  {
+    "code1": "w_book",
+    "code2": "w_whuni",
+    "value": 2,
+    "score": 0.597066
+  },
+  {
+    "code1": "w_book",
+    "code2": "w_admin",
+    "value": 1,
+    "score": 0.595187
+  },
+  {
+    "code1": "w_rese",
+    "code2": "w_rese",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_rese",
+    "code2": "w_busan",
+    "value": 9,
+    "score": 0.748199
+  },
+  {
+    "code1": "w_rese",
+    "code2": "w_swe",
+    "value": 8,
+    "score": 0.684765
+  },
+  {
+    "code1": "w_rese",
+    "code2": "w_desig",
+    "value": 7,
+    "score": 0.657935
+  },
+  {
+    "code1": "w_rese",
+    "code2": "w_klifo",
+    "value": 6,
+    "score": 0.653932
+  },
+  {
+    "code1": "w_rese",
+    "code2": "w_nwde",
+    "value": 5,
+    "score": 0.642371
+  },
+  {
+    "code1": "w_rese",
+    "code2": "w_techpur",
+    "value": 4,
+    "score": 0.640611
+  },
+  {
+    "code1": "w_rese",
+    "code2": "w_energ",
+    "value": 3,
+    "score": 0.626956
+  },
+  {
+    "code1": "w_rese",
+    "code2": "w_pm",
+    "value": 2,
+    "score": 0.621724
+  },
+  {
+    "code1": "w_rese",
+    "code2": "w_aana",
+    "value": 1,
+    "score": 0.620082
+  },
+  {
+    "code1": "w_street",
+    "code2": "w_street",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_street",
+    "code2": "w_archi",
+    "value": 9,
+    "score": 0.717665
+  },
+  {
+    "code1": "w_street",
+    "code2": "w_civil",
+    "value": 8,
+    "score": 0.668757
+  },
+  {
+    "code1": "w_street",
+    "code2": "w_const",
+    "value": 7,
+    "score": 0.653883
+  },
+  {
+    "code1": "w_street",
+    "code2": "w_room",
+    "value": 6,
+    "score": 0.651916
+  },
+  {
+    "code1": "w_street",
+    "code2": "w_auto",
+    "value": 5,
+    "score": 0.62571
+  },
+  {
+    "code1": "w_street",
+    "code2": "w_statics",
+    "value": 4,
+    "score": 0.622738
+  },
+  {
+    "code1": "w_street",
+    "code2": "w_craft",
+    "value": 3,
+    "score": 0.603986
+  },
+  {
+    "code1": "w_street",
+    "code2": "w_hote",
+    "value": 2,
+    "score": 0.596077
+  },
+  {
+    "code1": "w_street",
+    "code2": "w_frei",
+    "value": 1,
+    "score": 0.585998
+  },
+  {
+    "code1": "w_craft",
+    "code2": "w_craft",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_craft",
+    "code2": "w_statics",
+    "value": 9,
+    "score": 0.869387
+  },
+  {
+    "code1": "w_craft",
+    "code2": "w_archi",
+    "value": 8,
+    "score": 0.838345
+  },
+  {
+    "code1": "w_craft",
+    "code2": "w_mate",
+    "value": 7,
+    "score": 0.820503
+  },
+  {
+    "code1": "w_craft",
+    "code2": "w_wood",
+    "value": 6,
+    "score": 0.712699
+  },
+  {
+    "code1": "w_craft",
+    "code2": "w_const",
+    "value": 5,
+    "score": 0.689872
+  },
+  {
+    "code1": "w_craft",
+    "code2": "w_stone",
+    "value": 4,
+    "score": 0.676231
+  },
+  {
+    "code1": "w_craft",
+    "code2": "w_room",
+    "value": 3,
+    "score": 0.647805
+  },
+  {
+    "code1": "w_craft",
+    "code2": "w_mash",
+    "value": 2,
+    "score": 0.647012
+  },
+  {
+    "code1": "w_craft",
+    "code2": "w_civil",
+    "value": 1,
+    "score": 0.622549
+  },
+  {
+    "code1": "w_statics",
+    "code2": "w_statics",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_statics",
+    "code2": "w_craft",
+    "value": 9,
+    "score": 0.869387
+  },
+  {
+    "code1": "w_statics",
+    "code2": "w_archi",
+    "value": 8,
+    "score": 0.867229
+  },
+  {
+    "code1": "w_statics",
+    "code2": "w_mate",
+    "value": 7,
+    "score": 0.836546
+  },
+  {
+    "code1": "w_statics",
+    "code2": "w_const",
+    "value": 6,
+    "score": 0.714507
+  },
+  {
+    "code1": "w_statics",
+    "code2": "w_mash",
+    "value": 5,
+    "score": 0.698744
+  },
+  {
+    "code1": "w_statics",
+    "code2": "w_civil",
+    "value": 4,
+    "score": 0.69195
+  },
+  {
+    "code1": "w_statics",
+    "code2": "w_room",
+    "value": 3,
+    "score": 0.64462
+  },
+  {
+    "code1": "w_statics",
+    "code2": "w_stone",
+    "value": 2,
+    "score": 0.642732
+  },
+  {
+    "code1": "w_statics",
+    "code2": "w_street",
+    "value": 1,
+    "score": 0.622738
+  },
+  {
+    "code1": "w_siteman",
+    "code2": "w_siteman",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_siteman",
+    "code2": "w_tred",
+    "value": 9,
+    "score": 0.622617
+  },
+  {
+    "code1": "w_siteman",
+    "code2": "w_itman",
+    "value": 8,
+    "score": 0.609716
+  },
+  {
+    "code1": "w_siteman",
+    "code2": "w_org",
+    "value": 7,
+    "score": 0.604388
+  },
+  {
+    "code1": "w_siteman",
+    "code2": "w_pm",
+    "value": 6,
+    "score": 0.59651
+  },
+  {
+    "code1": "w_siteman",
+    "code2": "w_sama",
+    "value": 5,
+    "score": 0.588334
+  },
+  {
+    "code1": "w_siteman",
+    "code2": "w_house",
+    "value": 4,
+    "score": 0.587789
+  },
+  {
+    "code1": "w_siteman",
+    "code2": "w_dba",
+    "value": 3,
+    "score": 0.580763
+  },
+  {
+    "code1": "w_siteman",
+    "code2": "w_techpur",
+    "value": 2,
+    "score": 0.579754
+  },
+  {
+    "code1": "w_siteman",
+    "code2": "w_faci",
+    "value": 1,
+    "score": 0.579629
+  },
+  {
+    "code1": "w_judi",
+    "code2": "w_judi",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_judi",
+    "code2": "w_advoc",
+    "value": 9,
+    "score": 0.904591
+  },
+  {
+    "code1": "w_judi",
+    "code2": "w_notar",
+    "value": 8,
+    "score": 0.623892
+  },
+  {
+    "code1": "w_judi",
+    "code2": "w_whuni",
+    "value": 7,
+    "score": 0.583681
+  },
+  {
+    "code1": "w_judi",
+    "code2": "w_rev",
+    "value": 6,
+    "score": 0.549739
+  },
+  {
+    "code1": "w_judi",
+    "code2": "w_edito",
+    "value": 5,
+    "score": 0.54701
+  },
+  {
+    "code1": "w_judi",
+    "code2": "w_con",
+    "value": 4,
+    "score": 0.545641
+  },
+  {
+    "code1": "w_judi",
+    "code2": "w_ass",
+    "value": 3,
+    "score": 0.54495
+  },
+  {
+    "code1": "w_judi",
+    "code2": "w_munic",
+    "value": 2,
+    "score": 0.53124
+  },
+  {
+    "code1": "w_judi",
+    "code2": "w_educ",
+    "value": 1,
+    "score": 0.527303
+  },
+  {
+    "code1": "w_pr",
+    "code2": "w_pr",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_pr",
+    "code2": "w_mark",
+    "value": 9,
+    "score": 0.741013
+  },
+  {
+    "code1": "w_pr",
+    "code2": "w_illumi",
+    "value": 8,
+    "score": 0.677561
+  },
+  {
+    "code1": "w_pr",
+    "code2": "w_comm",
+    "value": 7,
+    "score": 0.67676
+  },
+  {
+    "code1": "w_pr",
+    "code2": "w_adve",
+    "value": 6,
+    "score": 0.670764
+  },
+  {
+    "code1": "w_pr",
+    "code2": "w_cust",
+    "value": 5,
+    "score": 0.616556
+  },
+  {
+    "code1": "w_pr",
+    "code2": "w_munic",
+    "value": 4,
+    "score": 0.611225
+  },
+  {
+    "code1": "w_pr",
+    "code2": "w_con",
+    "value": 3,
+    "score": 0.602245
+  },
+  {
+    "code1": "w_pr",
+    "code2": "w_jour",
+    "value": 2,
+    "score": 0.601302
+  },
+  {
+    "code1": "w_pr",
+    "code2": "w_sale",
+    "value": 1,
+    "score": 0.599075
+  },
+  {
+    "code1": "w_hist",
+    "code2": "w_hist",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_hist",
+    "code2": "w_muse",
+    "value": 9,
+    "score": 0.622431
+  },
+  {
+    "code1": "w_hist",
+    "code2": "w_arch",
+    "value": 8,
+    "score": 0.592467
+  },
+  {
+    "code1": "w_hist",
+    "code2": "w_whuni",
+    "value": 7,
+    "score": 0.580753
+  },
+  {
+    "code1": "w_hist",
+    "code2": "w_trans",
+    "value": 6,
+    "score": 0.544658
+  },
+  {
+    "code1": "w_hist",
+    "code2": "w_natur",
+    "value": 5,
+    "score": 0.541597
+  },
+  {
+    "code1": "w_hist",
+    "code2": "w_bibl",
+    "value": 4,
+    "score": 0.52169
+  },
+  {
+    "code1": "w_hist",
+    "code2": "w_jour",
+    "value": 3,
+    "score": 0.512234
+  },
+  {
+    "code1": "w_hist",
+    "code2": "w_room",
+    "value": 2,
+    "score": 0.511172
+  },
+  {
+    "code1": "w_hist",
+    "code2": "w_envir",
+    "value": 1,
+    "score": 0.50795
+  },
+  {
+    "code1": "w_soci",
+    "code2": "w_soci",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_soci",
+    "code2": "w_lab",
+    "value": 9,
+    "score": 0.736492
+  },
+  {
+    "code1": "w_soci",
+    "code2": "w_pers",
+    "value": 8,
+    "score": 0.630404
+  },
+  {
+    "code1": "w_soci",
+    "code2": "w_train",
+    "value": 7,
+    "score": 0.603989
+  },
+  {
+    "code1": "w_soci",
+    "code2": "w_civil",
+    "value": 6,
+    "score": 0.593683
+  },
+  {
+    "code1": "w_soci",
+    "code2": "w_educ",
+    "value": 5,
+    "score": 0.593366
+  },
+  {
+    "code1": "w_soci",
+    "code2": "w_payr",
+    "value": 4,
+    "score": 0.581769
+  },
+  {
+    "code1": "w_soci",
+    "code2": "w_hrdev",
+    "value": 3,
+    "score": 0.58046
+  },
+  {
+    "code1": "w_soci",
+    "code2": "w_munic",
+    "value": 2,
+    "score": 0.575617
+  },
+  {
+    "code1": "w_soci",
+    "code2": "w_pr",
+    "value": 1,
+    "score": 0.571117
+  },
+  {
+    "code1": "w_medte",
+    "code2": "w_medte",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_medte",
+    "code2": "w_doc",
+    "value": 9,
+    "score": 0.876447
+  },
+  {
+    "code1": "w_medte",
+    "code2": "w_medic",
+    "value": 8,
+    "score": 0.754138
+  },
+  {
+    "code1": "w_medte",
+    "code2": "w_medas",
+    "value": 7,
+    "score": 0.695296
+  },
+  {
+    "code1": "w_medte",
+    "code2": "w_klifo",
+    "value": 6,
+    "score": 0.694553
+  },
+  {
+    "code1": "w_medte",
+    "code2": "w_ther",
+    "value": 5,
+    "score": 0.658665
+  },
+  {
+    "code1": "w_medte",
+    "code2": "w_hospital",
+    "value": 4,
+    "score": 0.650965
+  },
+  {
+    "code1": "w_medte",
+    "code2": "w_rese",
+    "value": 3,
+    "score": 0.60856
+  },
+  {
+    "code1": "w_medte",
+    "code2": "w_nurse",
+    "value": 2,
+    "score": 0.606804
+  },
+  {
+    "code1": "w_medte",
+    "code2": "w_phar",
+    "value": 1,
+    "score": 0.604433
+  },
+  {
+    "code1": "w_stone",
+    "code2": "w_stone",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_stone",
+    "code2": "w_wood",
+    "value": 9,
+    "score": 0.687323
+  },
+  {
+    "code1": "w_stone",
+    "code2": "w_craft",
+    "value": 8,
+    "score": 0.676231
+  },
+  {
+    "code1": "w_stone",
+    "code2": "w_scie",
+    "value": 7,
+    "score": 0.656042
+  },
+  {
+    "code1": "w_stone",
+    "code2": "w_statics",
+    "value": 6,
+    "score": 0.642732
+  },
+  {
+    "code1": "w_stone",
+    "code2": "w_mate",
+    "value": 5,
+    "score": 0.625759
+  },
+  {
+    "code1": "w_stone",
+    "code2": "w_civil",
+    "value": 4,
+    "score": 0.621945
+  },
+  {
+    "code1": "w_stone",
+    "code2": "w_mash",
+    "value": 3,
+    "score": 0.608305
+  },
+  {
+    "code1": "w_stone",
+    "code2": "w_tool",
+    "value": 2,
+    "score": 0.604506
+  },
+  {
+    "code1": "w_stone",
+    "code2": "w_lab",
+    "value": 1,
+    "score": 0.597207
+  },
+  {
+    "code1": "w_ana",
+    "code2": "w_ana",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_ana",
+    "code2": "w_busi",
+    "value": 9,
+    "score": 0.838871
+  },
+  {
+    "code1": "w_ana",
+    "code2": "w_busan",
+    "value": 8,
+    "score": 0.808673
+  },
+  {
+    "code1": "w_ana",
+    "code2": "w_sama",
+    "value": 7,
+    "score": 0.720136
+  },
+  {
+    "code1": "w_ana",
+    "code2": "w_inves",
+    "value": 6,
+    "score": 0.716882
+  },
+  {
+    "code1": "w_ana",
+    "code2": "w_prod",
+    "value": 5,
+    "score": 0.699922
+  },
+  {
+    "code1": "w_ana",
+    "code2": "w_mark",
+    "value": 4,
+    "score": 0.698492
+  },
+  {
+    "code1": "w_ana",
+    "code2": "w_sale",
+    "value": 3,
+    "score": 0.69578
+  },
+  {
+    "code1": "w_ana",
+    "code2": "w_ebus",
+    "value": 2,
+    "score": 0.694573
+  },
+  {
+    "code1": "w_ana",
+    "code2": "w_audit",
+    "value": 1,
+    "score": 0.6917
+  },
+  {
+    "code1": "w_secu",
+    "code2": "w_secu",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_secu",
+    "code2": "w_nwa",
+    "value": 9,
+    "score": 0.668729
+  },
+  {
+    "code1": "w_secu",
+    "code2": "w_safo",
+    "value": 8,
+    "score": 0.652355
+  },
+  {
+    "code1": "w_secu",
+    "code2": "w_sete",
+    "value": 7,
+    "score": 0.647708
+  },
+  {
+    "code1": "w_secu",
+    "code2": "w_munic",
+    "value": 6,
+    "score": 0.64069
+  },
+  {
+    "code1": "w_secu",
+    "code2": "w_defe",
+    "value": 5,
+    "score": 0.634282
+  },
+  {
+    "code1": "w_secu",
+    "code2": "w_deli",
+    "value": 4,
+    "score": 0.633519
+  },
+  {
+    "code1": "w_secu",
+    "code2": "w_cust",
+    "value": 3,
+    "score": 0.616921
+  },
+  {
+    "code1": "w_secu",
+    "code2": "w_home",
+    "value": 2,
+    "score": 0.604734
+  },
+  {
+    "code1": "w_secu",
+    "code2": "w_sadm",
+    "value": 1,
+    "score": 0.599891
+  },
+  {
+    "code1": "w_klifo",
+    "code2": "w_klifo",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_klifo",
+    "code2": "w_doc",
+    "value": 9,
+    "score": 0.770704
+  },
+  {
+    "code1": "w_klifo",
+    "code2": "w_medte",
+    "value": 8,
+    "score": 0.694553
+  },
+  {
+    "code1": "w_klifo",
+    "code2": "w_medic",
+    "value": 7,
+    "score": 0.655037
+  },
+  {
+    "code1": "w_klifo",
+    "code2": "w_rese",
+    "value": 6,
+    "score": 0.653932
+  },
+  {
+    "code1": "w_klifo",
+    "code2": "w_medas",
+    "value": 5,
+    "score": 0.629432
+  },
+  {
+    "code1": "w_klifo",
+    "code2": "w_ther",
+    "value": 4,
+    "score": 0.628582
+  },
+  {
+    "code1": "w_klifo",
+    "code2": "w_nurse",
+    "value": 3,
+    "score": 0.574109
+  },
+  {
+    "code1": "w_klifo",
+    "code2": "w_hospital",
+    "value": 2,
+    "score": 0.573202
+  },
+  {
+    "code1": "w_klifo",
+    "code2": "w_phar",
+    "value": 1,
+    "score": 0.566084
+  },
+  {
+    "code1": "w_bank",
+    "code2": "w_bank",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_bank",
+    "code2": "w_book",
+    "value": 9,
+    "score": 0.727947
+  },
+  {
+    "code1": "w_bank",
+    "code2": "w_acco",
+    "value": 8,
+    "score": 0.646668
+  },
+  {
+    "code1": "w_bank",
+    "code2": "w_payr",
+    "value": 7,
+    "score": 0.646058
+  },
+  {
+    "code1": "w_bank",
+    "code2": "w_publ",
+    "value": 6,
+    "score": 0.606298
+  },
+  {
+    "code1": "w_bank",
+    "code2": "w_audit",
+    "value": 5,
+    "score": 0.591236
+  },
+  {
+    "code1": "w_bank",
+    "code2": "w_org",
+    "value": 4,
+    "score": 0.58254
+  },
+  {
+    "code1": "w_bank",
+    "code2": "w_bibl",
+    "value": 3,
+    "score": 0.582072
+  },
+  {
+    "code1": "w_bank",
+    "code2": "w_inves",
+    "value": 2,
+    "score": 0.573322
+  },
+  {
+    "code1": "w_bank",
+    "code2": "w_keyacc",
+    "value": 1,
+    "score": 0.569156
+  },
+  {
+    "code1": "w_sete",
+    "code2": "w_sete",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_sete",
+    "code2": "w_cust",
+    "value": 9,
+    "score": 0.7789
+  },
+  {
+    "code1": "w_sete",
+    "code2": "w_deli",
+    "value": 8,
+    "score": 0.736559
+  },
+  {
+    "code1": "w_sete",
+    "code2": "w_syen",
+    "value": 7,
+    "score": 0.713129
+  },
+  {
+    "code1": "w_sete",
+    "code2": "w_safo",
+    "value": 6,
+    "score": 0.688715
+  },
+  {
+    "code1": "w_sete",
+    "code2": "w_cc",
+    "value": 5,
+    "score": 0.688314
+  },
+  {
+    "code1": "w_sete",
+    "code2": "w_sadm",
+    "value": 4,
+    "score": 0.657259
+  },
+  {
+    "code1": "w_sete",
+    "code2": "w_tele",
+    "value": 3,
+    "score": 0.651875
+  },
+  {
+    "code1": "w_sete",
+    "code2": "w_secu",
+    "value": 2,
+    "score": 0.647708
+  },
+  {
+    "code1": "w_sete",
+    "code2": "w_home",
+    "value": 1,
+    "score": 0.645524
+  },
+  {
+    "code1": "w_food",
+    "code2": "w_food",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_food",
+    "code2": "w_agri",
+    "value": 9,
+    "score": 0.708026
+  },
+  {
+    "code1": "w_food",
+    "code2": "w_fabr",
+    "value": 8,
+    "score": 0.630563
+  },
+  {
+    "code1": "w_food",
+    "code2": "w_textil",
+    "value": 7,
+    "score": 0.604778
+  },
+  {
+    "code1": "w_food",
+    "code2": "w_plant",
+    "value": 6,
+    "score": 0.580973
+  },
+  {
+    "code1": "w_food",
+    "code2": "w_scm",
+    "value": 5,
+    "score": 0.568885
+  },
+  {
+    "code1": "w_food",
+    "code2": "w_ware",
+    "value": 4,
+    "score": 0.542179
+  },
+  {
+    "code1": "w_food",
+    "code2": "w_prod",
+    "value": 3,
+    "score": 0.532585
+  },
+  {
+    "code1": "w_food",
+    "code2": "w_lab",
+    "value": 2,
+    "score": 0.523265
+  },
+  {
+    "code1": "w_food",
+    "code2": "w_waste",
+    "value": 1,
+    "score": 0.519359
+  },
+  {
+    "code1": "w_advoc",
+    "code2": "w_advoc",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_advoc",
+    "code2": "w_judi",
+    "value": 9,
+    "score": 0.904591
+  },
+  {
+    "code1": "w_advoc",
+    "code2": "w_con",
+    "value": 8,
+    "score": 0.651684
+  },
+  {
+    "code1": "w_advoc",
+    "code2": "w_notar",
+    "value": 7,
+    "score": 0.651307
+  },
+  {
+    "code1": "w_advoc",
+    "code2": "w_whuni",
+    "value": 6,
+    "score": 0.636193
+  },
+  {
+    "code1": "w_advoc",
+    "code2": "w_ass",
+    "value": 5,
+    "score": 0.602128
+  },
+  {
+    "code1": "w_advoc",
+    "code2": "w_medic",
+    "value": 4,
+    "score": 0.599549
+  },
+  {
+    "code1": "w_advoc",
+    "code2": "w_admin",
+    "value": 3,
+    "score": 0.577494
+  },
+  {
+    "code1": "w_advoc",
+    "code2": "w_house",
+    "value": 2,
+    "score": 0.573579
+  },
+  {
+    "code1": "w_advoc",
+    "code2": "w_ther",
+    "value": 1,
+    "score": 0.568131
+  },
+  {
+    "code1": "w_dbde",
+    "code2": "w_dbde",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_dbde",
+    "code2": "w_dba",
+    "value": 9,
+    "score": 0.875724
+  },
+  {
+    "code1": "w_dbde",
+    "code2": "w_dwh",
+    "value": 8,
+    "score": 0.715252
+  },
+  {
+    "code1": "w_dbde",
+    "code2": "w_swe",
+    "value": 7,
+    "score": 0.676356
+  },
+  {
+    "code1": "w_dbde",
+    "code2": "w_nwde",
+    "value": 6,
+    "score": 0.640279
+  },
+  {
+    "code1": "w_dbde",
+    "code2": "w_busan",
+    "value": 5,
+    "score": 0.610777
+  },
+  {
+    "code1": "w_dbde",
+    "code2": "w_aana",
+    "value": 4,
+    "score": 0.601821
+  },
+  {
+    "code1": "w_dbde",
+    "code2": "w_seng",
+    "value": 3,
+    "score": 0.599416
+  },
+  {
+    "code1": "w_dbde",
+    "code2": "w_maint",
+    "value": 2,
+    "score": 0.583636
+  },
+  {
+    "code1": "w_dbde",
+    "code2": "w_rese",
+    "value": 1,
+    "score": 0.577792
+  },
+  {
+    "code1": "w_audit",
+    "code2": "w_audit",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_audit",
+    "code2": "w_acco",
+    "value": 9,
+    "score": 0.852434
+  },
+  {
+    "code1": "w_audit",
+    "code2": "w_book",
+    "value": 8,
+    "score": 0.72399
+  },
+  {
+    "code1": "w_audit",
+    "code2": "w_ana",
+    "value": 7,
+    "score": 0.6917
+  },
+  {
+    "code1": "w_audit",
+    "code2": "w_busi",
+    "value": 6,
+    "score": 0.656418
+  },
+  {
+    "code1": "w_audit",
+    "code2": "w_asset",
+    "value": 5,
+    "score": 0.655118
+  },
+  {
+    "code1": "w_audit",
+    "code2": "w_riskm",
+    "value": 4,
+    "score": 0.65382
+  },
+  {
+    "code1": "w_audit",
+    "code2": "w_qm",
+    "value": 3,
+    "score": 0.637805
+  },
+  {
+    "code1": "w_audit",
+    "code2": "w_tax",
+    "value": 2,
+    "score": 0.628744
+  },
+  {
+    "code1": "w_audit",
+    "code2": "w_insu",
+    "value": 1,
+    "score": 0.620013
+  },
+  {
+    "code1": "w_dwh",
+    "code2": "w_dwh",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_dwh",
+    "code2": "w_dba",
+    "value": 9,
+    "score": 0.779948
+  },
+  {
+    "code1": "w_dwh",
+    "code2": "w_dbde",
+    "value": 8,
+    "score": 0.715252
+  },
+  {
+    "code1": "w_dwh",
+    "code2": "w_sadm",
+    "value": 7,
+    "score": 0.614264
+  },
+  {
+    "code1": "w_dwh",
+    "code2": "w_seng",
+    "value": 6,
+    "score": 0.606486
+  },
+  {
+    "code1": "w_dwh",
+    "code2": "w_aadm",
+    "value": 5,
+    "score": 0.600596
+  },
+  {
+    "code1": "w_dwh",
+    "code2": "w_itpm",
+    "value": 4,
+    "score": 0.592697
+  },
+  {
+    "code1": "w_dwh",
+    "code2": "w_ar",
+    "value": 3,
+    "score": 0.590265
+  },
+  {
+    "code1": "w_dwh",
+    "code2": "w_swe",
+    "value": 2,
+    "score": 0.584887
+  },
+  {
+    "code1": "w_dwh",
+    "code2": "w_nwa",
+    "value": 1,
+    "score": 0.572022
+  },
+  {
+    "code1": "w_deli",
+    "code2": "w_deli",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_deli",
+    "code2": "w_cust",
+    "value": 9,
+    "score": 0.801718
+  },
+  {
+    "code1": "w_deli",
+    "code2": "w_safo",
+    "value": 8,
+    "score": 0.776223
+  },
+  {
+    "code1": "w_deli",
+    "code2": "w_home",
+    "value": 7,
+    "score": 0.741512
+  },
+  {
+    "code1": "w_deli",
+    "code2": "w_sete",
+    "value": 6,
+    "score": 0.736559
+  },
+  {
+    "code1": "w_deli",
+    "code2": "w_sain",
+    "value": 5,
+    "score": 0.700544
+  },
+  {
+    "code1": "w_deli",
+    "code2": "w_scm",
+    "value": 4,
+    "score": 0.673012
+  },
+  {
+    "code1": "w_deli",
+    "code2": "w_sale",
+    "value": 3,
+    "score": 0.652682
+  },
+  {
+    "code1": "w_deli",
+    "code2": "w_frei",
+    "value": 2,
+    "score": 0.647044
+  },
+  {
+    "code1": "w_deli",
+    "code2": "w_munic",
+    "value": 1,
+    "score": 0.645107
+  },
+  {
+    "code1": "w_whkig",
+    "code2": "w_whkig",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_whkig",
+    "code2": "w_educ",
+    "value": 9,
+    "score": 0.759623
+  },
+  {
+    "code1": "w_whkig",
+    "code2": "w_train",
+    "value": 8,
+    "score": 0.577965
+  },
+  {
+    "code1": "w_whkig",
+    "code2": "w_whuni",
+    "value": 7,
+    "score": 0.515853
+  },
+  {
+    "code1": "w_whkig",
+    "code2": "w_trans",
+    "value": 6,
+    "score": 0.47006
+  },
+  {
+    "code1": "w_whkig",
+    "code2": "w_ther",
+    "value": 5,
+    "score": 0.450864
+  },
+  {
+    "code1": "w_whkig",
+    "code2": "w_lab",
+    "value": 4,
+    "score": 0.449963
+  },
+  {
+    "code1": "w_whkig",
+    "code2": "w_ass",
+    "value": 3,
+    "score": 0.449733
+  },
+  {
+    "code1": "w_whkig",
+    "code2": "w_notar",
+    "value": 2,
+    "score": 0.442715
+  },
+  {
+    "code1": "w_whkig",
+    "code2": "w_bibl",
+    "value": 1,
+    "score": 0.439038
+  },
+  {
+    "code1": "w_proce",
+    "code2": "w_proce",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_proce",
+    "code2": "w_busi",
+    "value": 9,
+    "score": 0.819865
+  },
+  {
+    "code1": "w_proce",
+    "code2": "w_prod",
+    "value": 8,
+    "score": 0.783525
+  },
+  {
+    "code1": "w_proce",
+    "code2": "w_faci",
+    "value": 7,
+    "score": 0.774671
+  },
+  {
+    "code1": "w_proce",
+    "code2": "w_pm",
+    "value": 6,
+    "score": 0.773263
+  },
+  {
+    "code1": "w_proce",
+    "code2": "w_itpm",
+    "value": 5,
+    "score": 0.759471
+  },
+  {
+    "code1": "w_proce",
+    "code2": "w_sadm",
+    "value": 4,
+    "score": 0.758941
+  },
+  {
+    "code1": "w_proce",
+    "code2": "w_scm",
+    "value": 3,
+    "score": 0.747517
+  },
+  {
+    "code1": "w_proce",
+    "code2": "w_aadm",
+    "value": 2,
+    "score": 0.72979
+  },
+  {
+    "code1": "w_proce",
+    "code2": "w_offi",
+    "value": 1,
+    "score": 0.72066
+  },
+  {
+    "code1": "w_energ",
+    "code2": "w_energ",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_energ",
+    "code2": "w_elec",
+    "value": 9,
+    "score": 0.866895
+  },
+  {
+    "code1": "w_energ",
+    "code2": "w_civil",
+    "value": 8,
+    "score": 0.707732
+  },
+  {
+    "code1": "w_energ",
+    "code2": "w_plant",
+    "value": 7,
+    "score": 0.703857
+  },
+  {
+    "code1": "w_energ",
+    "code2": "w_upstream",
+    "value": 6,
+    "score": 0.684549
+  },
+  {
+    "code1": "w_energ",
+    "code2": "w_info",
+    "value": 5,
+    "score": 0.66862
+  },
+  {
+    "code1": "w_energ",
+    "code2": "w_mash",
+    "value": 4,
+    "score": 0.663522
+  },
+  {
+    "code1": "w_energ",
+    "code2": "w_syen",
+    "value": 3,
+    "score": 0.663215
+  },
+  {
+    "code1": "w_energ",
+    "code2": "w_hw",
+    "value": 2,
+    "score": 0.662449
+  },
+  {
+    "code1": "w_energ",
+    "code2": "w_techpur",
+    "value": 1,
+    "score": 0.662396
+  },
+  {
+    "code1": "w_insu",
+    "code2": "w_insu",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_insu",
+    "code2": "w_insum",
+    "value": 9,
+    "score": 0.861353
+  },
+  {
+    "code1": "w_insu",
+    "code2": "w_riskm",
+    "value": 8,
+    "score": 0.687647
+  },
+  {
+    "code1": "w_insu",
+    "code2": "w_safety",
+    "value": 7,
+    "score": 0.634611
+  },
+  {
+    "code1": "w_insu",
+    "code2": "w_audit",
+    "value": 6,
+    "score": 0.620013
+  },
+  {
+    "code1": "w_insu",
+    "code2": "w_doc",
+    "value": 5,
+    "score": 0.578523
+  },
+  {
+    "code1": "w_insu",
+    "code2": "w_medte",
+    "value": 4,
+    "score": 0.562349
+  },
+  {
+    "code1": "w_insu",
+    "code2": "w_civil",
+    "value": 3,
+    "score": 0.553731
+  },
+  {
+    "code1": "w_insu",
+    "code2": "w_auto",
+    "value": 2,
+    "score": 0.5486
+  },
+  {
+    "code1": "w_insu",
+    "code2": "w_hospital",
+    "value": 1,
+    "score": 0.547814
+  },
+  {
+    "code1": "w_nwde",
+    "code2": "w_nwde",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_nwde",
+    "code2": "w_nwa",
+    "value": 9,
+    "score": 0.796036
+  },
+  {
+    "code1": "w_nwde",
+    "code2": "w_tele",
+    "value": 8,
+    "score": 0.684968
+  },
+  {
+    "code1": "w_nwde",
+    "code2": "w_rese",
+    "value": 7,
+    "score": 0.642371
+  },
+  {
+    "code1": "w_nwde",
+    "code2": "w_dbde",
+    "value": 6,
+    "score": 0.640279
+  },
+  {
+    "code1": "w_nwde",
+    "code2": "w_busan",
+    "value": 5,
+    "score": 0.62508
+  },
+  {
+    "code1": "w_nwde",
+    "code2": "w_emb",
+    "value": 4,
+    "score": 0.619025
+  },
+  {
+    "code1": "w_nwde",
+    "code2": "w_info",
+    "value": 3,
+    "score": 0.616535
+  },
+  {
+    "code1": "w_nwde",
+    "code2": "w_swe",
+    "value": 2,
+    "score": 0.583508
+  },
+  {
+    "code1": "w_nwde",
+    "code2": "w_syen",
+    "value": 1,
+    "score": 0.582385
+  },
+  {
+    "code1": "w_whole",
+    "code2": "w_whole",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_whole",
+    "code2": "w_retai",
+    "value": 9,
+    "score": 0.836908
+  },
+  {
+    "code1": "w_whole",
+    "code2": "w_ware",
+    "value": 8,
+    "score": 0.790718
+  },
+  {
+    "code1": "w_whole",
+    "code2": "w_sale",
+    "value": 7,
+    "score": 0.74318
+  },
+  {
+    "code1": "w_whole",
+    "code2": "w_purch",
+    "value": 6,
+    "score": 0.725792
+  },
+  {
+    "code1": "w_whole",
+    "code2": "w_sain",
+    "value": 5,
+    "score": 0.716529
+  },
+  {
+    "code1": "w_whole",
+    "code2": "w_sama",
+    "value": 4,
+    "score": 0.639368
+  },
+  {
+    "code1": "w_whole",
+    "code2": "w_cust",
+    "value": 3,
+    "score": 0.624591
+  },
+  {
+    "code1": "w_whole",
+    "code2": "w_illumi",
+    "value": 2,
+    "score": 0.604132
+  },
+  {
+    "code1": "w_whole",
+    "code2": "w_phar",
+    "value": 1,
+    "score": 0.603298
+  },
+  {
+    "code1": "w_pm",
+    "code2": "w_pm",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_pm",
+    "code2": "w_itpm",
+    "value": 9,
+    "score": 0.878733
+  },
+  {
+    "code1": "w_pm",
+    "code2": "w_propur",
+    "value": 8,
+    "score": 0.803985
+  },
+  {
+    "code1": "w_pm",
+    "code2": "w_proce",
+    "value": 7,
+    "score": 0.773263
+  },
+  {
+    "code1": "w_pm",
+    "code2": "w_prod",
+    "value": 6,
+    "score": 0.748594
+  },
+  {
+    "code1": "w_pm",
+    "code2": "w_faci",
+    "value": 5,
+    "score": 0.71251
+  },
+  {
+    "code1": "w_pm",
+    "code2": "w_inves",
+    "value": 4,
+    "score": 0.685611
+  },
+  {
+    "code1": "w_pm",
+    "code2": "w_techpur",
+    "value": 3,
+    "score": 0.67979
+  },
+  {
+    "code1": "w_pm",
+    "code2": "w_busan",
+    "value": 2,
+    "score": 0.663845
+  },
+  {
+    "code1": "w_pm",
+    "code2": "w_house",
+    "value": 1,
+    "score": 0.661013
+  },
+  {
+    "code1": "w_hw",
+    "code2": "w_hw",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_hw",
+    "code2": "w_emb",
+    "value": 9,
+    "score": 0.760856
+  },
+  {
+    "code1": "w_hw",
+    "code2": "w_syen",
+    "value": 8,
+    "score": 0.721907
+  },
+  {
+    "code1": "w_hw",
+    "code2": "w_elec",
+    "value": 7,
+    "score": 0.706101
+  },
+  {
+    "code1": "w_hw",
+    "code2": "w_mash",
+    "value": 6,
+    "score": 0.674235
+  },
+  {
+    "code1": "w_hw",
+    "code2": "w_energ",
+    "value": 5,
+    "score": 0.662449
+  },
+  {
+    "code1": "w_hw",
+    "code2": "w_techpur",
+    "value": 4,
+    "score": 0.662311
+  },
+  {
+    "code1": "w_hw",
+    "code2": "w_ar",
+    "value": 3,
+    "score": 0.661197
+  },
+  {
+    "code1": "w_hw",
+    "code2": "w_seng",
+    "value": 2,
+    "score": 0.655963
+  },
+  {
+    "code1": "w_hw",
+    "code2": "w_tred",
+    "value": 1,
+    "score": 0.649421
+  },
+  {
+    "code1": "w_train",
+    "code2": "w_train",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_train",
+    "code2": "w_educ",
+    "value": 9,
+    "score": 0.763596
+  },
+  {
+    "code1": "w_train",
+    "code2": "w_whuni",
+    "value": 8,
+    "score": 0.703235
+  },
+  {
+    "code1": "w_train",
+    "code2": "w_whkus",
+    "value": 7,
+    "score": 0.691927
+  },
+  {
+    "code1": "w_train",
+    "code2": "w_lab",
+    "value": 6,
+    "score": 0.642831
+  },
+  {
+    "code1": "w_train",
+    "code2": "w_techpur",
+    "value": 5,
+    "score": 0.628075
+  },
+  {
+    "code1": "w_train",
+    "code2": "w_civil",
+    "value": 4,
+    "score": 0.623787
+  },
+  {
+    "code1": "w_train",
+    "code2": "w_hrdev",
+    "value": 3,
+    "score": 0.622471
+  },
+  {
+    "code1": "w_train",
+    "code2": "w_mash",
+    "value": 2,
+    "score": 0.612536
+  },
+  {
+    "code1": "w_train",
+    "code2": "w_recru",
+    "value": 1,
+    "score": 0.608434
+  },
+  {
+    "code1": "w_secr",
+    "code2": "w_secr",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_secr",
+    "code2": "w_admin",
+    "value": 9,
+    "score": 0.70095
+  },
+  {
+    "code1": "w_secr",
+    "code2": "w_offi",
+    "value": 8,
+    "score": 0.598896
+  },
+  {
+    "code1": "w_secr",
+    "code2": "w_org",
+    "value": 7,
+    "score": 0.59047
+  },
+  {
+    "code1": "w_secr",
+    "code2": "w_sadm",
+    "value": 6,
+    "score": 0.587668
+  },
+  {
+    "code1": "w_secr",
+    "code2": "w_munic",
+    "value": 5,
+    "score": 0.57894
+  },
+  {
+    "code1": "w_secr",
+    "code2": "w_notar",
+    "value": 4,
+    "score": 0.577162
+  },
+  {
+    "code1": "w_secr",
+    "code2": "w_secu",
+    "value": 3,
+    "score": 0.551187
+  },
+  {
+    "code1": "w_secr",
+    "code2": "w_con",
+    "value": 2,
+    "score": 0.54969
+  },
+  {
+    "code1": "w_secr",
+    "code2": "w_acco",
+    "value": 1,
+    "score": 0.544276
+  },
+  {
+    "code1": "w_ass",
+    "code2": "w_ass",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_ass",
+    "code2": "w_medas",
+    "value": 9,
+    "score": 0.762626
+  },
+  {
+    "code1": "w_ass",
+    "code2": "w_cc",
+    "value": 8,
+    "score": 0.674939
+  },
+  {
+    "code1": "w_ass",
+    "code2": "w_con",
+    "value": 7,
+    "score": 0.657834
+  },
+  {
+    "code1": "w_ass",
+    "code2": "w_rev",
+    "value": 6,
+    "score": 0.629954
+  },
+  {
+    "code1": "w_ass",
+    "code2": "w_trans",
+    "value": 5,
+    "score": 0.615875
+  },
+  {
+    "code1": "w_ass",
+    "code2": "w_advoc",
+    "value": 4,
+    "score": 0.602128
+  },
+  {
+    "code1": "w_ass",
+    "code2": "w_rece",
+    "value": 3,
+    "score": 0.59197
+  },
+  {
+    "code1": "w_ass",
+    "code2": "w_cust",
+    "value": 2,
+    "score": 0.588322
+  },
+  {
+    "code1": "w_ass",
+    "code2": "w_admin",
+    "value": 1,
+    "score": 0.586749
+  },
+  {
+    "code1": "w_syen",
+    "code2": "w_syen",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_syen",
+    "code2": "w_sysa",
+    "value": 9,
+    "score": 0.850784
+  },
+  {
+    "code1": "w_syen",
+    "code2": "w_sadm",
+    "value": 8,
+    "score": 0.84292
+  },
+  {
+    "code1": "w_syen",
+    "code2": "w_ar",
+    "value": 7,
+    "score": 0.738395
+  },
+  {
+    "code1": "w_syen",
+    "code2": "w_info",
+    "value": 6,
+    "score": 0.735627
+  },
+  {
+    "code1": "w_syen",
+    "code2": "w_hw",
+    "value": 5,
+    "score": 0.721907
+  },
+  {
+    "code1": "w_syen",
+    "code2": "w_civil",
+    "value": 4,
+    "score": 0.720805
+  },
+  {
+    "code1": "w_syen",
+    "code2": "w_seng",
+    "value": 3,
+    "score": 0.720257
+  },
+  {
+    "code1": "w_syen",
+    "code2": "w_sete",
+    "value": 2,
+    "score": 0.713129
+  },
+  {
+    "code1": "w_syen",
+    "code2": "w_emb",
+    "value": 1,
+    "score": 0.703299
+  },
+  {
+    "code1": "w_ware",
+    "code2": "w_ware",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_ware",
+    "code2": "w_sale",
+    "value": 9,
+    "score": 0.790772
+  },
+  {
+    "code1": "w_ware",
+    "code2": "w_whole",
+    "value": 8,
+    "score": 0.790718
+  },
+  {
+    "code1": "w_ware",
+    "code2": "w_techpur",
+    "value": 7,
+    "score": 0.756742
+  },
+  {
+    "code1": "w_ware",
+    "code2": "w_retai",
+    "value": 6,
+    "score": 0.74938
+  },
+  {
+    "code1": "w_ware",
+    "code2": "w_sain",
+    "value": 5,
+    "score": 0.747398
+  },
+  {
+    "code1": "w_ware",
+    "code2": "w_prod",
+    "value": 4,
+    "score": 0.736321
+  },
+  {
+    "code1": "w_ware",
+    "code2": "w_sama",
+    "value": 3,
+    "score": 0.733353
+  },
+  {
+    "code1": "w_ware",
+    "code2": "w_purch",
+    "value": 2,
+    "score": 0.71261
+  },
+  {
+    "code1": "w_ware",
+    "code2": "w_safo",
+    "value": 1,
+    "score": 0.703539
+  },
+  {
+    "code1": "w_fabr",
+    "code2": "w_fabr",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_fabr",
+    "code2": "w_textil",
+    "value": 9,
+    "score": 0.784884
+  },
+  {
+    "code1": "w_fabr",
+    "code2": "w_metal",
+    "value": 8,
+    "score": 0.774978
+  },
+  {
+    "code1": "w_fabr",
+    "code2": "w_desig",
+    "value": 7,
+    "score": 0.750651
+  },
+  {
+    "code1": "w_fabr",
+    "code2": "w_synth",
+    "value": 6,
+    "score": 0.730025
+  },
+  {
+    "code1": "w_fabr",
+    "code2": "w_mash",
+    "value": 5,
+    "score": 0.684535
+  },
+  {
+    "code1": "w_fabr",
+    "code2": "w_techpur",
+    "value": 4,
+    "score": 0.684155
+  },
+  {
+    "code1": "w_fabr",
+    "code2": "w_plant",
+    "value": 3,
+    "score": 0.683212
+  },
+  {
+    "code1": "w_fabr",
+    "code2": "w_ware",
+    "value": 2,
+    "score": 0.674619
+  },
+  {
+    "code1": "w_fabr",
+    "code2": "w_const",
+    "value": 1,
+    "score": 0.671835
+  },
+  {
+    "code1": "w_swe",
+    "code2": "w_swe",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_swe",
+    "code2": "w_seng",
+    "value": 9,
+    "score": 0.919595
+  },
+  {
+    "code1": "w_swe",
+    "code2": "w_maint",
+    "value": 8,
+    "score": 0.769819
+  },
+  {
+    "code1": "w_swe",
+    "code2": "w_ar",
+    "value": 7,
+    "score": 0.756567
+  },
+  {
+    "code1": "w_swe",
+    "code2": "w_emb",
+    "value": 6,
+    "score": 0.736202
+  },
+  {
+    "code1": "w_swe",
+    "code2": "w_aadm",
+    "value": 5,
+    "score": 0.727351
+  },
+  {
+    "code1": "w_swe",
+    "code2": "w_aana",
+    "value": 4,
+    "score": 0.709808
+  },
+  {
+    "code1": "w_swe",
+    "code2": "w_rese",
+    "value": 3,
+    "score": 0.684765
+  },
+  {
+    "code1": "w_swe",
+    "code2": "w_dbde",
+    "value": 2,
+    "score": 0.676356
+  },
+  {
+    "code1": "w_swe",
+    "code2": "w_itpm",
+    "value": 1,
+    "score": 0.645872
+  },
+  {
+    "code1": "w_stage",
+    "code2": "w_stage",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_stage",
+    "code2": "w_hand",
+    "value": 9,
+    "score": 0.649682
+  },
+  {
+    "code1": "w_stage",
+    "code2": "w_mash",
+    "value": 8,
+    "score": 0.603021
+  },
+  {
+    "code1": "w_stage",
+    "code2": "w_music",
+    "value": 7,
+    "score": 0.601358
+  },
+  {
+    "code1": "w_stage",
+    "code2": "w_elec",
+    "value": 6,
+    "score": 0.580684
+  },
+  {
+    "code1": "w_stage",
+    "code2": "w_faben",
+    "value": 5,
+    "score": 0.555704
+  },
+  {
+    "code1": "w_stage",
+    "code2": "w_techpur",
+    "value": 4,
+    "score": 0.542477
+  },
+  {
+    "code1": "w_stage",
+    "code2": "w_energ",
+    "value": 3,
+    "score": 0.536217
+  },
+  {
+    "code1": "w_stage",
+    "code2": "w_tred",
+    "value": 2,
+    "score": 0.535315
+  },
+  {
+    "code1": "w_stage",
+    "code2": "w_hw",
+    "value": 1,
+    "score": 0.527112
+  },
+  {
+    "code1": "w_riskm",
+    "code2": "w_riskm",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_riskm",
+    "code2": "w_inves",
+    "value": 9,
+    "score": 0.756919
+  },
+  {
+    "code1": "w_riskm",
+    "code2": "w_asset",
+    "value": 8,
+    "score": 0.712568
+  },
+  {
+    "code1": "w_riskm",
+    "code2": "w_proce",
+    "value": 7,
+    "score": 0.693576
+  },
+  {
+    "code1": "w_riskm",
+    "code2": "w_insu",
+    "value": 6,
+    "score": 0.687647
+  },
+  {
+    "code1": "w_riskm",
+    "code2": "w_ana",
+    "value": 5,
+    "score": 0.681837
+  },
+  {
+    "code1": "w_riskm",
+    "code2": "w_busi",
+    "value": 4,
+    "score": 0.658871
+  },
+  {
+    "code1": "w_riskm",
+    "code2": "w_pm",
+    "value": 3,
+    "score": 0.657869
+  },
+  {
+    "code1": "w_riskm",
+    "code2": "w_prod",
+    "value": 2,
+    "score": 0.654494
+  },
+  {
+    "code1": "w_riskm",
+    "code2": "w_audit",
+    "value": 1,
+    "score": 0.65382
+  },
+  {
+    "code1": "w_scie",
+    "code2": "w_scie",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_scie",
+    "code2": "w_mate",
+    "value": 9,
+    "score": 0.689721
+  },
+  {
+    "code1": "w_scie",
+    "code2": "w_synth",
+    "value": 8,
+    "score": 0.689689
+  },
+  {
+    "code1": "w_scie",
+    "code2": "w_mash",
+    "value": 7,
+    "score": 0.674828
+  },
+  {
+    "code1": "w_scie",
+    "code2": "w_stone",
+    "value": 6,
+    "score": 0.656042
+  },
+  {
+    "code1": "w_scie",
+    "code2": "w_metal",
+    "value": 5,
+    "score": 0.627719
+  },
+  {
+    "code1": "w_scie",
+    "code2": "w_statics",
+    "value": 4,
+    "score": 0.603292
+  },
+  {
+    "code1": "w_scie",
+    "code2": "w_civil",
+    "value": 3,
+    "score": 0.590267
+  },
+  {
+    "code1": "w_scie",
+    "code2": "w_natur",
+    "value": 2,
+    "score": 0.585559
+  },
+  {
+    "code1": "w_scie",
+    "code2": "w_phys",
+    "value": 1,
+    "score": 0.585484
+  },
+  {
+    "code1": "w_sadm",
+    "code2": "w_sadm",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_sadm",
+    "code2": "w_syen",
+    "value": 9,
+    "score": 0.84292
+  },
+  {
+    "code1": "w_sadm",
+    "code2": "w_sysa",
+    "value": 8,
+    "score": 0.832685
+  },
+  {
+    "code1": "w_sadm",
+    "code2": "w_aadm",
+    "value": 7,
+    "score": 0.823067
+  },
+  {
+    "code1": "w_sadm",
+    "code2": "w_proce",
+    "value": 6,
+    "score": 0.758941
+  },
+  {
+    "code1": "w_sadm",
+    "code2": "w_ar",
+    "value": 5,
+    "score": 0.745107
+  },
+  {
+    "code1": "w_sadm",
+    "code2": "w_dba",
+    "value": 4,
+    "score": 0.7285
+  },
+  {
+    "code1": "w_sadm",
+    "code2": "w_admin",
+    "value": 3,
+    "score": 0.709741
+  },
+  {
+    "code1": "w_sadm",
+    "code2": "w_faci",
+    "value": 2,
+    "score": 0.704289
+  },
+  {
+    "code1": "w_sadm",
+    "code2": "w_nwa",
+    "value": 1,
+    "score": 0.678873
+  },
+  {
+    "code1": "w_phys",
+    "code2": "w_phys",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_phys",
+    "code2": "w_doc",
+    "value": 9,
+    "score": 0.620973
+  },
+  {
+    "code1": "w_phys",
+    "code2": "w_natur",
+    "value": 8,
+    "score": 0.60814
+  },
+  {
+    "code1": "w_phys",
+    "code2": "w_scie",
+    "value": 7,
+    "score": 0.585484
+  },
+  {
+    "code1": "w_phys",
+    "code2": "w_math",
+    "value": 6,
+    "score": 0.583424
+  },
+  {
+    "code1": "w_phys",
+    "code2": "w_chem",
+    "value": 5,
+    "score": 0.579331
+  },
+  {
+    "code1": "w_phys",
+    "code2": "w_statics",
+    "value": 4,
+    "score": 0.519768
+  },
+  {
+    "code1": "w_phys",
+    "code2": "w_bio",
+    "value": 3,
+    "score": 0.512548
+  },
+  {
+    "code1": "w_phys",
+    "code2": "w_medte",
+    "value": 2,
+    "score": 0.511059
+  },
+  {
+    "code1": "w_phys",
+    "code2": "w_whuni",
+    "value": 1,
+    "score": 0.506013
+  },
+  {
+    "code1": "w_onlma",
+    "code2": "w_onlma",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_onlma",
+    "code2": "w_mark",
+    "value": 9,
+    "score": 0.784942
+  },
+  {
+    "code1": "w_onlma",
+    "code2": "w_adve",
+    "value": 8,
+    "score": 0.713355
+  },
+  {
+    "code1": "w_onlma",
+    "code2": "w_illumi",
+    "value": 7,
+    "score": 0.675222
+  },
+  {
+    "code1": "w_onlma",
+    "code2": "w_sama",
+    "value": 6,
+    "score": 0.660597
+  },
+  {
+    "code1": "w_onlma",
+    "code2": "w_sale",
+    "value": 5,
+    "score": 0.657929
+  },
+  {
+    "code1": "w_onlma",
+    "code2": "w_ebus",
+    "value": 4,
+    "score": 0.640455
+  },
+  {
+    "code1": "w_onlma",
+    "code2": "w_comm",
+    "value": 3,
+    "score": 0.615295
+  },
+  {
+    "code1": "w_onlma",
+    "code2": "w_retai",
+    "value": 2,
+    "score": 0.614733
+  },
+  {
+    "code1": "w_onlma",
+    "code2": "w_safo",
+    "value": 1,
+    "score": 0.614688
+  },
+  {
+    "code1": "w_cust",
+    "code2": "w_cust",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_cust",
+    "code2": "w_sain",
+    "value": 9,
+    "score": 0.818915
+  },
+  {
+    "code1": "w_cust",
+    "code2": "w_safo",
+    "value": 8,
+    "score": 0.818061
+  },
+  {
+    "code1": "w_cust",
+    "code2": "w_deli",
+    "value": 7,
+    "score": 0.801718
+  },
+  {
+    "code1": "w_cust",
+    "code2": "w_sete",
+    "value": 6,
+    "score": 0.7789
+  },
+  {
+    "code1": "w_cust",
+    "code2": "w_whkus",
+    "value": 5,
+    "score": 0.734343
+  },
+  {
+    "code1": "w_cust",
+    "code2": "w_sale",
+    "value": 4,
+    "score": 0.731055
+  },
+  {
+    "code1": "w_cust",
+    "code2": "w_home",
+    "value": 3,
+    "score": 0.723149
+  },
+  {
+    "code1": "w_cust",
+    "code2": "w_sama",
+    "value": 2,
+    "score": 0.72223
+  },
+  {
+    "code1": "w_cust",
+    "code2": "w_prod",
+    "value": 1,
+    "score": 0.703458
+  },
+  {
+    "code1": "w_aana",
+    "code2": "w_aana",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_aana",
+    "code2": "w_aadm",
+    "value": 9,
+    "score": 0.868849
+  },
+  {
+    "code1": "w_aana",
+    "code2": "w_maint",
+    "value": 8,
+    "score": 0.843171
+  },
+  {
+    "code1": "w_aana",
+    "code2": "w_swe",
+    "value": 7,
+    "score": 0.709808
+  },
+  {
+    "code1": "w_aana",
+    "code2": "w_sysa",
+    "value": 6,
+    "score": 0.701175
+  },
+  {
+    "code1": "w_aana",
+    "code2": "w_seng",
+    "value": 5,
+    "score": 0.698513
+  },
+  {
+    "code1": "w_aana",
+    "code2": "w_ana",
+    "value": 4,
+    "score": 0.68517
+  },
+  {
+    "code1": "w_aana",
+    "code2": "w_proce",
+    "value": 3,
+    "score": 0.644197
+  },
+  {
+    "code1": "w_aana",
+    "code2": "w_ar",
+    "value": 2,
+    "score": 0.640639
+  },
+  {
+    "code1": "w_aana",
+    "code2": "w_sadm",
+    "value": 1,
+    "score": 0.638959
+  },
+  {
+    "code1": "w_publ",
+    "code2": "w_publ",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_publ",
+    "code2": "w_bibl",
+    "value": 9,
+    "score": 0.74497
+  },
+  {
+    "code1": "w_publ",
+    "code2": "w_edito",
+    "value": 8,
+    "score": 0.659824
+  },
+  {
+    "code1": "w_publ",
+    "code2": "w_illumi",
+    "value": 7,
+    "score": 0.6569
+  },
+  {
+    "code1": "w_publ",
+    "code2": "w_sale",
+    "value": 6,
+    "score": 0.655515
+  },
+  {
+    "code1": "w_publ",
+    "code2": "w_org",
+    "value": 5,
+    "score": 0.638722
+  },
+  {
+    "code1": "w_publ",
+    "code2": "w_book",
+    "value": 4,
+    "score": 0.638079
+  },
+  {
+    "code1": "w_publ",
+    "code2": "w_whuni",
+    "value": 3,
+    "score": 0.637218
+  },
+  {
+    "code1": "w_publ",
+    "code2": "w_ware",
+    "value": 2,
+    "score": 0.617945
+  },
+  {
+    "code1": "w_publ",
+    "code2": "w_jour",
+    "value": 1,
+    "score": 0.611716
+  },
+  {
+    "code1": "w_aadm",
+    "code2": "w_aadm",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_aadm",
+    "code2": "w_maint",
+    "value": 9,
+    "score": 0.872502
+  },
+  {
+    "code1": "w_aadm",
+    "code2": "w_aana",
+    "value": 8,
+    "score": 0.868849
+  },
+  {
+    "code1": "w_aadm",
+    "code2": "w_sadm",
+    "value": 7,
+    "score": 0.823067
+  },
+  {
+    "code1": "w_aadm",
+    "code2": "w_seng",
+    "value": 6,
+    "score": 0.733099
+  },
+  {
+    "code1": "w_aadm",
+    "code2": "w_proce",
+    "value": 5,
+    "score": 0.72979
+  },
+  {
+    "code1": "w_aadm",
+    "code2": "w_swe",
+    "value": 4,
+    "score": 0.727351
+  },
+  {
+    "code1": "w_aadm",
+    "code2": "w_dba",
+    "value": 3,
+    "score": 0.726479
+  },
+  {
+    "code1": "w_aadm",
+    "code2": "w_admin",
+    "value": 2,
+    "score": 0.715528
+  },
+  {
+    "code1": "w_aadm",
+    "code2": "w_ar",
+    "value": 1,
+    "score": 0.682757
+  },
+  {
+    "code1": "w_tool",
+    "code2": "w_tool",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_tool",
+    "code2": "w_mash",
+    "value": 9,
+    "score": 0.735404
+  },
+  {
+    "code1": "w_tool",
+    "code2": "w_metal",
+    "value": 8,
+    "score": 0.690024
+  },
+  {
+    "code1": "w_tool",
+    "code2": "w_autom",
+    "value": 7,
+    "score": 0.689191
+  },
+  {
+    "code1": "w_tool",
+    "code2": "w_cad",
+    "value": 6,
+    "score": 0.669565
+  },
+  {
+    "code1": "w_tool",
+    "code2": "w_faben",
+    "value": 5,
+    "score": 0.664558
+  },
+  {
+    "code1": "w_tool",
+    "code2": "w_wood",
+    "value": 4,
+    "score": 0.642141
+  },
+  {
+    "code1": "w_tool",
+    "code2": "w_tred",
+    "value": 3,
+    "score": 0.636447
+  },
+  {
+    "code1": "w_tool",
+    "code2": "w_craft",
+    "value": 2,
+    "score": 0.620837
+  },
+  {
+    "code1": "w_tool",
+    "code2": "w_hw",
+    "value": 1,
+    "score": 0.615111
+  },
+  {
+    "code1": "w_immo",
+    "code2": "w_immo",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_immo",
+    "code2": "w_house",
+    "value": 9,
+    "score": 0.846259
+  },
+  {
+    "code1": "w_immo",
+    "code2": "w_room",
+    "value": 8,
+    "score": 0.61402
+  },
+  {
+    "code1": "w_immo",
+    "code2": "w_asset",
+    "value": 7,
+    "score": 0.607463
+  },
+  {
+    "code1": "w_immo",
+    "code2": "w_propur",
+    "value": 6,
+    "score": 0.607314
+  },
+  {
+    "code1": "w_immo",
+    "code2": "w_inves",
+    "value": 5,
+    "score": 0.589589
+  },
+  {
+    "code1": "w_immo",
+    "code2": "w_street",
+    "value": 4,
+    "score": 0.577562
+  },
+  {
+    "code1": "w_immo",
+    "code2": "w_purch",
+    "value": 3,
+    "score": 0.553968
+  },
+  {
+    "code1": "w_immo",
+    "code2": "w_sale",
+    "value": 2,
+    "score": 0.552609
+  },
+  {
+    "code1": "w_immo",
+    "code2": "w_const",
+    "value": 1,
+    "score": 0.551586
+  },
+  {
+    "code1": "w_const",
+    "code2": "w_const",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_const",
+    "code2": "w_civil",
+    "value": 9,
+    "score": 0.848253
+  },
+  {
+    "code1": "w_const",
+    "code2": "w_archi",
+    "value": 8,
+    "score": 0.759787
+  },
+  {
+    "code1": "w_const",
+    "code2": "w_desig",
+    "value": 7,
+    "score": 0.745841
+  },
+  {
+    "code1": "w_const",
+    "code2": "w_plant",
+    "value": 6,
+    "score": 0.735215
+  },
+  {
+    "code1": "w_const",
+    "code2": "w_statics",
+    "value": 5,
+    "score": 0.714507
+  },
+  {
+    "code1": "w_const",
+    "code2": "w_mate",
+    "value": 4,
+    "score": 0.69221
+  },
+  {
+    "code1": "w_const",
+    "code2": "w_craft",
+    "value": 3,
+    "score": 0.689872
+  },
+  {
+    "code1": "w_const",
+    "code2": "w_faci",
+    "value": 2,
+    "score": 0.683172
+  },
+  {
+    "code1": "w_const",
+    "code2": "w_fabr",
+    "value": 1,
+    "score": 0.671835
+  },
+  {
+    "code1": "w_qm",
+    "code2": "w_qm",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_qm",
+    "code2": "w_itqm",
+    "value": 9,
+    "score": 0.841287
+  },
+  {
+    "code1": "w_qm",
+    "code2": "w_audit",
+    "value": 8,
+    "score": 0.637805
+  },
+  {
+    "code1": "w_qm",
+    "code2": "w_prod",
+    "value": 7,
+    "score": 0.62426
+  },
+  {
+    "code1": "w_qm",
+    "code2": "w_proce",
+    "value": 6,
+    "score": 0.609117
+  },
+  {
+    "code1": "w_qm",
+    "code2": "w_safety",
+    "value": 5,
+    "score": 0.562507
+  },
+  {
+    "code1": "w_qm",
+    "code2": "w_techpur",
+    "value": 4,
+    "score": 0.561775
+  },
+  {
+    "code1": "w_qm",
+    "code2": "w_riskm",
+    "value": 3,
+    "score": 0.560415
+  },
+  {
+    "code1": "w_qm",
+    "code2": "w_busi",
+    "value": 2,
+    "score": 0.559663
+  },
+  {
+    "code1": "w_qm",
+    "code2": "w_ana",
+    "value": 1,
+    "score": 0.556295
+  },
+  {
+    "code1": "w_graph",
+    "code2": "w_graph",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_graph",
+    "code2": "w_web",
+    "value": 9,
+    "score": 0.754265
+  },
+  {
+    "code1": "w_graph",
+    "code2": "w_cad",
+    "value": 8,
+    "score": 0.734801
+  },
+  {
+    "code1": "w_graph",
+    "code2": "w_desig",
+    "value": 7,
+    "score": 0.725288
+  },
+  {
+    "code1": "w_graph",
+    "code2": "w_room",
+    "value": 6,
+    "score": 0.624618
+  },
+  {
+    "code1": "w_graph",
+    "code2": "w_modes",
+    "value": 5,
+    "score": 0.597395
+  },
+  {
+    "code1": "w_graph",
+    "code2": "w_const",
+    "value": 4,
+    "score": 0.587124
+  },
+  {
+    "code1": "w_graph",
+    "code2": "w_phot",
+    "value": 3,
+    "score": 0.570422
+  },
+  {
+    "code1": "w_graph",
+    "code2": "w_synth",
+    "value": 2,
+    "score": 0.561572
+  },
+  {
+    "code1": "w_graph",
+    "code2": "w_craft",
+    "value": 1,
+    "score": 0.552773
+  },
+  {
+    "code1": "w_waste",
+    "code2": "w_waste",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_waste",
+    "code2": "w_faci",
+    "value": 9,
+    "score": 0.650082
+  },
+  {
+    "code1": "w_waste",
+    "code2": "w_plant",
+    "value": 8,
+    "score": 0.602287
+  },
+  {
+    "code1": "w_waste",
+    "code2": "w_envir",
+    "value": 7,
+    "score": 0.599221
+  },
+  {
+    "code1": "w_waste",
+    "code2": "w_proce",
+    "value": 6,
+    "score": 0.58804
+  },
+  {
+    "code1": "w_waste",
+    "code2": "w_pm",
+    "value": 5,
+    "score": 0.585241
+  },
+  {
+    "code1": "w_waste",
+    "code2": "w_synth",
+    "value": 4,
+    "score": 0.576542
+  },
+  {
+    "code1": "w_waste",
+    "code2": "w_clean",
+    "value": 3,
+    "score": 0.561919
+  },
+  {
+    "code1": "w_waste",
+    "code2": "w_house",
+    "value": 2,
+    "score": 0.561573
+  },
+  {
+    "code1": "w_waste",
+    "code2": "w_const",
+    "value": 1,
+    "score": 0.551768
+  },
+  {
+    "code1": "w_music",
+    "code2": "w_music",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_music",
+    "code2": "w_hand",
+    "value": 9,
+    "score": 0.678213
+  },
+  {
+    "code1": "w_music",
+    "code2": "w_film",
+    "value": 8,
+    "score": 0.639995
+  },
+  {
+    "code1": "w_music",
+    "code2": "w_stage",
+    "value": 7,
+    "score": 0.601358
+  },
+  {
+    "code1": "w_music",
+    "code2": "w_muse",
+    "value": 6,
+    "score": 0.517805
+  },
+  {
+    "code1": "w_music",
+    "code2": "w_room",
+    "value": 5,
+    "score": 0.484254
+  },
+  {
+    "code1": "w_music",
+    "code2": "w_modes",
+    "value": 4,
+    "score": 0.447801
+  },
+  {
+    "code1": "w_music",
+    "code2": "w_ther",
+    "value": 3,
+    "score": 0.442129
+  },
+  {
+    "code1": "w_music",
+    "code2": "w_auto",
+    "value": 2,
+    "score": 0.434362
+  },
+  {
+    "code1": "w_music",
+    "code2": "w_sport",
+    "value": 1,
+    "score": 0.424261
+  },
+  {
+    "code1": "w_plant",
+    "code2": "w_plant",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_plant",
+    "code2": "w_civil",
+    "value": 9,
+    "score": 0.774932
+  },
+  {
+    "code1": "w_plant",
+    "code2": "w_const",
+    "value": 8,
+    "score": 0.735215
+  },
+  {
+    "code1": "w_plant",
+    "code2": "w_faci",
+    "value": 7,
+    "score": 0.710838
+  },
+  {
+    "code1": "w_plant",
+    "code2": "w_energ",
+    "value": 6,
+    "score": 0.703857
+  },
+  {
+    "code1": "w_plant",
+    "code2": "w_fabr",
+    "value": 5,
+    "score": 0.683212
+  },
+  {
+    "code1": "w_plant",
+    "code2": "w_syen",
+    "value": 4,
+    "score": 0.681758
+  },
+  {
+    "code1": "w_plant",
+    "code2": "w_desig",
+    "value": 3,
+    "score": 0.675791
+  },
+  {
+    "code1": "w_plant",
+    "code2": "w_techpur",
+    "value": 2,
+    "score": 0.657705
+  },
+  {
+    "code1": "w_plant",
+    "code2": "w_mash",
+    "value": 1,
+    "score": 0.656214
+  },
+  {
+    "code1": "w_sport",
+    "code2": "w_sport",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_sport",
+    "code2": "w_mark",
+    "value": 9,
+    "score": 0.525394
+  },
+  {
+    "code1": "w_sport",
+    "code2": "w_auto",
+    "value": 8,
+    "score": 0.506384
+  },
+  {
+    "code1": "w_sport",
+    "code2": "w_lab",
+    "value": 7,
+    "score": 0.492918
+  },
+  {
+    "code1": "w_sport",
+    "code2": "w_adve",
+    "value": 6,
+    "score": 0.489392
+  },
+  {
+    "code1": "w_sport",
+    "code2": "w_event",
+    "value": 5,
+    "score": 0.486062
+  },
+  {
+    "code1": "w_sport",
+    "code2": "w_doc",
+    "value": 4,
+    "score": 0.475424
+  },
+  {
+    "code1": "w_sport",
+    "code2": "w_math",
+    "value": 3,
+    "score": 0.473739
+  },
+  {
+    "code1": "w_sport",
+    "code2": "w_ebus",
+    "value": 2,
+    "score": 0.471375
+  },
+  {
+    "code1": "w_sport",
+    "code2": "w_pr",
+    "value": 1,
+    "score": 0.46981
+  },
+  {
+    "code1": "w_emb",
+    "code2": "w_emb",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_emb",
+    "code2": "w_hw",
+    "value": 9,
+    "score": 0.760856
+  },
+  {
+    "code1": "w_emb",
+    "code2": "w_ar",
+    "value": 8,
+    "score": 0.760467
+  },
+  {
+    "code1": "w_emb",
+    "code2": "w_swe",
+    "value": 7,
+    "score": 0.736202
+  },
+  {
+    "code1": "w_emb",
+    "code2": "w_seng",
+    "value": 6,
+    "score": 0.723463
+  },
+  {
+    "code1": "w_emb",
+    "code2": "w_syen",
+    "value": 5,
+    "score": 0.703299
+  },
+  {
+    "code1": "w_emb",
+    "code2": "w_maint",
+    "value": 4,
+    "score": 0.637954
+  },
+  {
+    "code1": "w_emb",
+    "code2": "w_aana",
+    "value": 3,
+    "score": 0.630151
+  },
+  {
+    "code1": "w_emb",
+    "code2": "w_cc",
+    "value": 2,
+    "score": 0.628327
+  },
+  {
+    "code1": "w_emb",
+    "code2": "w_elec",
+    "value": 1,
+    "score": 0.625431
+  },
+  {
+    "code1": "w_bibl",
+    "code2": "w_bibl",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_bibl",
+    "code2": "w_publ",
+    "value": 9,
+    "score": 0.74497
+  },
+  {
+    "code1": "w_bibl",
+    "code2": "w_whuni",
+    "value": 8,
+    "score": 0.643108
+  },
+  {
+    "code1": "w_bibl",
+    "code2": "w_book",
+    "value": 7,
+    "score": 0.5941
+  },
+  {
+    "code1": "w_bibl",
+    "code2": "w_bank",
+    "value": 6,
+    "score": 0.582072
+  },
+  {
+    "code1": "w_bibl",
+    "code2": "w_notar",
+    "value": 5,
+    "score": 0.57219
+  },
+  {
+    "code1": "w_bibl",
+    "code2": "w_advoc",
+    "value": 4,
+    "score": 0.525789
+  },
+  {
+    "code1": "w_bibl",
+    "code2": "w_arch",
+    "value": 3,
+    "score": 0.52294
+  },
+  {
+    "code1": "w_bibl",
+    "code2": "w_muse",
+    "value": 2,
+    "score": 0.522728
+  },
+  {
+    "code1": "w_bibl",
+    "code2": "w_hist",
+    "value": 1,
+    "score": 0.52169
+  },
+  {
+    "code1": "w_busan",
+    "code2": "w_busan",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_busan",
+    "code2": "w_ana",
+    "value": 9,
+    "score": 0.808673
+  },
+  {
+    "code1": "w_busan",
+    "code2": "w_busi",
+    "value": 8,
+    "score": 0.779927
+  },
+  {
+    "code1": "w_busan",
+    "code2": "w_rese",
+    "value": 7,
+    "score": 0.748199
+  },
+  {
+    "code1": "w_busan",
+    "code2": "w_inves",
+    "value": 6,
+    "score": 0.713047
+  },
+  {
+    "code1": "w_busan",
+    "code2": "w_prod",
+    "value": 5,
+    "score": 0.690711
+  },
+  {
+    "code1": "w_busan",
+    "code2": "w_sama",
+    "value": 4,
+    "score": 0.673217
+  },
+  {
+    "code1": "w_busan",
+    "code2": "w_pm",
+    "value": 3,
+    "score": 0.663845
+  },
+  {
+    "code1": "w_busan",
+    "code2": "w_ebus",
+    "value": 2,
+    "score": 0.661662
+  },
+  {
+    "code1": "w_busan",
+    "code2": "w_scm",
+    "value": 1,
+    "score": 0.661349
+  },
+  {
+    "code1": "w_relig",
+    "code2": "w_relig",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_relig",
+    "code2": "w_bestatt",
+    "value": 9,
+    "score": 0.457735
+  },
+  {
+    "code1": "w_relig",
+    "code2": "w_ther",
+    "value": 8,
+    "score": 0.453549
+  },
+  {
+    "code1": "w_relig",
+    "code2": "w_pers",
+    "value": 7,
+    "score": 0.452225
+  },
+  {
+    "code1": "w_relig",
+    "code2": "w_home",
+    "value": 6,
+    "score": 0.448198
+  },
+  {
+    "code1": "w_relig",
+    "code2": "w_soci",
+    "value": 5,
+    "score": 0.44245
+  },
+  {
+    "code1": "w_relig",
+    "code2": "w_munic",
+    "value": 4,
+    "score": 0.440569
+  },
+  {
+    "code1": "w_relig",
+    "code2": "w_anim",
+    "value": 3,
+    "score": 0.426973
+  },
+  {
+    "code1": "w_relig",
+    "code2": "w_advoc",
+    "value": 2,
+    "score": 0.425518
+  },
+  {
+    "code1": "w_relig",
+    "code2": "w_hrdev",
+    "value": 1,
+    "score": 0.414378
+  },
+  {
+    "code1": "w_sectr",
+    "code2": "w_sectr",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_sectr",
+    "code2": "w_asset",
+    "value": 9,
+    "score": 0.697166
+  },
+  {
+    "code1": "w_sectr",
+    "code2": "w_inves",
+    "value": 8,
+    "score": 0.653623
+  },
+  {
+    "code1": "w_sectr",
+    "code2": "w_riskm",
+    "value": 7,
+    "score": 0.653248
+  },
+  {
+    "code1": "w_sectr",
+    "code2": "w_keyacc",
+    "value": 6,
+    "score": 0.578336
+  },
+  {
+    "code1": "w_sectr",
+    "code2": "w_secu",
+    "value": 5,
+    "score": 0.568845
+  },
+  {
+    "code1": "w_sectr",
+    "code2": "w_ana",
+    "value": 4,
+    "score": 0.565141
+  },
+  {
+    "code1": "w_sectr",
+    "code2": "w_busi",
+    "value": 3,
+    "score": 0.561663
+  },
+  {
+    "code1": "w_sectr",
+    "code2": "w_audit",
+    "value": 2,
+    "score": 0.559919
+  },
+  {
+    "code1": "w_sectr",
+    "code2": "w_acco",
+    "value": 1,
+    "score": 0.557151
+  },
+  {
+    "code1": "w_mark",
+    "code2": "w_mark",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_mark",
+    "code2": "w_adve",
+    "value": 9,
+    "score": 0.88727
+  },
+  {
+    "code1": "w_mark",
+    "code2": "w_illumi",
+    "value": 8,
+    "score": 0.868073
+  },
+  {
+    "code1": "w_mark",
+    "code2": "w_sale",
+    "value": 7,
+    "score": 0.785302
+  },
+  {
+    "code1": "w_mark",
+    "code2": "w_onlma",
+    "value": 6,
+    "score": 0.784942
+  },
+  {
+    "code1": "w_mark",
+    "code2": "w_sama",
+    "value": 5,
+    "score": 0.774539
+  },
+  {
+    "code1": "w_mark",
+    "code2": "w_pr",
+    "value": 4,
+    "score": 0.741013
+  },
+  {
+    "code1": "w_mark",
+    "code2": "w_prod",
+    "value": 3,
+    "score": 0.73156
+  },
+  {
+    "code1": "w_mark",
+    "code2": "w_comm",
+    "value": 2,
+    "score": 0.719542
+  },
+  {
+    "code1": "w_mark",
+    "code2": "w_safo",
+    "value": 1,
+    "score": 0.713667
+  },
+  {
+    "code1": "w_anim",
+    "code2": "w_anim",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_anim",
+    "code2": "w_veter",
+    "value": 9,
+    "score": 0.72873
+  },
+  {
+    "code1": "w_anim",
+    "code2": "w_envir",
+    "value": 8,
+    "score": 0.599291
+  },
+  {
+    "code1": "w_anim",
+    "code2": "w_house",
+    "value": 7,
+    "score": 0.596178
+  },
+  {
+    "code1": "w_anim",
+    "code2": "w_agri",
+    "value": 6,
+    "score": 0.586977
+  },
+  {
+    "code1": "w_anim",
+    "code2": "w_faci",
+    "value": 5,
+    "score": 0.554495
+  },
+  {
+    "code1": "w_anim",
+    "code2": "w_nurse",
+    "value": 4,
+    "score": 0.534157
+  },
+  {
+    "code1": "w_anim",
+    "code2": "w_sadm",
+    "value": 3,
+    "score": 0.503022
+  },
+  {
+    "code1": "w_anim",
+    "code2": "w_proce",
+    "value": 2,
+    "score": 0.493591
+  },
+  {
+    "code1": "w_anim",
+    "code2": "w_pers",
+    "value": 1,
+    "score": 0.489803
+  },
+  {
+    "code1": "w_lab",
+    "code2": "w_lab",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_lab",
+    "code2": "w_soci",
+    "value": 9,
+    "score": 0.736492
+  },
+  {
+    "code1": "w_lab",
+    "code2": "w_train",
+    "value": 8,
+    "score": 0.642831
+  },
+  {
+    "code1": "w_lab",
+    "code2": "w_mash",
+    "value": 7,
+    "score": 0.620154
+  },
+  {
+    "code1": "w_lab",
+    "code2": "w_const",
+    "value": 6,
+    "score": 0.6196
+  },
+  {
+    "code1": "w_lab",
+    "code2": "w_ware",
+    "value": 5,
+    "score": 0.608531
+  },
+  {
+    "code1": "w_lab",
+    "code2": "w_civil",
+    "value": 4,
+    "score": 0.607679
+  },
+  {
+    "code1": "w_lab",
+    "code2": "w_textil",
+    "value": 3,
+    "score": 0.601312
+  },
+  {
+    "code1": "w_lab",
+    "code2": "w_stone",
+    "value": 2,
+    "score": 0.597207
+  },
+  {
+    "code1": "w_lab",
+    "code2": "w_illumi",
+    "value": 1,
+    "score": 0.596861
+  },
+  {
+    "code1": "w_optic",
+    "code2": "w_optic",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_optic",
+    "code2": "w_phot",
+    "value": 9,
+    "score": 0.596544
+  },
+  {
+    "code1": "w_optic",
+    "code2": "w_stage",
+    "value": 8,
+    "score": 0.504189
+  },
+  {
+    "code1": "w_optic",
+    "code2": "w_hw",
+    "value": 7,
+    "score": 0.479255
+  },
+  {
+    "code1": "w_optic",
+    "code2": "w_web",
+    "value": 6,
+    "score": 0.474618
+  },
+  {
+    "code1": "w_optic",
+    "code2": "w_medte",
+    "value": 5,
+    "score": 0.470887
+  },
+  {
+    "code1": "w_optic",
+    "code2": "w_graph",
+    "value": 4,
+    "score": 0.469289
+  },
+  {
+    "code1": "w_optic",
+    "code2": "w_elec",
+    "value": 3,
+    "score": 0.465584
+  },
+  {
+    "code1": "w_optic",
+    "code2": "w_phys",
+    "value": 2,
+    "score": 0.463721
+  },
+  {
+    "code1": "w_optic",
+    "code2": "w_tele",
+    "value": 1,
+    "score": 0.441609
+  },
+  {
+    "code1": "w_textil",
+    "code2": "w_textil",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_textil",
+    "code2": "w_fabr",
+    "value": 9,
+    "score": 0.784884
+  },
+  {
+    "code1": "w_textil",
+    "code2": "w_ware",
+    "value": 8,
+    "score": 0.647698
+  },
+  {
+    "code1": "w_textil",
+    "code2": "w_desig",
+    "value": 7,
+    "score": 0.645903
+  },
+  {
+    "code1": "w_textil",
+    "code2": "w_modes",
+    "value": 6,
+    "score": 0.606827
+  },
+  {
+    "code1": "w_textil",
+    "code2": "w_food",
+    "value": 5,
+    "score": 0.604778
+  },
+  {
+    "code1": "w_textil",
+    "code2": "w_lab",
+    "value": 4,
+    "score": 0.601312
+  },
+  {
+    "code1": "w_textil",
+    "code2": "w_illumi",
+    "value": 3,
+    "score": 0.600189
+  },
+  {
+    "code1": "w_textil",
+    "code2": "w_synth",
+    "value": 2,
+    "score": 0.587571
+  },
+  {
+    "code1": "w_textil",
+    "code2": "w_techpur",
+    "value": 1,
+    "score": 0.585374
+  },
+  {
+    "code1": "w_acco",
+    "code2": "w_acco",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_acco",
+    "code2": "w_audit",
+    "value": 9,
+    "score": 0.852434
+  },
+  {
+    "code1": "w_acco",
+    "code2": "w_book",
+    "value": 8,
+    "score": 0.808822
+  },
+  {
+    "code1": "w_acco",
+    "code2": "w_asset",
+    "value": 7,
+    "score": 0.705355
+  },
+  {
+    "code1": "w_acco",
+    "code2": "w_keyacc",
+    "value": 6,
+    "score": 0.701812
+  },
+  {
+    "code1": "w_acco",
+    "code2": "w_tax",
+    "value": 5,
+    "score": 0.699444
+  },
+  {
+    "code1": "w_acco",
+    "code2": "w_ana",
+    "value": 4,
+    "score": 0.688166
+  },
+  {
+    "code1": "w_acco",
+    "code2": "w_busi",
+    "value": 3,
+    "score": 0.685871
+  },
+  {
+    "code1": "w_acco",
+    "code2": "w_admin",
+    "value": 2,
+    "score": 0.673203
+  },
+  {
+    "code1": "w_acco",
+    "code2": "w_inves",
+    "value": 1,
+    "score": 0.670077
+  },
+  {
+    "code1": "w_itcon",
+    "code2": "w_itcon",
+    "value": 10,
+    "score": 1.0
+  },
+  {
+    "code1": "w_itcon",
+    "code2": "w_con",
+    "value": 9,
+    "score": 0.834415
+  },
+  {
+    "code1": "w_itcon",
+    "code2": "w_itpm",
+    "value": 8,
+    "score": 0.776422
+  },
+  {
+    "code1": "w_itcon",
+    "code2": "w_pera",
+    "value": 7,
+    "score": 0.735261
+  },
+  {
+    "code1": "w_itcon",
+    "code2": "w_busi",
+    "value": 6,
+    "score": 0.694046
+  },
+  {
+    "code1": "w_itcon",
+    "code2": "w_itqm",
+    "value": 5,
+    "score": 0.68473
+  },
+  {
+    "code1": "w_itcon",
+    "code2": "w_info",
+    "value": 4,
+    "score": 0.655099
+  },
+  {
+    "code1": "w_itcon",
+    "code2": "w_cust",
+    "value": 3,
+    "score": 0.645022
+  },
+  {
+    "code1": "w_itcon",
+    "code2": "w_sete",
+    "value": 2,
+    "score": 0.625394
+  },
+  {
+    "code1": "w_itcon",
+    "code2": "w_comm",
+    "value": 1,
+    "score": 0.621704
+  }
+]
