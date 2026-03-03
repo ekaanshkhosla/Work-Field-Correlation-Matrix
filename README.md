@@ -87,5 +87,3 @@ After running, the file
 correlation_matrix.json
 
 will be generated
-
----
