@@ -11,7 +11,7 @@ danube.ai maintains a curated catalogue of 180 occupational work fields used acr
 - `generate_matrix.ipynb` — notebook used to compute and export the matrix
 - `correlation_matrix.json` — generated output
 - `requirements.txt` — dependencies
-- `Explanation for adding duplicates.pdf` — explanation for why both directions appear in the output
+- `Explanation for adding duplicates.pdf` — explanation why I added duplicates in the output
 - `README.md` — description and usage
 
 ---
