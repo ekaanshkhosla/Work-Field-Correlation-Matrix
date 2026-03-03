@@ -11,9 +11,10 @@ for downstream consumption.
 
 ## Repository Contents
 - `work_fields.json` — input data (original, unmodified)
-- `generate_matrix.py` (or `generate_matrix.ipynb`) — script/notebook to compute and export the matrix
+- `generate_matrix.ipynb` — notebook to compute and export the matrix
 - `correlation_matrix.json` — generated output (upper triangle + diagonal)
-- `README.md` — this document
+- `requirements.txt` — Requirements
+- `README.md` — Description
 
 ---
 
