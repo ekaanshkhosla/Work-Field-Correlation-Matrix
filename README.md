@@ -86,37 +86,6 @@ After running, the file
 
 correlation_matrix.json
 
-will be generated in the project root.
+will be generated
 
 ---
-
-## Output Format
-
-Example entry:
-
-{
-  "code1": "w_tele",
-  "code2": "w_sale",
-  "value": 9,
-  "score": 0.8123
-}
-
-Field description:
-
-- `code1`: source work field (`correlationMatrixId`)
-- `code2`: one of the top-10 most similar work fields
-- `value`: integer rank **10..1** (10 = most similar)
-- `score`: cosine similarity rounded to **6 decimal places**
-
----
-
-## Determinism / Reproducibility
-
-- Output is deterministic given the same input and environment.
-- `work_fields.json` is not modified.
-- Scores are rounded to keep results stable and readable.
-
----
-
-## License / Use
-This repository is intended for candidate assessment submission and local evaluation.
