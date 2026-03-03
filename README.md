@@ -64,27 +64,44 @@ This design makes it easy to retrieve the **top related work fields for any give
 
 ## How to Run (Conda)
 
-### 1) Create and activate an environment
+### 1) Clone the repository
 
+```bash
+git clone https://github.com/ekaanshkhosla/Work-Field-Correlation-Matrix.git
+cd Work-Field-Correlation-Matrix
 ```
+
+### 2) Create and activate an environment
+
+```bash
 conda create -n danube-corr python=3.11 -y
 conda activate danube-corr
-````
+```
 
-### 2) Install dependencies
+### 3) Install dependencies
 
-````
+```bash
 pip install -r requirements.txt
-````
+```
 
+### 4) Run the generator
 
-### 3) Run the generator
+Open the notebook and run all cells:
 
-run all cells in `generate_matrix.ipynb`.
+```
+generate_matrix.ipynb
+```
 
-### 4) Output
-After running, the file
+or start Jupyter with:
 
+```bash
+jupyter notebook
+```
+
+### 5) Output
+
+After running the notebook, the following file will be generated:
+
+```
 correlation_matrix.json
-
-will be generated
+```
