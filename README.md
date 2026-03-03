@@ -5,12 +5,6 @@ Create a meaningful correlation matrix for danube.ai’s catalogue of **180 occu
 Each work field contains German and English labels and a unique `correlationMatrixId`.
 The goal is to compute **pairwise similarity** between work fields and export a **JSON array of matrix cells** that:
 
-- uses **`correlationMatrixId`** as the identifier (not `code`)
-- is **symmetric** (store only upper triangle + diagonal)
-- is **sparse** (keep only top-10 most similar fields per work field; optionally drop very low similarities via a threshold)
-- includes **diagonal identity** entries (`code1 == code2`) with `value = 10`
-- stores `value` as an **integer rank** from **10 (most similar)** down to **1 (least similar among the top-10)**  
-  (optional: include raw similarity as `score`)
 
 ---
 
