@@ -1,106 +1,120 @@
+
 # Work Field Correlation Matrix
 
 ## Background & Objective
-danube.ai maintains a curated catalogue of 180 occupational work fields used across its matching and recommendation
-platform. Each field carries a short code and both German and English labels. Your task is to derive a meaningful
-correlation matrix over these fields, quantifying how similar any two fields are, and export it as a structured JSON file ready
-for downstream consumption.
-
+danube.ai maintains a curated catalogue of 180 occupational work fields used across its matching and recommendation platform. Each field carries a short code and both German and English labels. This repository generates a similarity-based correlation matrix over these fields and exports it as a JSON file for downstream consumption.
 
 ---
 
 ## Repository Contents
 - `work_fields.json` — input data (original, unmodified)
-- `generate_matrix.ipynb` — notebook to compute and export the matrix
+- `generate_matrix.ipynb` — notebook used to compute and export the matrix
 - `correlation_matrix.json` — generated output
-- `requirements.txt` — Requirements
-- `Explanation for adding duplicates.pdf` — Explanation for adding duplicates in solution
-- `README.md` — Description
+- `requirements.txt` — dependencies
+- `Explanation for adding duplicates.pdf` — explanation for why both directions appear in the output
+- `README.md` — description and usage
 
 ---
 
-## Methodology (high level)
-This repository computes a similarity score between work fields based on their labels, then converts similarities into ranks.
+## Methodology (Implemented)
+This solution computes text embeddings for each work field label (German + English), calculates cosine similarities, and exports the **top-10 most similar** fields per work field.
 
-A typical approach is:
-1. Build a text representation for each work field, e.g.  
-   `"{nameDe} (DE), {nameEn} (EN)"`
-2. Embed texts into vector representations (e.g., Sentence Transformers).
-3. Compute pairwise cosine similarity.
-4. For each work field:
-   - keep the **top-10** most similar (excluding itself for ranking; self is always added back with rank 10)
-   - map the ordered list into integer ranks **10..1**
-5. Enforce symmetry by **storing only one direction** (upper triangle) in the output JSON.
+### 1) Text representation
+For each entry, a combined text is created:
 
-The detailed choices (model, threshold, text preprocessing, and ranking rules) should be documented in the comments of `generate_matrix.py` and/or in an additional “Methodology” section if you expand this README.
+"{nameDe} (DE), {nameEn} (EN)"
+
+This keeps both languages and explicitly tags them.
+
+### 2) Embeddings model
+Embeddings are produced using Sentence Transformers:
+
+- Model: `sentence-transformers/paraphrase-multilingual-mpnet-base-v2`
+- Encoding: `normalize_embeddings=True` (so cosine similarity behaves consistently)
+
+### 3) Similarity computation
+A full pairwise cosine similarity matrix is computed:
+
+sim_matrix = cosine_similarity(embeddings).astype(np.float64)
+
+The float64 cast avoids serialization issues later and keeps scores stable.
+
+### 4) Top-K selection and ranking
+For each work field `code1`:
+
+- take `top_k = 10` indices by descending similarity (`np.argsort(sims)[::-1][:top_k]`)
+- self-similarity is included (the field typically appears with score ≈ 1.0)
+- assign integer rank values from **10 down to 1**:
+  - `value = 10` for the most similar
+  - `value = 1` for the 10th most similar
+
+### 5) Output rows (duplicates by design)
+The output stores one top-10 list per work field, meaning the JSON contains:
+
+- exactly `n * 10` rows (for 180 fields → 1800 rows)
+- entries can appear in both directions, e.g.:
+  - (A → B) and (B → A)
+
+This design makes it easy to retrieve the **top related work fields for any given field directly**.
 
 ---
 
 ## How to Run (Conda)
 
 ### 1) Create and activate an environment
-```bash
+
 conda create -n danube-corr python=3.11 -y
 conda activate danube-corr
-```
 
 ### 2) Install dependencies
-If you have a `requirements.txt`:
-```bash
+
 pip install -r requirements.txt
-```
 
-If you don’t, a common minimal setup for an embeddings-based solution is:
-```bash
-pip install numpy scikit-learn sentence-transformers
-```
+(Optional if using notebook)
 
-(Optional, only if you run a notebook)
-```bash
 pip install notebook ipykernel
 python -m ipykernel install --user --name danube-corr --display-name "Python (danube-corr)"
-```
 
 ### 3) Run the generator
-```bash
+
 python generate_matrix.py
-```
+
+or run all cells in `generate_matrix.ipynb`.
 
 ### 4) Output
-After running, you should see:
-- `correlation_matrix.json` created/updated in the project root.
+After running, the file
+
+correlation_matrix.json
+
+will be generated in the project root.
 
 ---
 
 ## Output Format
-`correlation_matrix.json` is a JSON array where each entry looks like:
 
-```json
+Example entry:
+
 {
   "code1": "w_tele",
   "code2": "w_sale",
   "value": 9,
   "score": 0.8123
 }
-```
 
-Notes:
-- Only **upper triangle + diagonal** should be stored (no duplicates).
-- `value` is the **rank** (10..1) within the top-10 neighborhood of `code1`.
-- `score` is optional but recommended for debugging and transparency.
+Field description:
 
----
-
-## Reproducibility Notes
-- If you use a model with stochastic behavior, set a random seed where applicable.
-- Ensure the output is deterministic given the same input and environment.
-- Keep `work_fields.json` unchanged.
+- `code1`: source work field (`correlationMatrixId`)
+- `code2`: one of the top-10 most similar work fields
+- `value`: integer rank **10..1** (10 = most similar)
+- `score`: cosine similarity rounded to **6 decimal places**
 
 ---
 
-## Troubleshooting
-- If you get slow runtime, ensure embeddings are computed once and similarity uses efficient matrix operations.
-- If you see non-serializable values in JSON, cast NumPy types to Python types (e.g., `float(score)` and `int(value)`).
+## Determinism / Reproducibility
+
+- Output is deterministic given the same input and environment.
+- `work_fields.json` is not modified.
+- Scores are rounded to keep results stable and readable.
 
 ---
 
